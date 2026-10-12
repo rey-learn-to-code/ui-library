@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" width="1600" height="900">
+<title>Day nui nhieu lop 1</title>
+<desc>Recolor: set the CSS variables bg-bg, bg-c1, bg-c2, bg-c3 (each prefixed with two hyphens) on the parent element when embedding the SVG inline; currentColor strokes follow the color property.</desc>
+<defs></defs>
+<rect width="100%" height="100%" style="fill:var(--bg-bg,#0f172a)"/>
+<path d="M0,900 L0,260 L267,279 L533,340 L800,272 L1067,358 L1333,287 L1600,256 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.25"/>
+<path d="M0,900 L0,432 L267,399 L533,381 L800,412 L1067,434 L1333,402 L1600,481 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.43"/>
+<path d="M0,900 L0,539 L267,587 L533,545 L800,515 L1067,555 L1333,585 L1600,561 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.61"/>
+<path d="M0,900 L0,703 L267,641 L533,643 L800,642 L1067,685 L1333,730 L1600,672 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.79"/>
+
+</svg>

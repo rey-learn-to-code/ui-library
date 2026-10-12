@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+__pycache__/
+
+# Download logs
+scripts/logs/
+
+# Large files that are NOT stored on GitHub — download them when needed (see SETUP.md)
+assets/font/google-fonts/repo/
+assets/3d-materials/*
+!assets/3d-materials/README.md
+!assets/3d-materials/*/
+assets/3d-materials/*/*
+!assets/3d-materials/*/index.json

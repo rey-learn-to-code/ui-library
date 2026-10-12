@@ -1,0 +1,22 @@
+# Kaya - Scroll-Driven Hotel and Retreat Template
+
+- Source: https://www.aura.build/templates/kaya
+- Category: Web
+- Tags: Hospitality, Hotel, Resort, Ryokan, Onsen, Spa, Wellness, Retreat, Travel, Japanese, WebGL, 3D, Scroll Animation, GSAP, Parallax, Editorial, Dark, Minimal, Animated, Luxury
+- Tier: Pro
+- Preview image/video (link only, not downloaded): https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/preview-images/kaya.png
+- live_preview: https://kaya.aura.build
+- type: html
+- views: 1261
+- creator: -
+- createdAt: 2026-09-11
+- License note: Templates made by the Aura community (operated by DESIGNCODE IO PTE. LTD.). Viewing/previewing is public; "Copy prompt"/"Use for Free"/code export need login; Pro needs a paid plan; Paid is sold separately. Only metadata + link are stored.
+- Collected on: 2026-10-09
+
+## Description (from the source page)
+
+A scroll-driven landing page for a Japanese onsen ryokan. Fly into a WebGL cherry-blossom canopy, then move through the water, the seasons, the rooms and a full day.
+
+## Prompt
+
+Login required: the "Copy prompt" button on Aura requires login (even for Free templates). Pro templates need a paid plan.

@@ -1,0 +1,22 @@
+# Raivat Luxury Real Estate Landing Page Template
+
+- Source: https://www.aura.build/templates/raivat-properties
+- Category: Mobile
+- Tags: Real Estate, Landing Page, Services, Clean, Dark, Portfolio, Minimal, Large Type
+- Tier: Free
+- Preview image/video (link only, not downloaded): https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/preview-images/raivat-properties.png?t=1777355907957
+- live_preview: https://raivat-properties.aura.build
+- type: html
+- views: 1268
+- creator: -
+- createdAt: 2026-04-09
+- License note: Templates made by the Aura community (operated by DESIGNCODE IO PTE. LTD.). Viewing/previewing is public; "Copy prompt"/"Use for Free"/code export need login; Pro needs a paid plan; Paid is sold separately. Only metadata + link are stored.
+- Collected on: 2026-10-09
+
+## Description (from the source page)
+
+A high-end editorial-style real estate template designed for luxury property listings and elite architectural portfolios.
+
+## Prompt
+
+Login required: the "Copy prompt" button on Aura requires login (even for Free templates).

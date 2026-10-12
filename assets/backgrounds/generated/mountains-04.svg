@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" width="1600" height="900">
+<title>Day nui nhieu lop 4</title>
+<desc>Recolor: set the CSS variables bg-bg, bg-c1, bg-c2, bg-c3 (each prefixed with two hyphens) on the parent element when embedding the SVG inline; currentColor strokes follow the color property.</desc>
+<defs></defs>
+<rect width="100%" height="100%" style="fill:var(--bg-bg,#0f172a)"/>
+<path d="M0,900 L0,266 L133,356 L267,327 L400,281 L533,349 L667,326 L800,354 L933,328 L1067,342 L1200,348 L1333,296 L1467,267 L1600,363 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.25"/>
+<path d="M0,900 L0,368 L133,421 L267,473 L400,396 L533,385 L667,400 L800,378 L933,444 L1067,390 L1200,363 L1333,425 L1467,385 L1600,375 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.43"/>
+<path d="M0,900 L0,455 L133,554 L267,498 L400,525 L533,511 L667,557 L800,461 L933,529 L1067,553 L1200,487 L1333,505 L1467,493 L1600,492 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.61"/>
+<path d="M0,900 L0,665 L133,579 L267,641 L400,557 L533,646 L667,562 L800,647 L933,560 L1067,578 L1200,584 L1333,586 L1467,645 L1600,613 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.79"/>
+<path d="M0,900 L0,656 L133,673 L267,701 L400,736 L533,728 L667,709 L800,748 L933,765 L1067,765 L1200,770 L1333,761 L1467,769 L1600,737 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.97"/>
+
+</svg>

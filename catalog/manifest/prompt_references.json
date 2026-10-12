@@ -1,0 +1,176 @@
+[
+ {
+  "url": "https://www.getlayers.ai/",
+  "status": "partial",
+  "local_path": "assets/prompt-templates/getlayers",
+  "license": "Proprietary (GetLayers/Textura); prompts need a paid plan or login; no scraping or redistributing the library",
+  "size": "2.5M",
+  "items": 552,
+  "notes": "Index of 552 layers (templates, 3D scenes, sections, backgrounds, gradients) with tags, Free/Premium tier and preview links. Prompt content is not public (login/payment needed); only 2 public setup prompts are saved.",
+  "usage": "Filter prompts-index.json by category/tags/tier, open the link, adjust settings on the site, then click \"Copy prompt\" (log in if needed) and paste it into Claude/Cursor."
+ },
+ {
+  "url": "https://motionsites.ai/",
+  "status": "partial",
+  "local_path": "assets/prompt-templates/motionsites",
+  "license": "Proprietary (MotionSites AI); prompts may be used in your own projects; no redistributing or bulk scraping",
+  "size": "2.5M",
+  "items": 561,
+  "notes": "Index of 561 templates (193 Free, 368 Premium) with direct links ?prompt=<slug>. Free items can be copied without login, but the terms forbid scraping, so only 1 sample prompt (wayfinder) is saved.",
+  "usage": "Filter tier=Free by category, open the link and click \"Copy full prompt\", paste it into AI, then swap in your brand/content/video; do not reshare prompts word for word."
+ },
+ {
+  "url": "https://www.aura.build/templates",
+  "status": "partial",
+  "local_path": "assets/prompt-templates/aura-build",
+  "license": "Community templates on Aura (DESIGNCODE IO); free to view, but copying prompts/remixing/exporting code needs login; Pro/Paid tiers cost money",
+  "size": "26M",
+  "items": 5667,
+  "notes": "Index of 5,667 public templates in the gallery (Free 4,952, Pro 582, Paid 133) with descriptions, tags, Web/Mobile/Animation categories, detail links and live previews at <slug>.aura.build. Copying prompts needs login, so prompt content is not included.",
+  "usage": "Find templates by tags/category in prompts-index.json, open the live preview to study the layout, then use the \"learn from a reference URL\" prompt in PROMPT_EXAMPLES.md or log in to Aura to remix."
+ },
+ {
+  "url": "https://land-book.com/",
+  "status": "link-only",
+  "local_path": "assets/layouts/land-book/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Curated website gallery updated daily, with Sections/Mobile/Motion/Headlines; only browsing notes and sample prompts are saved, no screenshots.",
+  "usage": "Filter by page type (Landing, Pricing, Product page...) to choose a layout, then paste the original website URL into the sample prompt in REFERENCE.md."
+ },
+ {
+  "url": "https://www.lapa.ninja/",
+  "status": "link-only",
+  "local_path": "assets/layouts/lapa-ninja/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Over 7,300 landing pages sorted by industry; full access to filters/history needs a paid plan. Only instructions and sample prompts are saved.",
+  "usage": "Click an industry tag that matches your project, open the original website, then use the sample prompt so AI learns the layout and builds a new page with your content."
+ },
+ {
+  "url": "https://www.curated.design/",
+  "status": "link-only",
+  "local_path": "assets/layouts/curated-design/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Website gallery by industry and style, with Sections/Templates; advanced filters are Pro. Only instructions and sample prompts are saved.",
+  "usage": "Browse by industry (AI, SaaS, Dev tools...) or search with ⌘K, pick a site, then put its URL into the sample prompt."
+ },
+ {
+  "url": "https://www.siteinspire.com/",
+  "status": "link-only",
+  "local_path": "assets/style-inspiration/siteinspire/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Website showcase focused on typography, minimalism and editorial design, with studio credits; filter by Styles/Types/Subjects/Platforms. Only instructions are saved.",
+  "usage": "Pick a style (Typographic, Minimal, Grid Layout...) to settle on a visual mood, then use the sample prompt so AI learns the style."
+ },
+ {
+  "url": "https://www.dark.design/",
+  "status": "link-only",
+  "local_path": "assets/style-inspiration/dark-design/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Gallery of dark-background websites, filtered by Agency/AI/Software/Web3... Only instructions and sample prompts are saved.",
+  "usage": "Pick a dark site you like, put its URL into the sample prompt and remind AI to check WCAG AA contrast."
+ },
+ {
+  "url": "https://mobbin.com/",
+  "status": "link-only",
+  "local_path": "assets/style-inspiration/mobbin/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "8.0K",
+  "items": null,
+  "notes": "Library of screens/user flows from real apps; the full library and MCP need a paid plan and an account. Not logged in; only instructions and a flow-learning prompt are saved.",
+  "usage": "Use your own account to view flows (onboarding, checkout, paywall), describe or screenshot them, then use the \"learn user flows\" prompt in REFERENCE.md."
+ },
+ {
+  "url": "https://codepen.io/",
+  "status": "link-only",
+  "local_path": "assets/effect-references/codepen/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "The largest library of HTML/CSS/JS Pens; public Pens are usually MIT, but check each one. Only instructions and an effect-learning prompt are saved.",
+  "usage": "Search by effect keyword, open a Pen to see its code and libraries, then use the sample prompt so AI rewrites it as a component for your project."
+ },
+ {
+  "url": "https://www.hoverstat.es/",
+  "status": "link-only",
+  "local_path": "assets/effect-references/hoverstat-es/REFERENCE.md",
+  "license": "Not applicable (links only; page content belongs to its owners)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Gallery of experimental websites focused on unique micro-interactions, with short descriptions and credits. Only instructions are saved.",
+  "usage": "Read the description to find where the effect is, try the original site, then describe it in words to AI using the sample prompt."
+ },
+ {
+  "url": "https://tympanus.net/codrops/",
+  "status": "partial",
+  "local_path": "assets/effect-references/codrops",
+  "license": "MIT (30 repos cloned, LICENSE checked); the demo list is links only",
+  "size": "76M",
+  "items": {
+   "demos_listed": 641,
+   "github_repos_listed": 347,
+   "repos_cloned": 30
+  },
+  "notes": "A list of 641 demos from Demos Hub (demo link, article, GitHub, tags), 347 github.com/codrops repos with licenses, and clones of the 30 most-starred MIT repos (images in demos may have their own credits).",
+  "usage": "See DEMOS.md to pick an effect, open repos/<Name>/index.html or run npm install && npm run dev, then ask AI to turn it into a React/GSAP component (keep the MIT notice)."
+ },
+ {
+  "url": "https://unsplash.com/",
+  "status": "link-only",
+  "local_path": "assets/photos-videos/GUIDE.md#1-unsplash",
+  "license": "Each site has its own license (see GUIDE.md); no bulk downloads",
+  "size": "12K",
+  "items": null,
+  "notes": "Free photos, including for commercial use; no credit required when downloading by hand; you may not sell unedited photos or build a competing service. The API requires hotlinking, credit with UTM, and calling download_location.",
+  "usage": "Find and download individual photos as needed, or get an Access Key at unsplash.com/developers (demo: 50 requests/hour) and call the API through a proxy server as described in GUIDE.md."
+ },
+ {
+  "url": "https://www.pexels.com/",
+  "status": "link-only",
+  "local_path": "assets/photos-videos/GUIDE.md#2-pexels",
+  "license": "Each site has its own license (see GUIDE.md); no bulk downloads",
+  "size": "12K",
+  "items": null,
+  "notes": "Free photos/videos, no credit required; you may not sell unedited copies, re-upload them to stock platforms or use them as trademarks. API: 200 requests/hour, 20,000/month, must link back to Pexels.",
+  "usage": "Download videos/photos by hand for the hero section, or get a free API key and call api.pexels.com/v1 with the line \"Photos provided by Pexels\"."
+ },
+ {
+  "url": "https://pixabay.com/",
+  "status": "link-only",
+  "local_path": "assets/photos-videos/GUIDE.md#3-pixabay",
+  "license": "Each site has its own license (see GUIDE.md); no bulk downloads",
+  "size": "12K",
+  "items": null,
+  "notes": "Free photos/videos/music, no credit needed; you may not sell them standalone or use content with logos commercially. API: 100 requests/minute, 24h cache, no permanent hotlinking or bulk downloads.",
+  "usage": "Search with lang=vi and download the chosen images to your own server; if you use the API, cache for 24 hours and clearly credit Pixabay."
+ },
+ {
+  "url": "https://coolors.co/",
+  "status": "link-only",
+  "local_path": "assets/colors/coolors/REFERENCE.md",
+  "license": "Not applicable (online tool; color codes are free to use)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Color palette generator (Space to generate, lock colors, Explore, export); the site has bot checks, so it was not re-verified directly. Only instructions and a prompt for turning colors into a theme are saved.",
+  "usage": "Generate/lock 5 colors, copy the HEX codes, then use the \"palette → shadcn/Tailwind theme\" prompt so AI creates CSS variables and dark mode."
+ },
+ {
+  "url": "https://www.realtimecolors.com/",
+  "status": "link-only",
+  "local_path": "assets/colors/realtimecolors/REFERENCE.md",
+  "license": "Not applicable (free online tool)",
+  "size": "4.0K",
+  "items": null,
+  "notes": "Preview colors + fonts on real sample websites, check contrast, export CSS/Tailwind/SCSS/OKLCH; free with no login. Only instructions and sample prompts are saved.",
+  "usage": "Adjust the 5 colors and fonts, press Alt+T to see dark mode, Ctrl+E to export Tailwind/CSS, then paste it into your project or give it to AI."
+ }
+]

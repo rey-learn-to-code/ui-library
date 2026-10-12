@@ -1,0 +1,22 @@
+# Atlas Daily Journal Landing Page Template
+
+- Source: https://www.aura.build/templates/daily-moments-42
+- Category: Web
+- Tags: Landing Page, Hero, Features, Pricing, Testimonials, Journal, Memory Keeping, User Reviews, Subscription Plans, Call to Action
+- Tier: Pro
+- Preview image/video (link only, not downloaded): https://hoirqrkdgbmvpwutwuwj-all.supabase.co/storage/v1/object/public/preview-images/daily-moments-42.png?t=1757856299229
+- live_preview: https://daily-moments-42.aura.build
+- type: html
+- views: 1154
+- creator: -
+- createdAt: 2025-09-14
+- License note: Templates made by the Aura community (operated by DESIGNCODE IO PTE. LTD.). Viewing/previewing is public; "Copy prompt"/"Use for Free"/code export need login; Pro needs a paid plan; Paid is sold separately. Only metadata + link are stored.
+- Collected on: 2026-10-09
+
+## Description (from the source page)
+
+A reusable landing page template designed for daily journaling and memory keeping apps, showcasing features, pricing, testimonials, and user engagement.
+
+## Prompt
+
+Login required: the "Copy prompt" button on Aura requires login (even for Free templates). Pro templates need a paid plan.

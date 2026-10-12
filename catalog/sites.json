@@ -1,0 +1,102 @@
+[
+{"group":"ready-blocks","title":"Ready-made templates to customize","sites":[
+["https://www.originkit.dev/","Pick nice page sections and get code for AI to edit. Some parts are free; usage limits apply."],
+["https://21st.dev/","Pick buttons, cards and menus. Get code or a prompt for AI; number of copies depends on plan."],
+["https://www.shadcnblocks.com/","Get headers, pricing tables or FAQs for AI to edit. Free and paid templates available."]]},
+{"group":"prompt-templates","title":"Pick a nice template, get a prompt for AI","sites":[
+["https://www.getlayers.ai/","Pick a template and get a prompt for AI to rebuild it. Code download and commercial use depend on plan."],
+["https://motionsites.ai/","Get animated pages with prompts for AI. Template access depends on plan."],
+["https://www.aura.build/templates","Pick a template, then let AI adjust it. Some templates are paid; code export depends on plan."]]},
+{"group":"effects","title":"Ready-made effects for websites","sites":[
+["https://reactbits.dev/","Pick an effect and get code for AI to add. Made for React projects."],
+["https://ui.aceternity.com/","Pick cards, backgrounds or effects, then copy the code. Free templates and paid packs."],
+["https://magicui.design/","Pick page effects, then copy the code. The library is free; Pro is sold separately."]]},
+{"group":"ui-kits","title":"Ready-made buttons, menus and tables","sites":[
+["https://ui.shadcn.com/","Get buttons, inputs or tables, then adjust them. Free; your project must be compatible."],
+["https://daisyui.com/","Pick buttons, menus and color sets for Tailwind CSS. The core library is free."],
+["https://flowbite.com/","Get buttons, tables and inputs for Tailwind. The core is free; interactivity needs JS."]]},
+{"group":"layouts","title":"Find good layouts for websites","sites":[
+["https://land-book.com/","Browse sample websites to learn layouts. Advanced filters are in the Pro plan."],
+["https://www.lapa.ninja/","Browse landing pages to choose how to place text and images. Downloadable resources have their own terms."],
+["https://www.curated.design/","Pick good-looking websites for AI to learn layouts from. Some features are Pro."]]},
+{"group":"style-inspiration","title":"Find styles and user flows","sites":[
+["https://www.siteinspire.com/","Find websites in a style you like, then give them to AI as references."],
+["https://www.dark.design/","Browse dark-background websites to choose how to combine text, images and colors."],
+["https://mobbin.com/","See screens and user flows from real apps. The full library needs a paid plan."]]},
+{"group":"icon","title":"Consistent icons, cleaner interface","sites":[
+["https://lucide.dev/icons/","Pick thin outline icons and copy the code. Free and open source."],
+["https://phosphoricons.com/","Choose thin, bold, filled or two-tone styles. Free."],
+["https://heroicons.com/","Pick outline or filled icons, then copy the code. Free and open source."]]},
+{"group":"font","title":"Choose fonts and pair them more easily","sites":[
+["https://fonts.google.com/","Pick a font, download it or get the code to add it to your site. Free."],
+["https://www.fontshare.com/","Free fonts for personal and commercial projects. Check Vietnamese accent support."],
+["https://www.typewolf.com/","See which fonts websites use and how they pair them. Suggested fonts may be paid."]]},
+{"group":"colors","title":"Choose colors and try them on a design","sites":[
+["https://coolors.co/","Create color palettes or browse ready-made ones. Free and Pro versions."],
+["https://www.realtimecolors.com/","Try colors on backgrounds, text and buttons, then copy the color codes and CSS."],
+["https://www.radix-ui.com/colors","Pick shades for light or dark backgrounds. You still need to check text color."]]},
+{"group":"illustrations","title":"Illustrations in one consistent style","sites":[
+["https://undraw.co/illustrations","Pick a color and download illustrations. Free, no credit needed."],
+["https://storyset.com/","Pick an image, change its colors, then download. The free version needs credit."],
+["https://www.humaaans.com/","Combine people and outfits into scenes. The original library is free."]]},
+{"group":"nen","title":"Create backgrounds that match your site colors","sites":[
+["https://haikei.app/","Create wave and shape backgrounds in your chosen colors. Download as SVG or PNG."],
+["https://www.svgbackgrounds.com/","Pick a background and adjust colors. Free backgrounds need credit; paid plans available."],
+["https://www.fffuel.co/","Create shapes and patterns, then download SVG. For personal and commercial use."]]},
+{"group":"photos-videos","title":"Find photos and videos for your content","sites":[
+["https://unsplash.com/","Find photos for your website. Free photos plus a paid Plus library."],
+["https://www.pexels.com/","Find photos and videos for articles and page backgrounds. Free; check the license."],
+["https://pixabay.com/","Find photos, videos and illustrations by topic. Free; check the license."]]},
+{"group":"mockup","title":"Place your design inside a device frame","sites":[
+["https://shots.so/","Place images in presentation frames. Free and paid features."],
+["https://mockupbro.com/","Pick a frame, swap in your image, then download. Check the license of the template you use."],
+["https://mockuphone.com/","Put screenshots into device frames. Free, credit required."]]},
+{"group":"3d-icons","title":"Ready-made 3D images, used like normal images","sites":[
+["https://shapefest.com/","Images of 3D shapes and objects. Free packs available; larger images are paid."],
+["https://icons8.com/illustrations","Download 3D images from an illustration library. The free version is limited and needs credit."],
+["https://old.3dicons.co/","3D icons for features. The V1 set is free for commercial use."]]},
+{"group":"3d-interactive","title":"Add interactive 3D to your website","sites":[
+["https://spline.design/","Build 3D scenes visually, then embed them on the web. The free plan has a watermark."],
+["https://modelviewer.dev/","Let visitors rotate an existing 3D model. Does not create new models."],
+["https://www.vectary.com/","Build 3D scenes and product configurators. Web embedding and commercial use depend on plan."]]},
+{"group":"3d-materials","title":"Building blocks for 3D scenes","sites":[
+["https://polyhaven.com/","Download 3D objects, surfaces and lighting. Free for commercial use."],
+["https://ambientcg.com/","Download wood and stone surfaces and 3D lighting. Free under CC0."],
+["https://kenney.nl/assets","Simple 3D objects and buildings. Free, good for game-style scenes."]]},
+{"group":"animated-icons","title":"Ready-made animated images and icons","sites":[
+["https://lucide-animated.com/","Animated icons for React websites. Get the code for free, then let AI add it."],
+["https://lordicon.com/","Pick animated icons for your site. The free set needs credit."],
+["https://rive.app/marketplace/","Animations that react to hover or clicks. Needs the Rive runtime; check the license."]]},
+{"group":"motion","title":"Control animation with code","sites":[
+["https://gsap.com/","Create scroll and click animations. Free under the GSAP license."],
+["https://motion.dev/","Add animation to your interface. The core library is free; Motion+ is paid."],
+["https://animejs.com/","Animate text and shapes. Free, with examples for AI to follow."]]},
+{"group":"effect-references","title":"See unusual effects and learn how they are made","sites":[
+["https://codepen.io/","See demos and try the code. Public code is MIT; images and fonts have their own licenses."],
+["https://tympanus.net/codrops/","Read tutorials and see interface demos. Code rights depend on each resource."],
+["https://www.hoverstat.es/","See websites with unusual interactions. For reference only, not a code library."]]},
+{"group":"shadcn-themes","title":"Change colors and fonts so the site looks consistent","sites":[
+["https://tweakcn.com/editor/theme","Try colors and fonts on a live sample. Get the config for AI to apply to your site."],
+["https://zippystarter.com/tools/shadcn-ui-theme-generator","Create color sets for shadcn/ui. Give the config to AI to recolor everything consistently."],
+["https://www.shadcn.io/theme-generator","See colors on many sample interfaces. Get the config for shadcn/ui sites."]]},
+{"group":"type-scales","title":"Choose font sizes and spacing","sites":[
+["https://typescale.com/","Choose font sizes by level. CSS export and advanced features are Pro."],
+["https://utopia.fyi/","Create font sizes and spacing that scale with the screen. Includes CSS for AI to apply."],
+["https://www.modularscale.com/","Enter a base font size and a ratio. Get the numbers to size each heading level."]]},
+{"group":"chinh-anh","title":"Optimize images before putting them online","sites":[
+["https://squoosh.app/","Compress images for free on your own computer. Compare quality before saving the smaller file."],
+["https://www.iloveimg.com/","Crop and resize many images at once. Files are uploaded to their server."],
+["https://www.photopea.com/","Edit images in layers when you need more detail. Basic editing is free."]]},
+{"group":"sample-data","title":"Add sample data so the site doesn't look empty","sites":[
+["https://www.mockaroo.com/","Create fake data by column, then download it. Free up to 1,000 rows per file."],
+["https://dummyjson.com/docs/products","Product data for prototypes. Ask AI to fill it into cards and lists."],
+["https://www.dicebear.com/playground/","Create avatars for sample accounts. Check the license of each style."]]},
+{"group":"ui-states","title":"Loading, empty and error states too","sites":[
+["https://github.com/dvtng/react-loading-skeleton","Add loading placeholders to React sites. Includes sample code for AI to add to your project."],
+["https://www.patternfly.org/components/empty-state/","See examples of pages with no data yet. Add an explanation and a next-step button."],
+["https://design-system.service.gov.uk/components/error-summary/","See how to show form errors. Ask AI to clearly point out which field to fix and how."]]},
+{"group":"checklists","title":"Check your site before sharing the link","sites":[
+["https://webaim.org/resources/contrastchecker/","Enter text and background colors to check contrast. Free."],
+["https://wave.webaim.org/","Find warnings that make a page hard to use. Ask AI to review each issue."],
+["https://developer.chrome.com/docs/devtools/device-mode","Simulate small screens to find overflow and broken layouts. Built into Chrome."]]}
+]

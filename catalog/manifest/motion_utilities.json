@@ -1,0 +1,272 @@
+[
+  {
+    "url": "https://gsap.com/",
+    "status": "downloaded",
+    "local_path": "assets/motion/gsap",
+    "license": "GSAP Standard 'no charge' license (free; may not be used to build a drag-and-drop animation tool that competes with Webflow)",
+    "size": "13M",
+    "items": null,
+    "notes": "Saved the npm package gsap 3.15.0 (dist includes ScrollTrigger, SplitText, Flip, MorphSVG...), the greensock/GSAP repo source code and the license text. The GSAP repo has no demo folder; see the group's README.md.",
+    "usage": "Plain HTML: add <script> gsap.min.js + ScrollTrigger.min.js (CDN or copy from npm_gsap/dist). React: npm install gsap @gsap/react, then use the useGSAP hook; examples in motion/README.md."
+  },
+  {
+    "url": "https://motion.dev/",
+    "status": "downloaded",
+    "local_path": "assets/motion/motion",
+    "license": "MIT (paid Motion+ not included)",
+    "size": "8.6M",
+    "items": null,
+    "notes": "Saved the npm packages motion 14.0.0 and framer-motion 14.0.0, plus ~150 React examples and HTML examples from the motiondivision/motion repo (only the examples folder, because the repo is very large).",
+    "usage": "React: npm install motion, then import { motion } from 'motion/react'. Plain HTML: <script src=.../motion/dist/motion.js>, then use Motion.animate / Motion.inView."
+  },
+  {
+    "url": "https://animejs.com/",
+    "status": "downloaded",
+    "local_path": "assets/motion/animejs",
+    "license": "MIT",
+    "size": "13M",
+    "items": 24,
+    "notes": "Saved the npm package animejs 4.5.0 and the juliangarnier/anime repo with 24 examples (examples/) such as SVG line drawing, text, draggable carousel and page scrolling.",
+    "usage": "Plain HTML: <script> anime.umd.min.js, then const { animate, stagger } = anime. React: npm install animejs, call animate(ref.current, {...}) inside useEffect. Remember to tell AI it is 'Anime.js v4'."
+  },
+  {
+    "url": "https://spline.design/",
+    "status": "link-only",
+    "local_path": "assets/3d-interactive/spline",
+    "license": "Spline editor: per Spline's terms (Free plan has a watermark). @splinetool/react-spline: MIT; @splinetool/runtime and @splinetool/viewer: package.json lists no license",
+    "size": "54M",
+    "items": null,
+    "notes": "The 3D scene editor needs an account, so only the link is saved. Saved the public embed packages: @splinetool/runtime 2.0.75, @splinetool/react-spline 4.1.0, @splinetool/viewer (the <spline-viewer> web component).",
+    "usage": "Plain HTML: use the <spline-viewer url=\"https://prod.spline.design/.../scene.splinecode\"> tag from @splinetool/viewer. React: npm install @splinetool/react-spline, then <Spline scene=\"...splinecode\" />; the scene file must be exported from spline.design."
+  },
+  {
+    "url": "https://modelviewer.dev/",
+    "status": "downloaded",
+    "local_path": "assets/3d-interactive/modelviewer",
+    "license": "Apache-2.0 (the sample model Astronaut.glb is in the repo's shared-assets; the model's origin is unverified, so give credit when using it)",
+    "size": "51M",
+    "items": 29,
+    "notes": "Saved the @google/model-viewer 4.3.1 package (dist + lib), the modelviewer.dev examples folder (29 HTML example pages) and 1 sample model, Astronaut.glb.",
+    "usage": "Plain HTML: <script type=module src=model-viewer.min.js>, then <model-viewer src=\"Astronaut.glb\" camera-controls auto-rotate ar>. React: npm install @google/model-viewer, import '@google/model-viewer', then use the <model-viewer> tag in JSX."
+  },
+  {
+    "url": "https://www.vectary.com/",
+    "status": "link-only",
+    "local_path": null,
+    "license": "Per Vectary's terms (web embedding and commercial use depend on plan)",
+    "size": null,
+    "items": null,
+    "notes": "The 3D editor needs an account; there is no official public npm runtime package (only the internal @vctr-libs-public packages), so only the link is saved.",
+    "usage": "Build a scene on vectary.com, click Share/Embed to get the <iframe> code, then paste it into your HTML or a React component."
+  },
+  {
+    "url": "https://tweakcn.com/editor/theme",
+    "status": "downloaded",
+    "local_path": "assets/shadcn-themes/tweakcn",
+    "license": "Apache-2.0",
+    "size": "17M",
+    "items": 42,
+    "notes": "Cloned the jnsahaj/tweakcn repo and read the source code (without running it) to extract the 42 built-in themes into presets/themes.json and presets/css/<theme>.css, plus a Tailwind v4 mapping file.",
+    "usage": "Pick a file in presets/css/ (for example claude.css) and paste its contents into your shadcn/ui project's globals.css (replacing the :root and .dark blocks); for Tailwind v4 also add _theme-inline-tailwind-v4.css. Plain HTML: use var(--primary), var(--background)..."
+  },
+  {
+    "url": "https://zippystarter.com/tools/shadcn-ui-theme-generator",
+    "status": "link-only",
+    "local_path": null,
+    "license": "Unknown (paid Pro plan available)",
+    "size": null,
+    "items": null,
+    "notes": "The tool's site does not publish readable preset data, so only the link is saved.",
+    "usage": "Open the tool, pick colors, copy the CSS variables block (:root/.dark) and paste it into your shadcn/ui project's globals.css."
+  },
+  {
+    "url": "https://www.shadcn.io/theme-generator",
+    "status": "partial",
+    "local_path": "assets/shadcn-themes/shadcn-base-colors",
+    "license": "MIT (the 5 official shadcn/ui base color sets, taken from ui.shadcn.com/r/colors)",
+    "size": "80K",
+    "items": 5,
+    "notes": "The generator site does not publish its preset values; saved the 5 base color sets the site uses (Neutral, Stone, Zinc, Gray, Slate) from the public shadcn/ui registry, as JSON and CSS.",
+    "usage": "Paste the file css/<color>.css into your shadcn/ui project's globals.css; to change the main color, open shadcn.io/theme-generator and copy the CSS."
+  },
+  {
+    "url": "https://typescale.com/",
+    "status": "partial",
+    "local_path": "assets/type-scales/typescale",
+    "license": "Made by us (CC0); the type-scale formula is common knowledge",
+    "size": "36K",
+    "items": 7,
+    "notes": "No data taken from the site (it is an online calculator); we made 7 type-scale CSS files ourselves with ratios 1.125, 1.2, 1.25, 1.333, 1.414, 1.5, 1.618 (16px base).",
+    "usage": "Add a <link> to type-scale-1.25.css (or @import in React), add the class type-scale to <body>, or use var(--fs-xl), var(--fs-3xl) for headings."
+  },
+  {
+    "url": "https://utopia.fyi/",
+    "status": "partial",
+    "local_path": "assets/type-scales/utopia",
+    "license": "utopia-core: ISC; generated CSS: made by us (CC0)",
+    "size": "240K",
+    "items": 3,
+    "notes": "Saved the utopia-core npm package and the trys/utopia-core repo; rewrote the formula ourselves (checked to match utopia.fyi's default values) to create 3 CSS sets of fluid font sizes + spacing using clamp() in utopia/fluid/.",
+    "usage": "Import fluid/fluid-utopia-default.css, then use font-size: var(--step-2), padding: var(--space-s-m), gap: var(--space-m); text and spacing scale with the screen width automatically, no media queries needed."
+  },
+  {
+    "url": "https://www.modularscale.com/",
+    "status": "partial",
+    "local_path": "assets/type-scales/typescale",
+    "license": "Made by us (CC0)",
+    "size": "36K",
+    "items": 7,
+    "notes": "It is an online calculator, so nothing was downloaded; it shares our own number set in typescale/modular-scales.json (rem/px values for each step for 7 ratios).",
+    "usage": "Look up modular-scales.json to find the font size for each level (h1–h6) at your chosen ratio, or just use the matching type-scale CSS file."
+  },
+  {
+    "url": "https://coolors.co/",
+    "status": "link-only",
+    "local_path": "assets/colors/generated-palettes",
+    "license": "Coolors: per the site's terms (Free/Pro). generated-palettes: made by us, CC0",
+    "size": "12K",
+    "items": 12,
+    "notes": "Coolors data was not scraped; instead we created 12 color palettes (7 light, 5 dark) with WCAG contrast calculated, saved in palettes.json and palettes.css.",
+    "usage": "Add data-palette=\"ocean-light\" to <html>, then use var(--c-primary), var(--c-text)...; for a new palette, create one on coolors.co and copy the HEX codes."
+  },
+  {
+    "url": "https://www.realtimecolors.com/",
+    "status": "link-only",
+    "local_path": "assets/colors/realtimecolors",
+    "license": "CC BY-NC-ND 4.0 (repo juxtopposed/realtimecolors)",
+    "size": "88K",
+    "items": null,
+    "notes": "The public repo only contains a README, images and a CC BY-NC-ND license (no tool source code); saved for reference. The tool is used online.",
+    "usage": "Try colors directly on realtimecolors.com, click Export to copy the CSS color variables, then paste them into your CSS/globals.css file."
+  },
+  {
+    "url": "https://www.radix-ui.com/colors",
+    "status": "downloaded",
+    "local_path": "assets/colors/radix-colors",
+    "license": "MIT",
+    "size": "1.0M",
+    "items": 126,
+    "notes": "Saved the @radix-ui/colors 3.0.0 package: 126 CSS files (light, dark, alpha) for each 12-step color scale, plus the JS version.",
+    "usage": "Plain HTML: <link> to blue.css + blue-dark.css, then use var(--blue-9) for buttons and var(--blue-12) for text. React: npm install @radix-ui/colors and import '@radix-ui/colors/blue.css'."
+  },
+  {
+    "url": "https://www.mockaroo.com/",
+    "status": "link-only",
+    "local_path": null,
+    "license": "Per Mockaroo's terms (free up to 1,000 rows/file)",
+    "size": null,
+    "items": null,
+    "notes": "A tool that generates data from your settings; there is no public dataset to download, so only the link is saved.",
+    "usage": "Create columns (name, email, date...) on mockaroo.com, download JSON/CSV, then put it in public/ or import it in React."
+  },
+  {
+    "url": "https://dummyjson.com/docs/products",
+    "status": "downloaded",
+    "local_path": "assets/sample-data/dummyjson",
+    "license": "DummyJSON public sample data (for testing; product image licenses are not stated)",
+    "size": "3.3M",
+    "items": 2959,
+    "notes": "Downloaded all 8 JSON sets (194 products, 208 users, 251 posts, 50 recipes, 208 carts, 1454 quotes, 254 todos, 340 comments), the product image list (474 URLs) and 194 thumbnail images.",
+    "usage": "React: import products from './products.json', then map them into product cards; plain HTML: fetch('products.json').then(r=>r.json()). Images: use thumbnails/ when working offline."
+  },
+  {
+    "url": "https://www.dicebear.com/playground/",
+    "status": "downloaded",
+    "local_path": "assets/sample-data/dicebear",
+    "license": "Code: MIT. Images: depends on the style; the 200 generated avatars only use CC0 styles (lorelei, notionists, open-peeps, pixel-art, thumbs, shapes, identicon, rings, glass) and initials (MIT)",
+    "size": "19M",
+    "items": 200,
+    "notes": "Saved @dicebear/core + collection + 31 style packages (each style's license is noted in its package), cloned the dicebear/dicebear repo and generated 200 SVG avatars (10 styles × 20 names) through the public API.",
+    "usage": "Use directly: <img src=\"avatars_svg/lorelei/an-nguyen.svg\">; or <img src=\"https://api.dicebear.com/9.x/lorelei/svg?seed=Name\">. CC BY 4.0 styles (adventurer, micah, personas...) require credit."
+  },
+  {
+    "url": "https://github.com/dvtng/react-loading-skeleton",
+    "status": "downloaded",
+    "local_path": "assets/ui-states/react-loading-skeleton",
+    "license": "MIT",
+    "size": "2.8M",
+    "items": null,
+    "notes": "Cloned the dvtng/react-loading-skeleton repo (source code, README with examples) and the npm package (dist + CSS).",
+    "usage": "React: npm install react-loading-skeleton, import Skeleton and 'react-loading-skeleton/dist/skeleton.css', then show <Skeleton count={3} /> while waiting for data."
+  },
+  {
+    "url": "https://www.patternfly.org/components/empty-state/",
+    "status": "partial",
+    "local_path": "assets/ui-states/patternfly-empty-state",
+    "license": "MIT (patternfly-react, @patternfly/patternfly)",
+    "size": "132K",
+    "items": 8,
+    "notes": "Extracted only the EmptyState component (TSX source + 8 examples) from patternfly-react, the empty-state.css file, and saved the text of the docs page + design guidelines as notes.",
+    "usage": "Read docs_design_guidelines_text.txt to write a 'no data yet' message (icon, title, explanation, next-step button); ask AI to rebuild it with shadcn/Tailwind based on examples/*.tsx."
+  },
+  {
+    "url": "https://design-system.service.gov.uk/components/error-summary/",
+    "status": "partial",
+    "local_path": "assets/ui-states/govuk-error-summary",
+    "license": "MIT (govuk-frontend 6.5.1; the GDS Transport font is only for gov.uk, so it is not included)",
+    "size": "616K",
+    "items": 5,
+    "notes": "From the govuk-frontend package, kept only the error-summary component (5 HTML samples + Nunjucks + JS + SCSS), error-message, input and the compiled CSS/JS files; added an English demo.html.",
+    "usage": "Open demo.html to see the example; when building a form: put the error summary box at the top of the page, make each error a link to the field to fix, and put the error line right above the field with aria-describedby. React: copy the HTML structure into JSX."
+  },
+  {
+    "url": "https://webaim.org/resources/contrastchecker/",
+    "status": "link-only",
+    "local_path": "assets/checklists/CHECKLIST.md",
+    "license": "Free online tool",
+    "size": "12K",
+    "items": null,
+    "notes": "Online tool, nothing downloaded; wrote contrast-checking instructions in CHECKLIST.md.",
+    "usage": "Paste the text and background color codes; aim for an AA Pass (≥4.5:1 for normal text). Applies to both React and HTML sites."
+  },
+  {
+    "url": "https://wave.webaim.org/",
+    "status": "link-only",
+    "local_path": "assets/checklists/CHECKLIST.md",
+    "license": "Free online tool (with a browser extension)",
+    "size": "12K",
+    "items": null,
+    "notes": "Online tool, nothing downloaded; CHECKLIST.md explains how to read the errors and fix common ones.",
+    "usage": "Paste the link of your published page (or use the extension for localhost), fix all red errors, and copy the error descriptions for AI to fix."
+  },
+  {
+    "url": "https://developer.chrome.com/docs/devtools/device-mode",
+    "status": "link-only",
+    "local_path": "assets/checklists/CHECKLIST.md",
+    "license": "Built into Chrome",
+    "size": "12K",
+    "items": null,
+    "notes": "A built-in Chrome feature, nothing to download; CHECKLIST.md explains how to open Device Mode and which widths to test.",
+    "usage": "F12 → Ctrl/Cmd+Shift+M, test 320/375/768/1280px, check there is no horizontal scrollbar; run Lighthouse Mobile."
+  },
+  {
+    "url": "https://squoosh.app/",
+    "status": "link-only",
+    "local_path": "assets/checklists/CHECKLIST.md",
+    "license": "Apache-2.0 (GoogleChromeLabs/squoosh)",
+    "size": "12K",
+    "items": null,
+    "notes": "A web app that runs on your own computer, so only the link is saved; the source code is open at GoogleChromeLabs/squoosh. Note: @squoosh/cli and @squoosh/lib are no longer maintained, so use sharp-cli/cwebp instead (see CHECKLIST.md).",
+    "usage": "Drag an image into squoosh.app, choose WebP/AVIF at quality 70–80, resize to ≤1600px, then download; the image works for both React and HTML."
+  },
+  {
+    "url": "https://www.iloveimg.com/",
+    "status": "link-only",
+    "local_path": "assets/checklists/CHECKLIST.md",
+    "license": "Per iLoveIMG's terms (Free/Premium versions)",
+    "size": "12K",
+    "items": null,
+    "notes": "Online tool; images are uploaded to their server. Only the link and notes in CHECKLIST.md are saved.",
+    "usage": "Use it when you need to crop/resize many non-sensitive images at once, then put the images in the public/ or assets/ folder."
+  },
+  {
+    "url": "https://www.photopea.com/",
+    "status": "link-only",
+    "local_path": "assets/checklists/CHECKLIST.md",
+    "license": "Per Photopea's terms (free with ads)",
+    "size": "12K",
+    "items": null,
+    "notes": "Online image editor, nothing to download; only the link and instructions for exporting WEBP in CHECKLIST.md are saved.",
+    "usage": "Edit images in layers, File → Export as → WEBP/JPG, then use the image on your site as usual."
+  }
+]

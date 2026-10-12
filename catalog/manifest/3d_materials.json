@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://polyhaven.com/",
+  "status": "partial",
+  "local_path": "assets/3d-materials/polyhaven",
+  "license": "CC0-1.0",
+  "size": "2.4GB",
+  "items": 1203,
+  "notes": "Downloaded 1203/2385 Poly Haven assets at 1k: HDRIs (.hdr + jpg preview), PBR textures (diff, nor_gl, rough, arm, ao, disp) and glTF models; catalog in index.json. Still downloading in the background, not finished. To continue: `cd ui-library/scripts && nohup python3 -I download_polyhaven.py > logs/polyhaven.nohup.out 2>&1 &` (skips files already downloaded).",
+  "usage": "Three.js/R3F: load HDRIs with RGBELoader or drei's <Environment files=\"..._1k.hdr\" />; load models with GLTFLoader/useGLTF; apply textures to MeshStandardMaterial. model-viewer: <model-viewer src=\"x_1k.gltf\" environment-image=\"y_1k.hdr\">."
+ },
+ {
+  "url": "https://ambientcg.com/",
+  "status": "partial",
+  "local_path": "assets/3d-materials/ambientcg",
+  "license": "CC0-1.0",
+  "size": "980MB",
+  "items": 285,
+  "notes": "Downloaded 285/2692 ambientCG assets as unzipped 1K-JPG (PBR materials, decals, atlases; HDRIs as 1K .exr with a tonemapped image; models as SQ-1K-JPG); Substance .sbsar files skipped. Still downloading in the background, not finished. To continue: `cd ui-library/scripts && nohup python3 -I download_ambientcg.py > logs/ambientcg.nohup.out 2>&1 &` (skips files already downloaded).",
+  "usage": "Three.js/R3F: load the *_Color, *_NormalGL, *_Roughness, *_AmbientOcclusion maps with TextureLoader/useTexture and apply them to MeshStandardMaterial; load .exr HDRIs with EXRLoader or drei's <Environment files>."
+ },
+ {
+  "url": "https://kenney.nl/assets",
+  "status": "partial",
+  "local_path": "assets/3d-materials/kenney",
+  "license": "CC0-1.0",
+  "size": "344MB",
+  "items": 30,
+  "notes": "Downloaded 30/216 free Kenney packs (3D first, then 2D, Textures, Audio), unzipped into one folder per pack, License.txt kept. Still downloading in the background, not finished. To continue: `cd ui-library/scripts && nohup python3 -I download_kenney.py > logs/kenney.nohup.out 2>&1 &` (skips files already downloaded).",
+  "usage": "3D packs with Models/GLB or GLTF: use useGLTF (R3F), GLTFLoader (Three.js) or <model-viewer src=\".../Models/GLB format/x.glb\">. 2D/UI packs: use the PNG/SVG files like normal images; .ogg sounds use the <audio> tag."
+ }
+]

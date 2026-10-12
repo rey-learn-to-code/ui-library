@@ -1,0 +1,67 @@
+{
+  "api": "https://api.dicebear.com/9.x/<style>/svg?seed=<seed>",
+  "styles": {
+    "lorelei": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "notionists": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "open-peeps": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "pixel-art": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "thumbs": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "shapes": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "identicon": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "rings": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "glass": {
+      "license": "CC0 1.0",
+      "count": 20
+    },
+    "initials": {
+      "license": "MIT (code-generated, no artwork)",
+      "count": 20
+    }
+  },
+  "seeds": [
+    "An Nguyen",
+    "Binh Tran",
+    "Chi Le",
+    "Dung Pham",
+    "Giang Hoang",
+    "Ha Vu",
+    "Hieu Dang",
+    "Hoa Bui",
+    "Khanh Do",
+    "Lan Ngo",
+    "Long Duong",
+    "Mai Ly",
+    "Minh Truong",
+    "Nam Dinh",
+    "Ngoc Phan",
+    "Phuong Ha",
+    "Quan Vo",
+    "Thao Lam",
+    "Trang Mai",
+    "Viet Cao"
+  ]
+}

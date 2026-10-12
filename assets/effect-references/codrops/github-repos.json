@@ -1,0 +1,3472 @@
+[
+ {
+  "name": "PageTransitions",
+  "github": "https://github.com/codrops/PageTransitions",
+  "description": "A showcase collection of various page transition effects using CSS animations.",
+  "homepage": null,
+  "stars": 2316,
+  "license": null,
+  "updated": "2024-08-05",
+  "cloned": false
+ },
+ {
+  "name": "RainEffect",
+  "github": "https://github.com/codrops/RainEffect",
+  "description": "Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.",
+  "homepage": "https://tympanus.net/Development/RainEffect/",
+  "stars": 1783,
+  "license": null,
+  "updated": "2022-09-12",
+  "cloned": false
+ },
+ {
+  "name": "SidebarTransitions",
+  "github": "https://github.com/codrops/SidebarTransitions",
+  "description": "Some inspiration for transition effects for off-canvas navigations.",
+  "homepage": "http://tympanus.net/Development/SidebarTransitions/",
+  "stars": 1654,
+  "license": null,
+  "updated": "2024-08-05",
+  "cloned": false
+ },
+ {
+  "name": "HoverEffectIdeas",
+  "github": "https://github.com/codrops/HoverEffectIdeas",
+  "description": "Some inspiration and modern ideas for subtle hover effects.",
+  "homepage": null,
+  "stars": 1643,
+  "license": null,
+  "updated": "2023-10-17",
+  "cloned": false
+ },
+ {
+  "name": "Animocons",
+  "github": "https://github.com/codrops/Animocons",
+  "description": "Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot [\"Like Animation\"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Ginn.",
+  "homepage": null,
+  "stars": 1549,
+  "license": null,
+  "updated": "2024-08-05",
+  "cloned": false
+ },
+ {
+  "name": "ParticleEffectsButtons",
+  "github": "https://github.com/codrops/ParticleEffectsButtons",
+  "description": "A little library that can be used for bursting particles effects on buttons and other elements",
+  "homepage": "https://tympanus.net/codrops/?p=34685",
+  "stars": 1263,
+  "license": null,
+  "updated": "2024-08-05",
+  "cloned": false
+ },
+ {
+  "name": "SeatPreview",
+  "github": "https://github.com/codrops/SeatPreview",
+  "description": "An experimental demo where a 3D perspective preview is shown for a selected seat in a cinema room.",
+  "homepage": "http://tympanus.net/Development/SeatPreview/",
+  "stars": 1186,
+  "license": null,
+  "updated": "2016-01-21",
+  "cloned": false
+ },
+ {
+  "name": "DistortedButtonEffects",
+  "github": "https://github.com/codrops/DistortedButtonEffects",
+  "description": "A set of inspirational, highly experimental distortion effects for buttons using SVG filters. By Adrien Denat. ",
+  "homepage": "http://tympanus.net/Development/DistortedButtonEffects/",
+  "stars": 1120,
+  "license": null,
+  "updated": "2016-10-08",
+  "cloned": false
+ },
+ {
+  "name": "ModalWindowEffects",
+  "github": "https://github.com/codrops/ModalWindowEffects",
+  "description": "A set of experimental modal window appearance effects with CSS transitions and animations. ",
+  "homepage": null,
+  "stars": 1013,
+  "license": null,
+  "updated": "2013-07-02",
+  "cloned": false
+ },
+ {
+  "name": "BookBlock",
+  "github": "https://github.com/codrops/BookBlock",
+  "description": "A jQuery plugin that will create a booklet-like component that let's you navigate through its items by flipping the pages.",
+  "homepage": null,
+  "stars": 982,
+  "license": null,
+  "updated": "2017-05-28",
+  "cloned": false
+ },
+ {
+  "name": "TextInputEffects",
+  "github": "https://github.com/codrops/TextInputEffects",
+  "description": "Simple styles and effects for enhancing text input interactions.",
+  "homepage": null,
+  "stars": 953,
+  "license": null,
+  "updated": "2017-03-19",
+  "cloned": false
+ },
+ {
+  "name": "NotificationStyles",
+  "github": "https://github.com/codrops/NotificationStyles",
+  "description": "Various simple ideas and effects for unobtrusive notifications on a website.",
+  "homepage": null,
+  "stars": 924,
+  "license": null,
+  "updated": "2018-03-05",
+  "cloned": false
+ },
+ {
+  "name": "ElasticProgress",
+  "github": "https://github.com/codrops/ElasticProgress",
+  "description": "Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot \"Download\" by xjw",
+  "homepage": "http://tympanus.net/codrops/2015/09/23/elastic-progress/",
+  "stars": 875,
+  "license": null,
+  "updated": "2015-12-14",
+  "cloned": false
+ },
+ {
+  "name": "Interactive3DMallMap",
+  "github": "https://github.com/codrops/Interactive3DMallMap",
+  "description": "An interactive 3D mall map concept with a sidebar search and pin indicators for every level. ",
+  "homepage": null,
+  "stars": 766,
+  "license": null,
+  "updated": "2022-05-15",
+  "cloned": false
+ },
+ {
+  "name": "LineMenuStyles",
+  "github": "https://github.com/codrops/LineMenuStyles",
+  "description": "An open collection of menu styles that use the line as creative design element.",
+  "homepage": "http://tympanus.net/Development/LineMenuStyles/",
+  "stars": 744,
+  "license": null,
+  "updated": "2018-03-16",
+  "cloned": false
+ },
+ {
+  "name": "MultiLevelPushMenu",
+  "github": "https://github.com/codrops/MultiLevelPushMenu",
+  "description": "An experimental push menu with multi-level functionality that allows endless nesting of navigation elements.",
+  "homepage": null,
+  "stars": 738,
+  "license": null,
+  "updated": "2017-05-08",
+  "cloned": false
+ },
+ {
+  "name": "CreativeButtons",
+  "github": "https://github.com/codrops/CreativeButtons",
+  "description": "Some creative and modern button styles and effects for your inspiration.",
+  "homepage": null,
+  "stars": 732,
+  "license": null,
+  "updated": "2020-10-01",
+  "cloned": false
+ },
+ {
+  "name": "IconHoverEffects",
+  "github": "https://github.com/codrops/IconHoverEffects",
+  "description": "A set of simple round icon hover effects with CSS transitions and animations for your inspiration.",
+  "homepage": null,
+  "stars": 728,
+  "license": null,
+  "updated": "2020-10-02",
+  "cloned": false
+ },
+ {
+  "name": "FullscreenLayoutPageTransitions",
+  "github": "https://github.com/codrops/FullscreenLayoutPageTransitions",
+  "description": "This responsive layout is based on an initial grid of four boxes. Once a box is clicked, it gets resized to fullscreen and the other boxes scale down and fade out. In the work section we experiment with another transition which is to show a panel by making it appear from the bottom while scaling the current one down. To see it in action, open the work section and click on one of the portfolio items and navigate through them.",
+  "homepage": null,
+  "stars": 725,
+  "license": null,
+  "updated": "2013-04-23",
+  "cloned": false
+ },
+ {
+  "name": "CreativeLinkEffects",
+  "github": "https://github.com/codrops/CreativeLinkEffects",
+  "description": "An inspirational collection of experimental link effects mostly using transitions on pseudo-elements.",
+  "homepage": null,
+  "stars": 724,
+  "license": null,
+  "updated": "2014-06-07",
+  "cloned": false
+ },
+ {
+  "name": "CSSGlitchEffect",
+  "github": "https://github.com/codrops/CSSGlitchEffect",
+  "description": "An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.",
+  "homepage": "https://tympanus.net/codrops/?p=33498",
+  "stars": 700,
+  "license": null,
+  "updated": "2017-12-22",
+  "cloned": false
+ },
+ {
+  "name": "OffCanvasMenuEffects",
+  "github": "https://github.com/codrops/OffCanvasMenuEffects",
+  "description": "Some inspiration for off-canvas menu effects and styles using CSS transitions and SVG path animations.",
+  "homepage": null,
+  "stars": 696,
+  "license": null,
+  "updated": "2015-05-06",
+  "cloned": false
+ },
+ {
+  "name": "ResponsiveMultiLevelMenu",
+  "github": "https://github.com/codrops/ResponsiveMultiLevelMenu",
+  "description": "A responsive multi-level menu that shows its submenus in their own context, allowing for a space-saving presentation and usage.",
+  "homepage": null,
+  "stars": 693,
+  "license": null,
+  "updated": "2017-06-17",
+  "cloned": false
+ },
+ {
+  "name": "Calendario",
+  "github": "https://github.com/codrops/Calendario",
+  "description": "A jQuery calendar plugin for creating flexible calendars.",
+  "homepage": null,
+  "stars": 690,
+  "license": null,
+  "updated": "2018-01-17",
+  "cloned": false
+ },
+ {
+  "name": "PageLoadingEffects",
+  "github": "https://github.com/codrops/PageLoadingEffects",
+  "description": "Modern ways of revealing new content using SVG animations.",
+  "homepage": null,
+  "stars": 641,
+  "license": null,
+  "updated": "2014-04-23",
+  "cloned": false
+ },
+ {
+  "name": "ProgressButtonStyles",
+  "github": "https://github.com/codrops/ProgressButtonStyles",
+  "description": "A set of flat and 3D progress button styles where the button itself serves as a progress indicator. 3D styles are used for showing the progress indication on one side of the button while rotating the button in perspective.",
+  "homepage": null,
+  "stars": 610,
+  "license": null,
+  "updated": "2013-12-12",
+  "cloned": false
+ },
+ {
+  "name": "MinimalForm",
+  "github": "https://github.com/codrops/MinimalForm",
+  "description": "A simplistic form with inputs shown one at a time. Inspired by the form seen on the end of the [PageLanes website](http://www.pagelanes.com/).",
+  "homepage": null,
+  "stars": 598,
+  "license": null,
+  "updated": "2015-11-07",
+  "cloned": false
+ },
+ {
+  "name": "ButtonComponentMorph",
+  "github": "https://github.com/codrops/ButtonComponentMorph",
+  "description": "Inspiration for revealing content by morphing the action element.",
+  "homepage": null,
+  "stars": 592,
+  "license": null,
+  "updated": "2015-11-27",
+  "cloned": false
+ },
+ {
+  "name": "DragDropInteractions",
+  "github": "https://github.com/codrops/DragDropInteractions",
+  "description": "Some inspiration for drag and drop interactions for the modern UI.",
+  "homepage": null,
+  "stars": 588,
+  "license": null,
+  "updated": "2015-11-20",
+  "cloned": false
+ },
+ {
+  "name": "ImageTiltEffect",
+  "github": "https://github.com/codrops/ImageTiltEffect",
+  "description": "A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background image in order to create a subtle motion or depth effect.",
+  "homepage": null,
+  "stars": 567,
+  "license": null,
+  "updated": "2018-10-06",
+  "cloned": false
+ },
+ {
+  "name": "BlockRevealers",
+  "github": "https://github.com/codrops/BlockRevealers",
+  "description": "Ideas for revealing content in a schematic box look as seen around the Web lately.",
+  "homepage": "https://tympanus.net/codrops/?p=29372",
+  "stars": 556,
+  "license": null,
+  "updated": "2020-10-01",
+  "cloned": false
+ },
+ {
+  "name": "SelectInspiration",
+  "github": "https://github.com/codrops/SelectInspiration",
+  "description": "Creative styles and ideas for custom select elements.",
+  "homepage": null,
+  "stars": 543,
+  "license": null,
+  "updated": "2017-08-22",
+  "cloned": false
+ },
+ {
+  "name": "FullscreenForm",
+  "github": "https://github.com/codrops/FullscreenForm",
+  "description": "An experimental fullscreen form concept where the idea is to allow distraction-free form filling with some fancy animations when moving between form fields. ",
+  "homepage": null,
+  "stars": 541,
+  "license": null,
+  "updated": "2016-03-23",
+  "cloned": false
+ },
+ {
+  "name": "SegmentEffect",
+  "github": "https://github.com/codrops/SegmentEffect",
+  "description": "Background image segment effect as seen on [Filippo Bello's Portfolio](http://www.filippobello.com/portfolio).",
+  "homepage": null,
+  "stars": 540,
+  "license": null,
+  "updated": "2017-04-06",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedSVGIcons",
+  "github": "https://github.com/codrops/AnimatedSVGIcons",
+  "description": "Using SVGs on websites is becoming more and more easy with great libraries like Snap.svg. Today we want to explore what we can do with it and animate some SVG icons as a practical example.",
+  "homepage": null,
+  "stars": 539,
+  "license": null,
+  "updated": "2013-11-05",
+  "cloned": false
+ },
+ {
+  "name": "GridLoadingEffects",
+  "github": "https://github.com/codrops/GridLoadingEffects",
+  "description": "Some inspiration for loading effects of grid items using CSS animations.",
+  "homepage": null,
+  "stars": 513,
+  "license": null,
+  "updated": "2016-01-04",
+  "cloned": false
+ },
+ {
+  "name": "StackMotionHoverEffects",
+  "github": "https://github.com/codrops/StackMotionHoverEffects",
+  "description": "Experimental hover effects that reveal a stack of multiple colored cards behind the hovered item.",
+  "homepage": null,
+  "stars": 501,
+  "license": null,
+  "updated": "2017-03-15",
+  "cloned": false
+ },
+ {
+  "name": "FullscreenOverlayStyles",
+  "github": "https://github.com/codrops/FullscreenOverlayStyles",
+  "description": "Some simple and creative overlay styles and effects. From sliding the overlay into the viewport to using SVG morphing shapes, we explore some effects for fullscreen overlays.",
+  "homepage": null,
+  "stars": 500,
+  "license": null,
+  "updated": "2014-02-06",
+  "cloned": false
+ },
+ {
+  "name": "MagneticButtons",
+  "github": "https://github.com/codrops/MagneticButtons",
+  "description": "A set of buttons with a magnetic interaction and a hover effect.",
+  "homepage": "https://tympanus.net/codrops/?p=50513",
+  "stars": 485,
+  "license": "MIT",
+  "updated": "2021-02-24",
+  "cloned": true
+ },
+ {
+  "name": "LiquidDistortion",
+  "github": "https://github.com/codrops/LiquidDistortion",
+  "description": "A slideshow with liquid distortion effects in WebGL powered by PixiJS and GSAP",
+  "homepage": "https://tympanus.net/codrops/?p=32454",
+  "stars": 474,
+  "license": null,
+  "updated": "2017-10-10",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-VerticalTimeline",
+  "github": "https://github.com/codrops/Blueprint-VerticalTimeline",
+  "description": "A responsive vertical timeline layout with icons and example media queries.",
+  "homepage": null,
+  "stars": 465,
+  "license": null,
+  "updated": "2014-04-14",
+  "cloned": false
+ },
+ {
+  "name": "SlitSlider",
+  "github": "https://github.com/codrops/SlitSlider",
+  "description": "A responsive slideshow with a twist: the idea is to slice open the current slide when navigating to the next or previous one. Using jQuery and CSS animations we can create unique slide transitions for the content elements.",
+  "homepage": null,
+  "stars": 459,
+  "license": null,
+  "updated": "2019-08-14",
+  "cloned": false
+ },
+ {
+  "name": "ClickEffects",
+  "github": "https://github.com/codrops/ClickEffects",
+  "description": "A set of subtle effects for click or touch interactions inspired by the visualization of screen taps in mobile app showcases. The effects are done with CSS animations mostly on pseudo-elements.",
+  "homepage": null,
+  "stars": 449,
+  "license": null,
+  "updated": "2015-02-11",
+  "cloned": false
+ },
+ {
+  "name": "SimpleDropDownEffects",
+  "github": "https://github.com/codrops/SimpleDropDownEffects",
+  "description": "A jQuery plugin for transforming select inputs into drop-down lists with some simple expanding effects.",
+  "homepage": null,
+  "stars": 443,
+  "license": null,
+  "updated": "2016-04-20",
+  "cloned": false
+ },
+ {
+  "name": "GridLoadingAnimations",
+  "github": "https://github.com/codrops/GridLoadingAnimations",
+  "description": "Some inspiration for loading effects on grid items.",
+  "homepage": null,
+  "stars": 439,
+  "license": null,
+  "updated": "2017-04-11",
+  "cloned": false
+ },
+ {
+  "name": "Slicebox",
+  "github": "https://github.com/codrops/Slicebox",
+  "description": "Slicebox is  a jQuery 3D image slider plugin that makes use of CSS 3D Transforms and provides a graceful fallback for older browsers that don't support the new properties.",
+  "homepage": null,
+  "stars": 437,
+  "license": null,
+  "updated": "2020-05-07",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedHeader",
+  "github": "https://github.com/codrops/AnimatedHeader",
+  "description": "A fixed header that will animate its size on scroll. The inner elements will also adjust their size with a transition.",
+  "homepage": null,
+  "stars": 436,
+  "license": null,
+  "updated": "2019-10-11",
+  "cloned": false
+ },
+ {
+  "name": "ImageRevealHover",
+  "github": "https://github.com/codrops/ImageRevealHover",
+  "description": "A set of link hover effects that reveal a thumbnail in different creative ways. ",
+  "homepage": "https://tympanus.net/codrops/?p=36588",
+  "stars": 421,
+  "license": null,
+  "updated": "2019-05-13",
+  "cloned": false
+ },
+ {
+  "name": "ProximityFeedback",
+  "github": "https://github.com/codrops/ProximityFeedback",
+  "description": "Some ideas for proximity feedback through progressive hover effects.",
+  "homepage": "https://tympanus.net/codrops/?p=34754",
+  "stars": 412,
+  "license": null,
+  "updated": "2018-05-02",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedGridLayout",
+  "github": "https://github.com/codrops/AnimatedGridLayout",
+  "description": "A responsive, magazine-like website layout with a grid item animation effect when opening the content",
+  "homepage": null,
+  "stars": 411,
+  "license": null,
+  "updated": "2020-10-16",
+  "cloned": false
+ },
+ {
+  "name": "CaptionHoverEffects",
+  "github": "https://github.com/codrops/CaptionHoverEffects",
+  "description": "A tutorial on how to create some subtle and modern caption hover effects.",
+  "homepage": null,
+  "stars": 409,
+  "license": null,
+  "updated": "2013-06-18",
+  "cloned": false
+ },
+ {
+  "name": "TiltHoverEffects",
+  "github": "https://github.com/codrops/TiltHoverEffects",
+  "description": "Some ideas for hover effects with a fancy tilt effect. Inspired by the effect seen on Kikk 2015.",
+  "homepage": "http://tympanus.net/codrops/2016/11/23/tilt-hover-effects/",
+  "stars": 408,
+  "license": null,
+  "updated": "2017-03-15",
+  "cloned": false
+ },
+ {
+  "name": "Baraja",
+  "github": "https://github.com/codrops/Baraja",
+  "description": "Baraja is a jQuery plugin that allows to move elements in a card-like fashion and spread them like one would spread a deck of cards on a table. It uses CSS transforms for rotating and translating the items. There are several options available that will create various spreading possibilities of the items, for example, moving the items laterally or rotating them in a fan-like way.",
+  "homepage": null,
+  "stars": 401,
+  "license": null,
+  "updated": "2017-04-08",
+  "cloned": false
+ },
+ {
+  "name": "MorphingBackgroundShapes",
+  "github": "https://github.com/codrops/MorphingBackgroundShapes",
+  "description": "A decorative website background effect where SVG shapes morph and transform on scroll.",
+  "homepage": "https://tympanus.net/codrops/?p=31190",
+  "stars": 397,
+  "license": null,
+  "updated": "2017-05-23",
+  "cloned": false
+ },
+ {
+  "name": "GammaGallery",
+  "github": "https://github.com/codrops/GammaGallery",
+  "description": "Gamma Gallery is an experimental responsive image gallery that attempts to provide an adjustable responsive images approach taking its grid layout and the full slideshow view into account.",
+  "homepage": null,
+  "stars": 396,
+  "license": null,
+  "updated": "2016-05-25",
+  "cloned": false
+ },
+ {
+  "name": "TooltipAnimations",
+  "github": "https://github.com/codrops/TooltipAnimations",
+  "description": "Some little ideas for bouncy and playful tooltip shapes and animations with SVG and anime.js. Among other styles, we use shape morphing and transform.",
+  "homepage": null,
+  "stars": 393,
+  "license": null,
+  "updated": "2017-05-31",
+  "cloned": false
+ },
+ {
+  "name": "DirectionAwareHoverEffect",
+  "github": "https://github.com/codrops/DirectionAwareHoverEffect",
+  "description": "How to create a direction-aware hover effect using CSS3 and jQuery. The idea is to slide in an overlay from the direction we are moving with the mouse.",
+  "homepage": null,
+  "stars": 391,
+  "license": null,
+  "updated": "2017-04-23",
+  "cloned": false
+ },
+ {
+  "name": "GridMenu",
+  "github": "https://github.com/codrops/GridMenu",
+  "description": "A CSS Grid powered menu with a box look and a sliding animation.",
+  "homepage": "https://tympanus.net/codrops/?p=34419",
+  "stars": 377,
+  "license": null,
+  "updated": "2018-03-28",
+  "cloned": false
+ },
+ {
+  "name": "LineHoverStyles",
+  "github": "https://github.com/codrops/LineHoverStyles",
+  "description": "A couple of simple & subtle line hover animations for links using CSS only.",
+  "homepage": null,
+  "stars": 373,
+  "license": "MIT",
+  "updated": "2021-02-19",
+  "cloned": true
+ },
+ {
+  "name": "MusicalInteractions",
+  "github": "https://github.com/codrops/MusicalInteractions",
+  "description": "Some experimental ideas for playful musical interactions powered by MIDI.js.",
+  "homepage": "http://tympanus.net/codrops/?p=28980",
+  "stars": 368,
+  "license": null,
+  "updated": "2021-02-04",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-SlidePushMenus",
+  "github": "https://github.com/codrops/Blueprint-SlidePushMenus",
+  "description": "Fixed menus that will slide out from the sides of the page and in case of the right and left side optionally move the body.",
+  "homepage": null,
+  "stars": 367,
+  "license": null,
+  "updated": "2014-04-24",
+  "cloned": false
+ },
+ {
+  "name": "Elastislide",
+  "github": "https://github.com/codrops/Elastislide",
+  "description": "Elastislide is a responsive image carousel that will adapt fluidly in a layout. It is a jQuery plugin that can be laid out horizontally or vertically with a pre-defined minimum number of shown images",
+  "homepage": null,
+  "stars": 358,
+  "license": null,
+  "updated": "2015-09-01",
+  "cloned": false
+ },
+ {
+  "name": "ThumbnailGridExpandingPreview",
+  "github": "https://github.com/codrops/ThumbnailGridExpandingPreview",
+  "description": "A tutorial on how to create a thumbnail grid with an expanding image preview similar to the effect seen on Google Images.",
+  "homepage": null,
+  "stars": 358,
+  "license": null,
+  "updated": "2018-07-02",
+  "cloned": false
+ },
+ {
+  "name": "GradientTopographyAnimation",
+  "github": "https://github.com/codrops/GradientTopographyAnimation",
+  "description": "Shape layers animation based on Polar Vector's work \"Gradient Topography\"",
+  "homepage": "https://tympanus.net/codrops/?p=33779",
+  "stars": 353,
+  "license": null,
+  "updated": "2018-01-24",
+  "cloned": false
+ },
+ {
+  "name": "PerspectivePageViewNavigation",
+  "github": "https://github.com/codrops/PerspectivePageViewNavigation",
+  "description": "Some effects for a perspective page view navigation where the page itself gets pushed away in 3D to reveal a menu or other items.",
+  "homepage": null,
+  "stars": 349,
+  "license": null,
+  "updated": "2019-01-16",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollTypographyAnimations",
+  "github": "https://github.com/codrops/OnScrollTypographyAnimations",
+  "description": "Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.",
+  "homepage": null,
+  "stars": 346,
+  "license": "MIT",
+  "updated": "2023-12-05",
+  "cloned": true
+ },
+ {
+  "name": "TypeShuffleAnimation",
+  "github": "https://github.com/codrops/TypeShuffleAnimation",
+  "description": "A shuffling type animation based on the effect seen on LCD 1.",
+  "homepage": null,
+  "stars": 339,
+  "license": "MIT",
+  "updated": "2023-02-08",
+  "cloned": true
+ },
+ {
+  "name": "SmoothScrollingImageEffects",
+  "github": "https://github.com/codrops/SmoothScrollingImageEffects",
+  "description": "A small set of ideas on animating images and other elements while smooth scrolling a page.",
+  "homepage": "https://tympanus.net/codrops/?p=42459",
+  "stars": 335,
+  "license": null,
+  "updated": "2020-01-29",
+  "cloned": false
+ },
+ {
+  "name": "ScrollBasedLayoutAnimations",
+  "github": "https://github.com/codrops/ScrollBasedLayoutAnimations",
+  "description": "An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.",
+  "homepage": null,
+  "stars": 335,
+  "license": "MIT",
+  "updated": "2023-07-20",
+  "cloned": true
+ },
+ {
+  "name": "IsometricGrids",
+  "github": "https://github.com/codrops/IsometricGrids",
+  "description": "Some experimental decorative and interactive isometric and 3D grids.",
+  "homepage": null,
+  "stars": 332,
+  "license": null,
+  "updated": "2017-12-27",
+  "cloned": false
+ },
+ {
+  "name": "DecorativeLetterAnimations",
+  "github": "https://github.com/codrops/DecorativeLetterAnimations",
+  "description": "Some decorative shape and letter animations based on the Dribbble shot \"Us By Night\" by Animography.",
+  "homepage": "https://tympanus.net/codrops/?p=33640",
+  "stars": 332,
+  "license": null,
+  "updated": "2021-01-23",
+  "cloned": false
+ },
+ {
+  "name": "CreativeGooeyEffects",
+  "github": "https://github.com/codrops/CreativeGooeyEffects",
+  "description": "Practical examples of how to apply the Gooey effect by Lucas Bebber",
+  "homepage": "http://tympanus.net/codrops/?p=23487",
+  "stars": 328,
+  "license": null,
+  "updated": "2015-03-10",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedResponsiveImageGrid",
+  "github": "https://github.com/codrops/AnimatedResponsiveImageGrid",
+  "description": "A jQuery plugin for creating a responsive image grid that will switch images using different animations and timings. This can work nicely as a background or decorative element of a website since we can randomize the appearance of new images and their transitions.",
+  "homepage": null,
+  "stars": 325,
+  "license": null,
+  "updated": "2022-10-23",
+  "cloned": false
+ },
+ {
+  "name": "GoogleNexusWebsiteMenu",
+  "github": "https://github.com/codrops/GoogleNexusWebsiteMenu",
+  "description": "A tutorial on how to recreate the slide out sidebar menu that can be seen on the Google Nexus 7 website.",
+  "homepage": null,
+  "stars": 325,
+  "license": null,
+  "updated": "2020-10-01",
+  "cloned": false
+ },
+ {
+  "name": "CircularProgressButton",
+  "github": "https://github.com/codrops/CircularProgressButton",
+  "description": "Implementation of Colin Garvin's [submit button concept](http://dribbble.com/shots/1426764-Submit-Button)",
+  "homepage": null,
+  "stars": 316,
+  "license": null,
+  "updated": "2017-10-18",
+  "cloned": false
+ },
+ {
+  "name": "GridLayoutSlideshow",
+  "github": "https://github.com/codrops/GridLayoutSlideshow",
+  "description": "A slideshow where each slide has an individual CSS grid layout and a reveal effect when navigating.",
+  "homepage": "https://tympanus.net/codrops/?p=31774",
+  "stars": 314,
+  "license": null,
+  "updated": "2018-11-05",
+  "cloned": false
+ },
+ {
+  "name": "MenuHoverEffects",
+  "github": "https://github.com/codrops/MenuHoverEffects",
+  "description": "Some inspiration for menu hover effects.",
+  "homepage": "https://tympanus.net/codrops/?p=31887",
+  "stars": 308,
+  "license": null,
+  "updated": "2020-09-30",
+  "cloned": false
+ },
+ {
+  "name": "NaturalLanguageForm",
+  "github": "https://github.com/codrops/NaturalLanguageForm",
+  "description": "An experimental form that uses natural language instead of the usual form layout. Values are entered using custom input elements.",
+  "homepage": null,
+  "stars": 305,
+  "license": null,
+  "updated": "2016-03-19",
+  "cloned": false
+ },
+ {
+  "name": "DialogEffects",
+  "github": "https://github.com/codrops/DialogEffects",
+  "description": "A collection of dialog effects using CSS (and SVG) animations.",
+  "homepage": null,
+  "stars": 305,
+  "license": null,
+  "updated": "2017-07-24",
+  "cloned": false
+ },
+ {
+  "name": "SlideshowAnimations",
+  "github": "https://github.com/codrops/SlideshowAnimations",
+  "description": "A collection of ideas for slideshow animations.",
+  "homepage": null,
+  "stars": 305,
+  "license": "MIT",
+  "updated": "2025-04-13",
+  "cloned": true
+ },
+ {
+  "name": "DiagonalSlideshow",
+  "github": "https://github.com/codrops/DiagonalSlideshow",
+  "description": "A slideshow with a diagonal look and a content preview",
+  "homepage": "https://tympanus.net/codrops/?p=35765",
+  "stars": 304,
+  "license": null,
+  "updated": "2018-08-28",
+  "cloned": false
+ },
+ {
+  "name": "InteractivePoints",
+  "github": "https://github.com/codrops/InteractivePoints",
+  "description": "An interactive transparency background effect that makes images visible when specific points are hovered, showing some content once clicked.",
+  "homepage": null,
+  "stars": 302,
+  "license": null,
+  "updated": "2016-07-20",
+  "cloned": false
+ },
+ {
+  "name": "ButtonHoverStyles",
+  "github": "https://github.com/codrops/ButtonHoverStyles",
+  "description": "Some ideas for CSS-only button hover styles and animations",
+  "homepage": null,
+  "stars": 294,
+  "license": "MIT",
+  "updated": "2023-02-20",
+  "cloned": true
+ },
+ {
+  "name": "ElasticSVGElements",
+  "github": "https://github.com/codrops/ElasticSVGElements",
+  "description": "Adding elasticity with SVG shape animations for enhanced UI interactions.",
+  "homepage": null,
+  "stars": 291,
+  "license": null,
+  "updated": "2014-12-15",
+  "cloned": false
+ },
+ {
+  "name": "SmoothScrollAnimations",
+  "github": "https://github.com/codrops/SmoothScrollAnimations",
+  "description": "Demo of a tutorial on how to add smooth page scrolling with an inner image animation",
+  "homepage": "https://tympanus.net/codrops/?p=41030",
+  "stars": 287,
+  "license": null,
+  "updated": "2019-09-13",
+  "cloned": false
+ },
+ {
+  "name": "PagePreloadingEffect",
+  "github": "https://github.com/codrops/PagePreloadingEffect",
+  "description": "A simple page preloading animation based on the effect seen on [Fontface Ninja](http://fontface.ninja/)",
+  "homepage": null,
+  "stars": 286,
+  "license": null,
+  "updated": "2014-08-05",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedFrameSlideshow",
+  "github": "https://github.com/codrops/AnimatedFrameSlideshow",
+  "description": "An experimental slideshow that shows an animated SVG frame when transitioning between slides. ",
+  "homepage": "https://tympanus.net/codrops/?p=33037",
+  "stars": 283,
+  "license": null,
+  "updated": "2017-11-15",
+  "cloned": false
+ },
+ {
+  "name": "InteractiveColoringConcept",
+  "github": "https://github.com/codrops/InteractiveColoringConcept",
+  "description": "A fun experimental coloring concept where a color droplet can be dragged from a palette and dropped on designated areas in a website mockup. ",
+  "homepage": null,
+  "stars": 274,
+  "license": null,
+  "updated": "2015-04-30",
+  "cloned": false
+ },
+ {
+  "name": "SearchUIEffects",
+  "github": "https://github.com/codrops/SearchUIEffects",
+  "description": "A couple of schematic, inspirational proof-of-concepts for how to show the search interface on a website using CSS animations.",
+  "homepage": null,
+  "stars": 272,
+  "license": null,
+  "updated": "2017-02-09",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedBorderMenus",
+  "github": "https://github.com/codrops/AnimatedBorderMenus",
+  "description": "A tutorial on how to create a off-canvas icon navigation with an animated border effect.",
+  "homepage": null,
+  "stars": 269,
+  "license": null,
+  "updated": "2013-09-30",
+  "cloned": false
+ },
+ {
+  "name": "Stapel",
+  "github": "https://github.com/codrops/Stapel",
+  "description": "An experimental jQuery plugin that will group thumbnails by a shared data-attribute into a pile. When clicking on the pile, the thumbnails that belong to that pile will be spread into a grid using CSS transitions.",
+  "homepage": null,
+  "stars": 268,
+  "license": null,
+  "updated": "2013-03-29",
+  "cloned": false
+ },
+ {
+  "name": "MorphingSearch",
+  "github": "https://github.com/codrops/MorphingSearch",
+  "description": "A simple effect idea for a search input that morphs into a fullscreen overlay. The idea is to enlarge the search input and show some relevant content or search results.",
+  "homepage": null,
+  "stars": 265,
+  "license": null,
+  "updated": "2014-11-07",
+  "cloned": false
+ },
+ {
+  "name": "MotionBlurEffect",
+  "github": "https://github.com/codrops/MotionBlurEffect",
+  "description": "A tutorial on how to create a motion blur effect on HTML elements using JavaScript and an SVG filter.",
+  "homepage": "http://tympanus.net/codrops/?p=23824",
+  "stars": 248,
+  "license": null,
+  "updated": "2016-05-07",
+  "cloned": false
+ },
+ {
+  "name": "GridLayoutMotion",
+  "github": "https://github.com/codrops/GridLayoutMotion",
+  "description": "A retro-style grid layout with a playful motion hover effect on the grid items.",
+  "homepage": "https://tympanus.net/codrops/?p=34922",
+  "stars": 246,
+  "license": null,
+  "updated": "2018-05-28",
+  "cloned": false
+ },
+ {
+  "name": "GridGallery",
+  "github": "https://github.com/codrops/GridGallery",
+  "description": "A responsive grid gallery based on the [Google Chromebook getting started](https://gweb-gettingstartedguide.appspot.com/) guide gallery. In this Blueprint we use Masonry for the grid and 3D transforms for navigating the items.",
+  "homepage": null,
+  "stars": 234,
+  "license": null,
+  "updated": "2015-05-27",
+  "cloned": false
+ },
+ {
+  "name": "MultiLevelMenu",
+  "github": "https://github.com/codrops/MultiLevelMenu",
+  "description": "A simple menu with multiple levels and an optional breadcrumb navigation and back button. ",
+  "homepage": null,
+  "stars": 234,
+  "license": null,
+  "updated": "2017-03-16",
+  "cloned": false
+ },
+ {
+  "name": "ScrollSpiral",
+  "github": "https://github.com/codrops/ScrollSpiral",
+  "description": "WebGL Scroll Spiral",
+  "homepage": "https://tympanus.net/Development/ScrollSpiral/",
+  "stars": 234,
+  "license": null,
+  "updated": "2017-04-26",
+  "cloned": false
+ },
+ {
+  "name": "ButtonStylesInspiration",
+  "github": "https://github.com/codrops/ButtonStylesInspiration",
+  "description": "Some ideas for modern and subtle button styles and effects",
+  "homepage": null,
+  "stars": 233,
+  "license": null,
+  "updated": "2015-02-26",
+  "cloned": false
+ },
+ {
+  "name": "TileScroll",
+  "github": "https://github.com/codrops/TileScroll",
+  "description": "Scroll animations for image grids using Locomotive Scroll",
+  "homepage": null,
+  "stars": 232,
+  "license": "MIT",
+  "updated": "2020-10-14",
+  "cloned": true
+ },
+ {
+  "name": "FolderPreviewIdeas",
+  "github": "https://github.com/codrops/FolderPreviewIdeas",
+  "description": "Some ideas for interacting, previewing or just playing with folders on hover",
+  "homepage": "https://tympanus.net/Development/FolderPreviewIdeas/",
+  "stars": 230,
+  "license": null,
+  "updated": "2017-05-23",
+  "cloned": false
+ },
+ {
+  "name": "ScrollingLettersAnimation",
+  "github": "https://github.com/codrops/ScrollingLettersAnimation",
+  "description": "A switching title effect where a fixed element changes depending on the scroll position. ",
+  "homepage": "https://tympanus.net/codrops/?p=33990",
+  "stars": 229,
+  "license": null,
+  "updated": "2018-02-12",
+  "cloned": false
+ },
+ {
+  "name": "ImageTrailEffects",
+  "github": "https://github.com/codrops/ImageTrailEffects",
+  "description": "A set of effects for mouse-following image trails that show a random series of images.",
+  "homepage": "https://tympanus.net/codrops/?p=42696",
+  "stars": 228,
+  "license": null,
+  "updated": "2019-08-07",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollEffectLayout",
+  "github": "https://github.com/codrops/OnScrollEffectLayout",
+  "description": "An on scroll effect template that animates the sides of sections once they are in the viewport.",
+  "homepage": null,
+  "stars": 225,
+  "license": null,
+  "updated": "2013-07-18",
+  "cloned": false
+ },
+ {
+  "name": "DraggableDualViewSlideshow",
+  "github": "https://github.com/codrops/DraggableDualViewSlideshow",
+  "description": "A draggable slideshow with two views: fullscreen and small carousel. In fullscreen view, a related content area can be viewed.",
+  "homepage": null,
+  "stars": 225,
+  "license": null,
+  "updated": "2015-06-09",
+  "cloned": false
+ },
+ {
+  "name": "LetterInteractions",
+  "github": "https://github.com/codrops/LetterInteractions",
+  "description": "Some inspiration for playful typographical effects and hover interactions on letters.",
+  "homepage": "https://tympanus.net/codrops/?p=31349",
+  "stars": 222,
+  "license": null,
+  "updated": "2017-07-05",
+  "cloned": false
+ },
+ {
+  "name": "OrganicShapeAnimations",
+  "github": "https://github.com/codrops/OrganicShapeAnimations",
+  "description": "Some shape morphing hover effects on images using SVG clipPath.",
+  "homepage": "https://tympanus.net/codrops/2017/06/28/organic-shape-animations-with-svg-clippath/",
+  "stars": 220,
+  "license": null,
+  "updated": "2017-06-28",
+  "cloned": false
+ },
+ {
+  "name": "ExpandingGridItemAnimation",
+  "github": "https://github.com/codrops/ExpandingGridItemAnimation",
+  "description": "Grid item animation based on the Dribbble shot \"Surf Project\" by Filip Slováček.",
+  "homepage": "https://tympanus.net/codrops/?p=32944",
+  "stars": 220,
+  "license": null,
+  "updated": "2017-12-19",
+  "cloned": false
+ },
+ {
+  "name": "ImageGridEffects",
+  "github": "https://github.com/codrops/ImageGridEffects",
+  "description": "Some inspiration for effects on image grids. The ideas include animations on the opening grid item, the disappearance of the grid and the resulting view.",
+  "homepage": "http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/",
+  "stars": 214,
+  "license": null,
+  "updated": "2015-10-15",
+  "cloned": false
+ },
+ {
+  "name": "MirrorEffect",
+  "github": "https://github.com/codrops/MirrorEffect",
+  "description": "Mirror effect as seen around the Web lately, i.e. on Corentin Fardeau's and Method's website. The idea is to mirror an image and animate it within the context of a slideshow.",
+  "homepage": null,
+  "stars": 214,
+  "license": null,
+  "updated": "2017-01-04",
+  "cloned": false
+ },
+ {
+  "name": "GridZoom",
+  "github": "https://github.com/codrops/GridZoom",
+  "description": "A simple image grid layout where a small grid image zooms to become larger while a content view opens.",
+  "homepage": null,
+  "stars": 214,
+  "license": "MIT",
+  "updated": "2021-12-01",
+  "cloned": true
+ },
+ {
+  "name": "ColumnScroll",
+  "github": "https://github.com/codrops/ColumnScroll",
+  "description": "A grid layout with columns that scroll in opposite directions.",
+  "homepage": null,
+  "stars": 213,
+  "license": "MIT",
+  "updated": "2021-12-21",
+  "cloned": true
+ },
+ {
+  "name": "TooltipStylesInspiration",
+  "github": "https://github.com/codrops/TooltipStylesInspiration",
+  "description": "Various hover tooltip styles, shapes and effects for your inspiration.",
+  "homepage": null,
+  "stars": 212,
+  "license": null,
+  "updated": "2014-10-07",
+  "cloned": false
+ },
+ {
+  "name": "LetterEffects",
+  "github": "https://github.com/codrops/LetterEffects",
+  "description": "A set of inspirational letter animations for display typography effects powered by anime.js",
+  "homepage": "http://tympanus.net/Development/LetterEffects/",
+  "stars": 207,
+  "license": null,
+  "updated": "2016-10-18",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedGridPreviews",
+  "github": "https://github.com/codrops/AnimatedGridPreviews",
+  "description": "A template where one can switch between little image previews that are scattered around the page. ",
+  "homepage": "https://tympanus.net/codrops/?p=36291",
+  "stars": 205,
+  "license": null,
+  "updated": "2019-05-20",
+  "cloned": false
+ },
+ {
+  "name": "codrops-sketches",
+  "github": "https://github.com/codrops/codrops-sketches",
+  "description": "A collection of demo variations, ideas, concepts & experiments.",
+  "homepage": null,
+  "stars": 204,
+  "license": "MIT",
+  "updated": "2024-02-17",
+  "cloned": true
+ },
+ {
+  "name": "AnimatedMenuIcon",
+  "github": "https://github.com/codrops/AnimatedMenuIcon",
+  "description": "Demo for the tutorial on how to animate an SVG menu icon based on Tamas Kojo's Dribbble shot hamburger menu and implemented Segment. By Luis Manuel.",
+  "homepage": "http://tympanus.net/Tutorials/AnimatedMenuIcon/",
+  "stars": 203,
+  "license": null,
+  "updated": "2015-11-12",
+  "cloned": false
+ },
+ {
+  "name": "RecordPlayer",
+  "github": "https://github.com/codrops/RecordPlayer",
+  "description": "An experimental template with an interactive old school record player powered by the [Web Audio API](https://www.w3.org/TR/webaudio/).",
+  "homepage": null,
+  "stars": 200,
+  "license": null,
+  "updated": "2016-06-15",
+  "cloned": false
+ },
+ {
+  "name": "Windy",
+  "github": "https://github.com/codrops/Windy",
+  "description": "A jQuery Plugin for Swift Content Navigation",
+  "homepage": null,
+  "stars": 199,
+  "license": null,
+  "updated": "2016-08-05",
+  "cloned": false
+ },
+ {
+  "name": "PhotographyWebsiteConcept",
+  "github": "https://github.com/codrops/PhotographyWebsiteConcept",
+  "description": "A photography-inspired website layout with an expanding stack slider and a background image tilt effect.",
+  "homepage": null,
+  "stars": 196,
+  "license": null,
+  "updated": "2020-10-02",
+  "cloned": false
+ },
+ {
+  "name": "ShapeHoverEffectSVG",
+  "github": "https://github.com/codrops/ShapeHoverEffectSVG",
+  "description": "Hover effect as seen on The Christmas Experiments website using SVG for the shape and Snap.svg for the animations.",
+  "homepage": null,
+  "stars": 193,
+  "license": null,
+  "updated": "2020-09-30",
+  "cloned": false
+ },
+ {
+  "name": "DotNavigationStyles",
+  "github": "https://github.com/codrops/DotNavigationStyles",
+  "description": "A set of subtle effects and styles for simple dot navigation.",
+  "homepage": null,
+  "stars": 193,
+  "license": null,
+  "updated": "2014-01-21",
+  "cloned": false
+ },
+ {
+  "name": "ScatteredPolaroidsGallery",
+  "github": "https://github.com/codrops/ScatteredPolaroidsGallery",
+  "description": "A flat-style Polaroid gallery where the items are scattered randomly in a container. When a specific item is selected, it will move to the middle while the other Polaroids will make space for it by moving to the sides. Optionally, an item can have a backface which will be shown by flipping the Polaroid when clicking on the current navigation dot again. ",
+  "homepage": null,
+  "stars": 191,
+  "license": null,
+  "updated": "2016-12-24",
+  "cloned": false
+ },
+ {
+  "name": "NavigationIndicators",
+  "github": "https://github.com/codrops/NavigationIndicators",
+  "description": "Some navigation style ideas for slideshows, pages and other components that require a navigation. Shown on the example of a vertical slideshow.",
+  "homepage": null,
+  "stars": 191,
+  "license": null,
+  "updated": "2016-09-02",
+  "cloned": false
+ },
+ {
+  "name": "GridLayoutScrollableContent",
+  "github": "https://github.com/codrops/GridLayoutScrollableContent",
+  "description": "A Masonry-powered grid layout with a motion hover effect on the grid items and a scrollable content view",
+  "homepage": "https://tympanus.net/codrops/?p=35959",
+  "stars": 190,
+  "license": null,
+  "updated": "2018-09-20",
+  "cloned": false
+ },
+ {
+  "name": "PFold",
+  "github": "https://github.com/codrops/PFold",
+  "description": "A highly experimental jQuery plugin that let's you unfold elements to reveal more content just like a piece of paper. Unfolding directions and number of steps can be specified.",
+  "homepage": null,
+  "stars": 189,
+  "license": null,
+  "updated": "2014-06-26",
+  "cloned": false
+ },
+ {
+  "name": "MorphingPageTransition",
+  "github": "https://github.com/codrops/MorphingPageTransition",
+  "description": "A simple morphing page transition effect where an SVG path gets morphed into another while the current page moves up.",
+  "homepage": "https://tympanus.net/codrops/?p=31976",
+  "stars": 183,
+  "license": null,
+  "updated": "2017-08-08",
+  "cloned": false
+ },
+ {
+  "name": "Scroll3DGrid",
+  "github": "https://github.com/codrops/Scroll3DGrid",
+  "description": "On-scroll animations for perspective image grids with different layouts.",
+  "homepage": null,
+  "stars": 183,
+  "license": "MIT",
+  "updated": "2023-08-03",
+  "cloned": true
+ },
+ {
+  "name": "ElastiStack",
+  "github": "https://github.com/codrops/ElastiStack",
+  "description": "ElastiStack is a little script that let's you navigate through a stack of items by dragging away the first one. It comes with an elastic touch meaning that when dragging the top-most item, the other ones will follow as if they were connected elastically. When reaching a certain distance, the dragged item will release itself and the next item will pop out. ",
+  "homepage": null,
+  "stars": 182,
+  "license": null,
+  "updated": "2018-08-03",
+  "cloned": false
+ },
+ {
+  "name": "TextStylesHoverEffects",
+  "github": "https://github.com/codrops/TextStylesHoverEffects",
+  "description": "A couple of creative text styles and hover effects for your inspiration. Some effects use experimental techniques including SVG masking and Canvas.",
+  "homepage": null,
+  "stars": 182,
+  "license": null,
+  "updated": "2015-05-13",
+  "cloned": false
+ },
+ {
+  "name": "MultiLayoutSlideshow",
+  "github": "https://github.com/codrops/MultiLayoutSlideshow",
+  "description": "A simple decorative slideshow component with individual slide layouts and effects.  Powered by anime.js. http://tympanus.net/Development/MultiLayoutSlideshow/",
+  "homepage": null,
+  "stars": 181,
+  "license": null,
+  "updated": "2016-08-10",
+  "cloned": false
+ },
+ {
+  "name": "3DRestaurantMenu",
+  "github": "https://github.com/codrops/3DRestaurantMenu",
+  "description": "A responsive 3D menu concept for a restaurant website. The idea is to show the menu as a folded flyer and unfold it in order to show the menu items.",
+  "homepage": null,
+  "stars": 180,
+  "license": null,
+  "updated": "2012-09-26",
+  "cloned": false
+ },
+ {
+  "name": "Arctext",
+  "github": "https://github.com/codrops/Arctext",
+  "description": "While CSS3 allows us to rotate letters, it is quite complicated to arrange each letter along a curved path. Arctext.js is a jQuery plugin that let's you do exactly that. Based on Lettering.js, it calculates the right rotation of each letter and distributes the letters equally across the imaginary arc of the given radius.",
+  "homepage": null,
+  "stars": 179,
+  "license": null,
+  "updated": "2023-10-27",
+  "cloned": false
+ },
+ {
+  "name": "BookPreview",
+  "github": "https://github.com/codrops/BookPreview",
+  "description": "A \"look inside\" book preview with BookBlock. A concept for book showcases or online book stores that shows a grid of books with the options to view the details and to look inside of the book, opening the BookBlock in fullscreen and allowing for a 3D page navigation.",
+  "homepage": null,
+  "stars": 178,
+  "license": null,
+  "updated": "2014-05-22",
+  "cloned": false
+ },
+ {
+  "name": "3DGridContentPreview",
+  "github": "https://github.com/codrops/3DGridContentPreview",
+  "description": "A grid layout with a magnetic hover effect and a content preview animation.",
+  "homepage": "https://tympanus.net/codrops/?p=54253",
+  "stars": 177,
+  "license": "MIT",
+  "updated": "2022-09-29",
+  "cloned": true
+ },
+ {
+  "name": "CircularTextEffect",
+  "github": "https://github.com/codrops/CircularTextEffect",
+  "description": "An experimental circular SVG text animation ",
+  "homepage": null,
+  "stars": 176,
+  "license": "MIT",
+  "updated": "2021-03-03",
+  "cloned": true
+ },
+ {
+  "name": "ExpandingSearchBar",
+  "github": "https://github.com/codrops/ExpandingSearchBar",
+  "description": "A tutorial on how to create a mobile-friendly and responsive expanding search bar.",
+  "homepage": null,
+  "stars": 174,
+  "license": null,
+  "updated": "2016-10-20",
+  "cloned": false
+ },
+ {
+  "name": "FullWidthTabs",
+  "github": "https://github.com/codrops/FullWidthTabs",
+  "description": "100% width tabbed content with some example media queries for smaller screens.",
+  "homepage": null,
+  "stars": 174,
+  "license": null,
+  "updated": "2017-03-15",
+  "cloned": false
+ },
+ {
+  "name": "PageStackNavigation",
+  "github": "https://github.com/codrops/PageStackNavigation",
+  "description": "A template for a simple page stack navigation.",
+  "homepage": "http://tympanus.net/codrops/2015/10/21/page-stack-navigation/",
+  "stars": 174,
+  "license": null,
+  "updated": "2017-02-08",
+  "cloned": false
+ },
+ {
+  "name": "InlineAnchorStyles",
+  "github": "https://github.com/codrops/InlineAnchorStyles",
+  "description": "A set of creative and modern inline anchor styles and effects for your inspiration.",
+  "homepage": null,
+  "stars": 173,
+  "license": null,
+  "updated": "2014-06-19",
+  "cloned": false
+ },
+ {
+  "name": "PageFlipLayout",
+  "github": "https://github.com/codrops/PageFlipLayout",
+  "description": "A template with a magazine-like layout and a flat page flip animation",
+  "homepage": "https://tympanus.net/codrops/?p=36406",
+  "stars": 172,
+  "license": null,
+  "updated": "2018-11-12",
+  "cloned": false
+ },
+ {
+  "name": "RapidImageHoverMenu",
+  "github": "https://github.com/codrops/RapidImageHoverMenu",
+  "description": "A hover effect for a menu where images appear with an animation for each item.",
+  "homepage": "https://tympanus.net/codrops/?p=50362",
+  "stars": 172,
+  "license": "MIT",
+  "updated": "2023-03-05",
+  "cloned": true
+ },
+ {
+  "name": "AudioVisualizers",
+  "github": "https://github.com/codrops/AudioVisualizers",
+  "description": "An exploration of modern, line-style sound visualization powered by p5js and its p5.sound library. ",
+  "homepage": "https://tympanus.net/codrops/?p=33934",
+  "stars": 170,
+  "license": null,
+  "updated": "2018-03-06",
+  "cloned": false
+ },
+ {
+  "name": "TextTrailEffect",
+  "github": "https://github.com/codrops/TextTrailEffect",
+  "description": "A text trail effect for a slideshow inspired by the \"Abstract is hiring\" Dribbble shot.",
+  "homepage": "https://tympanus.net/codrops/?p=38516",
+  "stars": 169,
+  "license": null,
+  "updated": "2019-02-27",
+  "cloned": false
+ },
+ {
+  "name": "CSSMarqueeMenu",
+  "github": "https://github.com/codrops/CSSMarqueeMenu",
+  "description": "A simple CSS based marquee effect for a menu.",
+  "homepage": "https://tympanus.net/codrops/?p=48796",
+  "stars": 169,
+  "license": "MIT",
+  "updated": "2020-04-02",
+  "cloned": true
+ },
+ {
+  "name": "SlideOutBoxMenu",
+  "github": "https://github.com/codrops/SlideOutBoxMenu",
+  "description": "A details menu with boxes that slide out in an irregular grid https://tympanus.net/codrops/?p=35517",
+  "homepage": null,
+  "stars": 167,
+  "license": null,
+  "updated": "2018-08-01",
+  "cloned": false
+ },
+ {
+  "name": "CardStackEffects",
+  "github": "https://github.com/codrops/CardStackEffects",
+  "description": "Some effect inspiration for card stacks. The idea is to show animation ideas for positive (accept) or negative (reject) feedback on a generic card element.",
+  "homepage": null,
+  "stars": 165,
+  "license": null,
+  "updated": "2015-10-28",
+  "cloned": false
+ },
+ {
+  "name": "FullImageReveal",
+  "github": "https://github.com/codrops/FullImageReveal",
+  "description": "A full image reveal effect with fancy thumbnail sliding.",
+  "homepage": "https://tympanus.net/codrops/?p=35087",
+  "stars": 164,
+  "license": null,
+  "updated": "2018-06-12",
+  "cloned": false
+ },
+ {
+  "name": "HorizontalSmoothScrollLayout",
+  "github": "https://github.com/codrops/HorizontalSmoothScrollLayout",
+  "description": "Some ideas for horizontal smooth scroll layouts and animations using Locomotive Scroll",
+  "homepage": null,
+  "stars": 164,
+  "license": "MIT",
+  "updated": "2020-12-09",
+  "cloned": true
+ },
+ {
+  "name": "ArrowNavigationStyles",
+  "github": "https://github.com/codrops/ArrowNavigationStyles",
+  "description": "Some inspiration for arrow navigation styles and hover effects using SVG icons for the arrows, and CSS transitions and animations for the effects. ",
+  "homepage": null,
+  "stars": 163,
+  "license": null,
+  "updated": "2014-06-10",
+  "cloned": false
+ },
+ {
+  "name": "SamsungGrid",
+  "github": "https://github.com/codrops/SamsungGrid",
+  "description": "Recreating the grid loading effect as seen on the Samsung Corporate Design Center website.",
+  "homepage": null,
+  "stars": 162,
+  "license": null,
+  "updated": "2019-10-22",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedCustomCursor",
+  "github": "https://github.com/codrops/AnimatedCustomCursor",
+  "description": "Some ideas for interactive custom cursor animations using SVG filters.",
+  "homepage": "https://tympanus.net/codrops/?p=48725",
+  "stars": 160,
+  "license": "MIT",
+  "updated": "2021-03-14",
+  "cloned": true
+ },
+ {
+  "name": "GooeyTextHoverEffect",
+  "github": "https://github.com/codrops/GooeyTextHoverEffect",
+  "description": "A gooey text hover effect using SVG filters",
+  "homepage": "https://tympanus.net/codrops/?p=49166",
+  "stars": 158,
+  "license": "MIT",
+  "updated": "2024-08-06",
+  "cloned": true
+ },
+ {
+  "name": "RotatedRevealers",
+  "github": "https://github.com/codrops/RotatedRevealers",
+  "description": "Animated rotated overlays, or \"reveal\" elements for interesting page transition effects.",
+  "homepage": "https://tympanus.net/codrops/?p=40167",
+  "stars": 155,
+  "license": null,
+  "updated": "2020-02-25",
+  "cloned": false
+ },
+ {
+  "name": "LineTextHoverAnimations",
+  "github": "https://github.com/codrops/LineTextHoverAnimations",
+  "description": "Some hover animations for a terminal-like look",
+  "homepage": null,
+  "stars": 155,
+  "license": "MIT",
+  "updated": "2024-06-19",
+  "cloned": true
+ },
+ {
+  "name": "ColorExtraction",
+  "github": "https://github.com/codrops/ColorExtraction",
+  "description": "Creating a color palette from images in a fun way using CSS Filters and Vibrant.js",
+  "homepage": null,
+  "stars": 154,
+  "license": null,
+  "updated": "2015-06-05",
+  "cloned": false
+ },
+ {
+  "name": "MultiboxMenu",
+  "github": "https://github.com/codrops/MultiboxMenu",
+  "description": "A simple grid-powered multibox menu that shows with a reveal animation.",
+  "homepage": "https://tympanus.net/codrops/?p=36043",
+  "stars": 154,
+  "license": null,
+  "updated": "2018-10-03",
+  "cloned": false
+ },
+ {
+  "name": "ImageGridMotionEffect",
+  "github": "https://github.com/codrops/ImageGridMotionEffect",
+  "description": "A motion hover effect for a background grid of images.",
+  "homepage": "https://tympanus.net/codrops/?p=50073",
+  "stars": 154,
+  "license": "MIT",
+  "updated": "2021-08-23",
+  "cloned": true
+ },
+ {
+  "name": "FullscreenScroll",
+  "github": "https://github.com/codrops/FullscreenScroll",
+  "description": "A fullscreen scroll-based slideshow with a content view powered by GreenSock's Observer plugin.",
+  "homepage": null,
+  "stars": 153,
+  "license": "MIT",
+  "updated": "2022-08-17",
+  "cloned": true
+ },
+ {
+  "name": "ScrollBlurTypography",
+  "github": "https://github.com/codrops/ScrollBlurTypography",
+  "description": "Animations for revealing blurry text on scroll.",
+  "homepage": null,
+  "stars": 148,
+  "license": "MIT",
+  "updated": "2024-04-23",
+  "cloned": true
+ },
+ {
+  "name": "Blueprint-FixedBackgroundScrollingLayout",
+  "github": "https://github.com/codrops/Blueprint-FixedBackgroundScrollingLayout",
+  "description": "A fixed background image scrolling layout with 100% height panels and smooth scrolling.",
+  "homepage": null,
+  "stars": 145,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "DraggableMenu",
+  "github": "https://github.com/codrops/DraggableMenu",
+  "description": "A draggable menu that shows a thumbnail preview of an image grid",
+  "homepage": "https://tympanus.net/codrops/?p=40926",
+  "stars": 145,
+  "license": null,
+  "updated": "2023-01-09",
+  "cloned": false
+ },
+ {
+  "name": "FilterableProductGrid",
+  "github": "https://github.com/codrops/FilterableProductGrid",
+  "description": "A responsive product grid layout with touch-friendly Flickity galleries and Isotope-powered filter functionality.",
+  "homepage": null,
+  "stars": 144,
+  "license": null,
+  "updated": "2017-04-23",
+  "cloned": false
+ },
+ {
+  "name": "DistortedLinkEffects",
+  "github": "https://github.com/codrops/DistortedLinkEffects",
+  "description": "Some ideas for decorative link distortion effects using SVG filters.",
+  "homepage": "https://tympanus.net/codrops/?p=48230",
+  "stars": 144,
+  "license": "MIT",
+  "updated": "2020-03-13",
+  "cloned": true
+ },
+ {
+  "name": "DynamicGrid",
+  "github": "https://github.com/codrops/DynamicGrid",
+  "description": "A dynamic grid layout that let's you choose how many rows and columns of items are shown.  Partly based on the visualization of Google Trends, except that you can add transitions.",
+  "homepage": null,
+  "stars": 143,
+  "license": null,
+  "updated": "2013-06-19",
+  "cloned": false
+ },
+ {
+  "name": "css-reference-issues",
+  "github": "https://github.com/codrops/css-reference-issues",
+  "description": "A repo for collecting issues and suggestions for the Codrops CSS Reference http://tympanus.net/codrops/css_reference/",
+  "homepage": null,
+  "stars": 143,
+  "license": null,
+  "updated": "2015-02-02",
+  "cloned": false
+ },
+ {
+  "name": "FancyLetterAnimation",
+  "github": "https://github.com/codrops/FancyLetterAnimation",
+  "description": "An experimental SVG letter animation inspired by the Dribbble shot [\"Shading Letters in Illustrator\"](https://dribbble.com/shots/2943049-Shading-Letters-in-Illustrator) by Jake Bartlett's. Powered by Julian Garnier's [anime.js](http://anime-js.com/).",
+  "homepage": null,
+  "stars": 143,
+  "license": null,
+  "updated": "2016-12-19",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedLetters",
+  "github": "https://github.com/codrops/AnimatedLetters",
+  "description": "A plugin that animates an artistic font using Segment, the SVG strokes animation library. By Luis Manuel.",
+  "homepage": null,
+  "stars": 142,
+  "license": null,
+  "updated": "2016-03-02",
+  "cloned": false
+ },
+ {
+  "name": "ItemSlider",
+  "github": "https://github.com/codrops/ItemSlider",
+  "description": "A tutorial on how to create a simple category slider with a minimal design using CSS animations and jQuery. The idea is to slide the items sequentially depending on the slide direction.",
+  "homepage": null,
+  "stars": 138,
+  "license": null,
+  "updated": "2014-05-23",
+  "cloned": false
+ },
+ {
+  "name": "CodropsTemplate",
+  "github": "https://github.com/codrops/CodropsTemplate",
+  "description": "Codrops demo template. Wiki 👉",
+  "homepage": "https://github.com/codrops/CodropsTemplate/wiki/Contributing-to-Codrops",
+  "stars": 137,
+  "license": "MIT",
+  "updated": "2026-05-31",
+  "cloned": false
+ },
+ {
+  "name": "PageRevealEffects",
+  "github": "https://github.com/codrops/PageRevealEffects",
+  "description": "Some ideas for modern multi-layer page transitions using CSS Animations.",
+  "homepage": null,
+  "stars": 137,
+  "license": null,
+  "updated": "2016-06-01",
+  "cloned": false
+ },
+ {
+  "name": "StickySections",
+  "github": "https://github.com/codrops/StickySections",
+  "description": "Some ideas of how sticky sections can be animated while exiting the viewport.",
+  "homepage": null,
+  "stars": 133,
+  "license": "MIT",
+  "updated": "2024-02-04",
+  "cloned": true
+ },
+ {
+  "name": "CubesAdventCalendar",
+  "github": "https://github.com/codrops/CubesAdventCalendar",
+  "description": "A 3D Advent calendar with fun hover effects and background color animations",
+  "homepage": "http://tympanus.net/codrops/2016/11/09/cubes-advent-calendar/",
+  "stars": 132,
+  "license": null,
+  "updated": "2016-11-12",
+  "cloned": false
+ },
+ {
+  "name": "SliceRevealer",
+  "github": "https://github.com/codrops/SliceRevealer",
+  "description": "A reveal effect where animated slices cover and uncover an image",
+  "homepage": "https://tympanus.net/codrops/?p=33895",
+  "stars": 132,
+  "license": null,
+  "updated": "2018-02-06",
+  "cloned": false
+ },
+ {
+  "name": "ShapeMorphIdeas",
+  "github": "https://github.com/codrops/ShapeMorphIdeas",
+  "description": "A small set of ideas for organic shape effects with SVG.",
+  "homepage": "https://tympanus.net/codrops/?p=32314",
+  "stars": 130,
+  "license": null,
+  "updated": "2017-09-19",
+  "cloned": false
+ },
+ {
+  "name": "DeveloperDesignerPageLayout",
+  "github": "https://github.com/codrops/DeveloperDesignerPageLayout",
+  "description": "An experimental page layout concept with a developer/designer theme and a special effect.",
+  "homepage": null,
+  "stars": 129,
+  "license": null,
+  "updated": "2017-04-18",
+  "cloned": false
+ },
+ {
+  "name": "ZoomSlider",
+  "github": "https://github.com/codrops/ZoomSlider",
+  "description": "A simple content slider with depth-like zoom functionality for a predefined area in each slide.",
+  "homepage": "http://tympanus.net/Blueprints/ZoomSlider/",
+  "stars": 126,
+  "license": null,
+  "updated": "2017-04-23",
+  "cloned": false
+ },
+ {
+  "name": "KineticTypePageTransition",
+  "github": "https://github.com/codrops/KineticTypePageTransition",
+  "description": "A concept for a kinetic typography based page transition. ",
+  "homepage": null,
+  "stars": 126,
+  "license": "MIT",
+  "updated": "2025-05-30",
+  "cloned": true
+ },
+ {
+  "name": "BackgroundScaleHoverEffect",
+  "github": "https://github.com/codrops/BackgroundScaleHoverEffect",
+  "description": "Recreation of the background scale hover effect seen on the DDD Hotel website using CSS clip paths.",
+  "homepage": "https://tympanus.net/codrops/?p=48414",
+  "stars": 124,
+  "license": "MIT",
+  "updated": "2020-03-11",
+  "cloned": true
+ },
+ {
+  "name": "OutdoorsTemplate",
+  "github": "https://github.com/codrops/OutdoorsTemplate",
+  "description": "An implementation of Gil Huybrecht “Outdoors” design project powered by layered CSS grids.",
+  "homepage": null,
+  "stars": 122,
+  "license": null,
+  "updated": "2020-09-16",
+  "cloned": false
+ },
+ {
+  "name": "GridRevealEffects",
+  "github": "https://github.com/codrops/GridRevealEffects",
+  "description": "Some experiments with the new staggering system of Anime.js",
+  "homepage": "https://tympanus.net/codrops/?p=38214",
+  "stars": 122,
+  "license": null,
+  "updated": "2019-02-09",
+  "cloned": false
+ },
+ {
+  "name": "SplitLayout",
+  "github": "https://github.com/codrops/SplitLayout",
+  "description": "A template for a split layout with two sides. When clicking on a half in the initial view, the layout moves into the respective direction with some transition effects.",
+  "homepage": null,
+  "stars": 121,
+  "license": null,
+  "updated": "2013-10-25",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollColumnsRows",
+  "github": "https://github.com/codrops/OnScrollColumnsRows",
+  "description": "Scroll-driven animations for columns and rows powered by GSAP.",
+  "homepage": null,
+  "stars": 120,
+  "license": "MIT",
+  "updated": "2023-08-15",
+  "cloned": true
+ },
+ {
+  "name": "Exhibition",
+  "github": "https://github.com/codrops/Exhibition",
+  "description": "A highly experimental 3D room layout for a gallery that aims to show exhibition details in an interesting way.",
+  "homepage": null,
+  "stars": 119,
+  "license": null,
+  "updated": "2017-03-30",
+  "cloned": false
+ },
+ {
+  "name": "ScrollAnimationsGrid",
+  "github": "https://github.com/codrops/ScrollAnimationsGrid",
+  "description": "Various effects for images when scrolling a page with a grid.",
+  "homepage": "https://tympanus.net/codrops/?p=63672",
+  "stars": 119,
+  "license": "MIT",
+  "updated": "2022-07-13",
+  "cloned": true
+ },
+ {
+  "name": "astro-shop-view-transitions",
+  "github": "https://github.com/codrops/astro-shop-view-transitions",
+  "description": "Minimalist Shop with Browser View Transitions API and Astro for a smoother navigation experience.",
+  "homepage": "https://tympanus.net/codrops/?p=73418",
+  "stars": 118,
+  "license": "MIT",
+  "updated": "2024-02-28",
+  "cloned": true
+ },
+ {
+  "name": "3DStackMotion",
+  "github": "https://github.com/codrops/3DStackMotion",
+  "description": "An experimental 3D card stack animation on scroll.",
+  "homepage": null,
+  "stars": 118,
+  "license": "MIT",
+  "updated": "2024-03-06",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedImageColumns",
+  "github": "https://github.com/codrops/AnimatedImageColumns",
+  "description": "An experimental layout where image columns get animated when a menu item is clicked. ",
+  "homepage": "https://tympanus.net/codrops/?p=40486",
+  "stars": 117,
+  "license": null,
+  "updated": "2019-05-16",
+  "cloned": false
+ },
+ {
+  "name": "RapidImageHoverMenuEffects",
+  "github": "https://github.com/codrops/RapidImageHoverMenuEffects",
+  "description": "A set of hover effects on menu items with images.",
+  "homepage": "https://tympanus.net/codrops/2020/07/08/exploring-animations-for-menu-hover-effects/",
+  "stars": 117,
+  "license": "MIT",
+  "updated": "2020-07-08",
+  "cloned": false
+ },
+ {
+  "name": "MakeWayGridEffect",
+  "github": "https://github.com/codrops/MakeWayGridEffect",
+  "description": "A little grid interaction effect where adjoining items make way to a selected one that expands.",
+  "homepage": null,
+  "stars": 116,
+  "license": "MIT",
+  "updated": "2022-07-13",
+  "cloned": false
+ },
+ {
+  "name": "MenuToGrid",
+  "github": "https://github.com/codrops/MenuToGrid",
+  "description": "A simple layout animation where the thumbnails of a menu row animate to their position in a content preview grid using GSAP's Flip plugin.",
+  "homepage": null,
+  "stars": 116,
+  "license": "MIT",
+  "updated": "2022-09-19",
+  "cloned": false
+ },
+ {
+  "name": "GlitchSlideshow",
+  "github": "https://github.com/codrops/GlitchSlideshow",
+  "description": "A slideshow that uses a CSS glitch effect for slide transitions.",
+  "homepage": "https://tympanus.net/codrops/?p=34273",
+  "stars": 115,
+  "license": null,
+  "updated": "2018-03-10",
+  "cloned": false
+ },
+ {
+  "name": "CheckoutConcepts",
+  "github": "https://github.com/codrops/CheckoutConcepts",
+  "description": "Some simple ideas for enhancing the checkout process.",
+  "homepage": null,
+  "stars": 114,
+  "license": null,
+  "updated": "2015-01-22",
+  "cloned": false
+ },
+ {
+  "name": "PasswordStrengthVisualization",
+  "github": "https://github.com/codrops/PasswordStrengthVisualization",
+  "description": "Visual feedback for password strength on an image based on Colibro's sign up form.",
+  "homepage": "https://tympanus.net/codrops/?p=34613",
+  "stars": 114,
+  "license": null,
+  "updated": "2018-04-18",
+  "cloned": false
+ },
+ {
+  "name": "TextRepetitionEffect",
+  "github": "https://github.com/codrops/TextRepetitionEffect",
+  "description": "An on-scroll animation that shows repeated fragments of a big text as seen on the website of Dr. Dabber.",
+  "homepage": null,
+  "stars": 114,
+  "license": "MIT",
+  "updated": "2022-04-13",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollLayoutFormations",
+  "github": "https://github.com/codrops/OnScrollLayoutFormations",
+  "description": "Layout formations on scroll using GSAP",
+  "homepage": "https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/",
+  "stars": 114,
+  "license": "MIT",
+  "updated": "2024-09-19",
+  "cloned": false
+ },
+ {
+  "name": "SuperfluidLayout",
+  "github": "https://github.com/codrops/SuperfluidLayout",
+  "description": "Experimental reveal animations on typographic elements",
+  "homepage": null,
+  "stars": 112,
+  "license": "MIT",
+  "updated": "2021-10-06",
+  "cloned": false
+ },
+ {
+  "name": "WobblySlideshowEffect",
+  "github": "https://github.com/codrops/WobblySlideshowEffect",
+  "description": "The slides in this slideshow wobble as they move. The effect is based on Sergey Valiukh's Dribbble shot and was made using Snap.svg and morphing SVG paths.",
+  "homepage": null,
+  "stars": 111,
+  "license": null,
+  "updated": "2014-10-24",
+  "cloned": false
+ },
+ {
+  "name": "ImageToContent",
+  "github": "https://github.com/codrops/ImageToContent",
+  "description": "A simple scroll effect and page transition inspired by Vitalii Burhonskyi’s Dribbble shot.",
+  "homepage": null,
+  "stars": 111,
+  "license": "MIT",
+  "updated": "2022-08-03",
+  "cloned": false
+ },
+ {
+  "name": "YouTubeLeftSideMenu",
+  "github": "https://github.com/codrops/YouTubeLeftSideMenu",
+  "description": "A tutorial on how to recreate the effect of YouTube's little left side menu. The idea is to slide a little menu icon to the right side while revealing some menu item list beneath. ",
+  "homepage": null,
+  "stars": 110,
+  "license": null,
+  "updated": "2013-04-25",
+  "cloned": false
+ },
+ {
+  "name": "GridItemHoverEffect",
+  "github": "https://github.com/codrops/GridItemHoverEffect",
+  "description": "Some hover effects based on the grid design by Alena Orlova.",
+  "homepage": null,
+  "stars": 109,
+  "license": "MIT",
+  "updated": "2023-10-05",
+  "cloned": false
+ },
+ {
+  "name": "ShapesSlideshow",
+  "github": "https://github.com/codrops/ShapesSlideshow",
+  "description": "An experimental slideshow using clip-path to create shape transitions between slides.",
+  "homepage": null,
+  "stars": 108,
+  "license": "MIT",
+  "updated": "2021-03-10",
+  "cloned": false
+ },
+ {
+  "name": "ThumbFullTransition",
+  "github": "https://github.com/codrops/ThumbFullTransition",
+  "description": "An experimental animation where an image goes from thumbnail to full width, allowing for a classy entry to an article view.",
+  "homepage": "https://tympanus.net/codrops/?p=50733",
+  "stars": 106,
+  "license": "MIT",
+  "updated": "2020-11-11",
+  "cloned": false
+ },
+ {
+  "name": "TooltipMenu",
+  "github": "https://github.com/codrops/TooltipMenu",
+  "description": "This is a simple tooltip menu that will show a tooltip submenu when hovering over an item. The submenu will either appear above or below the main menu, depending on where more space is available. Using Modernizr's touch detection, the menu will either react on hover or on click. Example media queries show how to adjust the style for smaller screens.",
+  "homepage": null,
+  "stars": 104,
+  "license": null,
+  "updated": "2013-05-29",
+  "cloned": false
+ },
+ {
+  "name": "ProductComparison",
+  "github": "https://github.com/codrops/ProductComparison",
+  "description": "A basic responsive product grid layout with comparison functionality and a slide-in effect.",
+  "homepage": null,
+  "stars": 104,
+  "license": null,
+  "updated": "2015-05-26",
+  "cloned": false
+ },
+ {
+  "name": "LayerMotionSlideshow",
+  "github": "https://github.com/codrops/LayerMotionSlideshow",
+  "description": "A CSS Grid-based slideshow template with a layer motion effect on the main image and on the title.",
+  "homepage": "https://tympanus.net/codrops/?p=37953",
+  "stars": 103,
+  "license": null,
+  "updated": "2019-01-24",
+  "cloned": false
+ },
+ {
+  "name": "CrossroadsSlideshow",
+  "github": "https://github.com/codrops/CrossroadsSlideshow",
+  "description": "An experimental slideshow with an inclined look with three slide previews and a content view on click.",
+  "homepage": "https://tympanus.net/codrops/?p=39863",
+  "stars": 103,
+  "license": null,
+  "updated": "2020-05-07",
+  "cloned": false
+ },
+ {
+  "name": "LineMaker",
+  "github": "https://github.com/codrops/LineMaker",
+  "description": "A plugin for creating and animating decorative lines on websites.",
+  "homepage": "http://tympanus.net/codrops/2016/10/12/animated-decorative-lines/",
+  "stars": 102,
+  "license": null,
+  "updated": "2016-10-18",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollPathAnimations",
+  "github": "https://github.com/codrops/OnScrollPathAnimations",
+  "description": "Animating SVG paths on smooth scroll.",
+  "homepage": null,
+  "stars": 102,
+  "license": "MIT",
+  "updated": "2022-07-13",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-HorizontalDropDownMenu",
+  "github": "https://github.com/codrops/Blueprint-HorizontalDropDownMenu",
+  "description": "A responsive horizontal drop-down menu inspired by the Microsoft.com menu.",
+  "homepage": null,
+  "stars": 101,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "PricingTablesInspiration",
+  "github": "https://github.com/codrops/PricingTablesInspiration",
+  "description": "A couple of styles and inspiration for responsive, flexbox-based HTML pricing tables.",
+  "homepage": null,
+  "stars": 101,
+  "license": null,
+  "updated": "2015-11-19",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollFilter",
+  "github": "https://github.com/codrops/OnScrollFilter",
+  "description": "Combining GSAP's Scroll Trigger and Flip with a SVG Filter, based on a demo by Fabio Ottaviani.",
+  "homepage": null,
+  "stars": 101,
+  "license": "MIT",
+  "updated": "2023-07-05",
+  "cloned": false
+ },
+ {
+  "name": "StackSlider",
+  "github": "https://github.com/codrops/StackSlider",
+  "description": "An experimental image slider that flips through images in 3D. Two stacks resemble image piles where images will be lifted off from and rotated to the center for viewing.",
+  "homepage": null,
+  "stars": 100,
+  "license": null,
+  "updated": "2015-04-30",
+  "cloned": false
+ },
+ {
+  "name": "RevealSlideshow",
+  "github": "https://github.com/codrops/RevealSlideshow",
+  "description": "A fullscreen image slideshow with lateral image previews and a reveal animation.",
+  "homepage": "https://tympanus.net/codrops/?p=35175",
+  "stars": 100,
+  "license": null,
+  "updated": "2018-06-26",
+  "cloned": false
+ },
+ {
+  "name": "TextDistortionEffects",
+  "github": "https://github.com/codrops/TextDistortionEffects",
+  "description": "Some text distortion experiments using the Blotter.js library.",
+  "homepage": "https://tympanus.net/codrops/?p=38200",
+  "stars": 100,
+  "license": null,
+  "updated": "2019-02-06",
+  "cloned": false
+ },
+ {
+  "name": "Staggered3DGridAnimations",
+  "github": "https://github.com/codrops/Staggered3DGridAnimations",
+  "description": "A playful concept where we use scroll-based animations to create 3D grid effects and other transitions.",
+  "homepage": null,
+  "stars": 100,
+  "license": "MIT",
+  "updated": "2024-10-27",
+  "cloned": false
+ },
+ {
+  "name": "GooeyCursor",
+  "github": "https://github.com/codrops/GooeyCursor",
+  "description": "A gooey cursor background effect with SVG filters and CSS blend modes.",
+  "homepage": null,
+  "stars": 99,
+  "license": "MIT",
+  "updated": "2023-06-07",
+  "cloned": false
+ },
+ {
+  "name": "CSSProgress",
+  "github": "https://github.com/codrops/CSSProgress",
+  "description": "A tutorial on how to create shaded CSS-only progress bars with Sass. By Rafael González.",
+  "homepage": null,
+  "stars": 98,
+  "license": null,
+  "updated": "2020-10-02",
+  "cloned": false
+ },
+ {
+  "name": "Theodore",
+  "github": "https://github.com/codrops/Theodore",
+  "description": "A little menu effect with an SVG overlay and an infinite background CSS animation.",
+  "homepage": "https://tympanus.net/codrops/?p=57286",
+  "stars": 98,
+  "license": "MIT",
+  "updated": "2021-11-02",
+  "cloned": false
+ },
+ {
+  "name": "ImagePixelLoading",
+  "github": "https://github.com/codrops/ImagePixelLoading",
+  "description": "A recreation of the on-scroll pixelated image loading effect seen on Felicity Ingram's website",
+  "homepage": null,
+  "stars": 96,
+  "license": "MIT",
+  "updated": "2023-05-24",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollTextHighlight",
+  "github": "https://github.com/codrops/OnScrollTextHighlight",
+  "description": "Some scroll-based effects for text highlights",
+  "homepage": null,
+  "stars": 96,
+  "license": "MIT",
+  "updated": "2024-05-23",
+  "cloned": false
+ },
+ {
+  "name": "MotionRevealSlideshow",
+  "github": "https://github.com/codrops/MotionRevealSlideshow",
+  "description": " simple image slideshow with a motion reveal effect and a fullscreen details view.",
+  "homepage": "https://tympanus.net/codrops/?p=35450",
+  "stars": 95,
+  "license": null,
+  "updated": "2018-07-26",
+  "cloned": false
+ },
+ {
+  "name": "PreviewContentTransition",
+  "github": "https://github.com/codrops/PreviewContentTransition",
+  "description": "An experimental page transition concept for magazines and blogs where an excerpt item opens for a full page view.",
+  "homepage": null,
+  "stars": 95,
+  "license": "MIT",
+  "updated": "2021-04-10",
+  "cloned": false
+ },
+ {
+  "name": "PixelTransition",
+  "github": "https://github.com/codrops/PixelTransition",
+  "description": "Ideas for pixel page transitions based on an animation by Niccolò Miranda.",
+  "homepage": "https://tympanus.net/codrops/?p=71437",
+  "stars": 95,
+  "license": "MIT",
+  "updated": "2023-04-05",
+  "cloned": false
+ },
+ {
+  "name": "WebGLBlobs",
+  "github": "https://github.com/codrops/WebGLBlobs",
+  "description": "Demos for the tutorial on how to deform and color spheres in Three.js.",
+  "homepage": "https://tympanus.net/codrops/?p=52932",
+  "stars": 94,
+  "license": "MIT",
+  "updated": "2021-01-25",
+  "cloned": false
+ },
+ {
+  "name": "TextBlockTransitions",
+  "github": "https://github.com/codrops/TextBlockTransitions",
+  "description": "Some inspiration for transitioning text blocks with different word animations.",
+  "homepage": null,
+  "stars": 94,
+  "license": "MIT",
+  "updated": "2023-07-13",
+  "cloned": false
+ },
+ {
+  "name": "DraggableImageStrip",
+  "github": "https://github.com/codrops/DraggableImageStrip",
+  "description": "A draggable image strip layout with a content preview powered by Draggabilly and TweenMax.",
+  "homepage": "https://tympanus.net/codrops/?p=40863",
+  "stars": 93,
+  "license": null,
+  "updated": "2019-06-11",
+  "cloned": false
+ },
+ {
+  "name": "MorphingDevices",
+  "github": "https://github.com/codrops/MorphingDevices",
+  "description": "An experimental morphing device slideshow with CSS Transitions for showcasing responsive web design screenshots.",
+  "homepage": null,
+  "stars": 92,
+  "license": null,
+  "updated": "2013-05-15",
+  "cloned": false
+ },
+ {
+  "name": "SwatchBook",
+  "github": "https://github.com/codrops/SwatchBook",
+  "description": "A tutorial about how to create a swatch book like component that let's you open and rotate the single swatches revealing some details. We will be using CSS transforms and transitions and create a simple jQuery plugin.",
+  "homepage": null,
+  "stars": 91,
+  "license": null,
+  "updated": "2014-01-17",
+  "cloned": false
+ },
+ {
+  "name": "ResponsiveIconGrid",
+  "github": "https://github.com/codrops/ResponsiveIconGrid",
+  "description": "A responsive grid of anchors with icons and text. ",
+  "homepage": null,
+  "stars": 91,
+  "license": null,
+  "updated": "2013-07-01",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedImagePieces",
+  "github": "https://github.com/codrops/AnimatedImagePieces",
+  "description": "A set of experiments with an animated image pieces effect where an image gets shattered into rectangular fragments.",
+  "homepage": null,
+  "stars": 91,
+  "license": null,
+  "updated": "2017-07-26",
+  "cloned": false
+ },
+ {
+  "name": "SVGImageHover",
+  "github": "https://github.com/codrops/SVGImageHover",
+  "description": "Some SVG filters-powered distortion effects shown on images when hovering a link.",
+  "homepage": "https://tympanus.net/codrops/?p=38971",
+  "stars": 91,
+  "license": null,
+  "updated": "2019-03-12",
+  "cloned": false
+ },
+ {
+  "name": "MediaPopUpEffect",
+  "github": "https://github.com/codrops/MediaPopUpEffect",
+  "description": "Some experimental pop up hover/touch effects for little media items.",
+  "homepage": null,
+  "stars": 90,
+  "license": null,
+  "updated": "2016-11-01",
+  "cloned": false
+ },
+ {
+  "name": "RoomDisplay",
+  "github": "https://github.com/codrops/RoomDisplay",
+  "description": "An interactive room slideshow based on Bilal Mechairia's Dribbble shot [\"Spaces - interaction prototype\"](https://dribbble.com/shots/2275597-Spaces-interaction-prototype)",
+  "homepage": null,
+  "stars": 89,
+  "license": null,
+  "updated": "2015-11-10",
+  "cloned": false
+ },
+ {
+  "name": "LinesToLayout",
+  "github": "https://github.com/codrops/LinesToLayout",
+  "description": "A simple layout switch example where we go from a typography row view with inline images to a large image preview with more content.",
+  "homepage": null,
+  "stars": 89,
+  "license": "MIT",
+  "updated": "2022-04-05",
+  "cloned": false
+ },
+ {
+  "name": "ClipHoverEffect",
+  "github": "https://github.com/codrops/ClipHoverEffect",
+  "description": "A similar hover animation to the one seen on the website of Quai Network.",
+  "homepage": null,
+  "stars": 89,
+  "license": "MIT",
+  "updated": "2023-06-21",
+  "cloned": false
+ },
+ {
+  "name": "HorizontalSlideOutMenu",
+  "github": "https://github.com/codrops/HorizontalSlideOutMenu",
+  "description": "A horizontal slide out menu with a grid-like thumbnail layout for the submenu. With media query examples for smaller devices.",
+  "homepage": null,
+  "stars": 87,
+  "license": null,
+  "updated": "2013-05-17",
+  "cloned": false
+ },
+ {
+  "name": "FourBoxes",
+  "github": "https://github.com/codrops/FourBoxes",
+  "description": "A tutorial on how to recreate the four panel background image slideshow seen on Atelier Serge Thoroval's website.",
+  "homepage": null,
+  "stars": 87,
+  "license": null,
+  "updated": "2015-06-10",
+  "cloned": false
+ },
+ {
+  "name": "AboveBeneath",
+  "github": "https://github.com/codrops/AboveBeneath",
+  "description": "A landing page template with a featured content section and background sounds that change according to the view.",
+  "homepage": null,
+  "stars": 87,
+  "license": null,
+  "updated": "2016-07-28",
+  "cloned": false
+ },
+ {
+  "name": "MenuFullGrid",
+  "github": "https://github.com/codrops/MenuFullGrid",
+  "description": "A layout with a menu and background image grid that animates to an inner content page.",
+  "homepage": null,
+  "stars": 87,
+  "license": "MIT",
+  "updated": "2020-11-11",
+  "cloned": false
+ },
+ {
+  "name": "DistortedMenuLinkEffects",
+  "github": "https://github.com/codrops/DistortedMenuLinkEffects",
+  "description": "Some menu styles and ideas for decorative link distortion effects using SVG filters.",
+  "homepage": "https://tympanus.net/codrops/2020/03/18/ideas-for-distorted-link-effects-on-menus/",
+  "stars": 86,
+  "license": "MIT",
+  "updated": "2020-03-18",
+  "cloned": false
+ },
+ {
+  "name": "RapidLayersAnimation",
+  "github": "https://github.com/codrops/RapidLayersAnimation",
+  "description": "A rapid layers animation of images as a splash intro or page transition on a website.",
+  "homepage": "https://tympanus.net/codrops/2020/04/07/rapid-image-layers-animation/",
+  "stars": 86,
+  "license": "MIT",
+  "updated": "2020-04-07",
+  "cloned": false
+ },
+ {
+  "name": "DiagonalThumbnails",
+  "github": "https://github.com/codrops/DiagonalThumbnails",
+  "description": "A simple slideshow with tilted thumbnails and large titles that animate when navigating.",
+  "homepage": "https://tympanus.net/codrops/?p=50811",
+  "stars": 86,
+  "license": "MIT",
+  "updated": "2020-09-01",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollLetterAnimations",
+  "github": "https://github.com/codrops/OnScrollLetterAnimations",
+  "description": "Some examples of how to animate letters on scroll.",
+  "homepage": "",
+  "stars": 86,
+  "license": "MIT",
+  "updated": "2021-03-13",
+  "cloned": false
+ },
+ {
+  "name": "MarqueeMenu",
+  "github": "https://github.com/codrops/MarqueeMenu",
+  "description": "A recreation of the marquee menu hover effect seen on the website of K72 made by Locomotive.",
+  "homepage": null,
+  "stars": 86,
+  "license": "MIT",
+  "updated": "2021-06-30",
+  "cloned": false
+ },
+ {
+  "name": "TypographyMotion",
+  "github": "https://github.com/codrops/TypographyMotion",
+  "description": "Recreation of Thibaud Allie's letter stagger animation.",
+  "homepage": "https://tympanus.net/codrops/?p=50136",
+  "stars": 85,
+  "license": "MIT",
+  "updated": "2020-11-11",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedCodeBackground",
+  "github": "https://github.com/codrops/AnimatedCodeBackground",
+  "description": " recreation of the hover effect seen on the customer grid on Evervault.",
+  "homepage": null,
+  "stars": 83,
+  "license": "MIT",
+  "updated": "2023-05-17",
+  "cloned": false
+ },
+ {
+  "name": "ViewModeSwitch",
+  "github": "https://github.com/codrops/ViewModeSwitch",
+  "description": "A simple view mode switch that has two example layouts, a grid and a list. ",
+  "homepage": null,
+  "stars": 82,
+  "license": null,
+  "updated": "2013-07-01",
+  "cloned": false
+ },
+ {
+  "name": "3DLettersMenuHover",
+  "github": "https://github.com/codrops/3DLettersMenuHover",
+  "description": "A hover animation for a menu with 3D letters and image effect.",
+  "homepage": null,
+  "stars": 82,
+  "license": "MIT",
+  "updated": "2021-08-21",
+  "cloned": false
+ },
+ {
+  "name": "DoubleImageHoverEffects",
+  "github": "https://github.com/codrops/DoubleImageHoverEffects",
+  "description": "Some hover effects that use clip-path animations for revealing the same image again.",
+  "homepage": null,
+  "stars": 82,
+  "license": "MIT",
+  "updated": "2023-03-01",
+  "cloned": false
+ },
+ {
+  "name": "PullToShare",
+  "github": "https://github.com/codrops/PullToShare",
+  "description": "A mobile \"pull to share\" interaction that allows to share a page by using the familiar \"pull to refresh\" movement. Based on the [action](https://plus.google.com/+Chrome/posts/1GyqEu2opAE) for refreshing and opening/closing a tab in Google Chrome for mobile.",
+  "homepage": null,
+  "stars": 80,
+  "license": null,
+  "updated": "2015-10-23",
+  "cloned": false
+ },
+ {
+  "name": "ImageDraggingEffects",
+  "github": "https://github.com/codrops/ImageDraggingEffects",
+  "description": "A set of playful dragging effects for images using various techniques.",
+  "homepage": "https://tympanus.net/codrops/?p=47024",
+  "stars": 80,
+  "license": null,
+  "updated": "2020-02-07",
+  "cloned": false
+ },
+ {
+  "name": "ProductGridLayout",
+  "github": "https://github.com/codrops/ProductGridLayout",
+  "description": "A responsive product grid layout with some UI details for inspiration.",
+  "homepage": null,
+  "stars": 77,
+  "license": null,
+  "updated": "2013-05-17",
+  "cloned": false
+ },
+ {
+  "name": "SlidingHeaderLayout",
+  "github": "https://github.com/codrops/SlidingHeaderLayout",
+  "description": "A layout with a fullscreen header that slides up to reveal a content area with an image grid.",
+  "homepage": null,
+  "stars": 77,
+  "license": null,
+  "updated": "2014-12-28",
+  "cloned": false
+ },
+ {
+  "name": "ItemRevealer",
+  "github": "https://github.com/codrops/ItemRevealer",
+  "description": "An experiment where grid items get revealed and unrevealed with animated, morphing SVG paths using anime.js.",
+  "homepage": null,
+  "stars": 76,
+  "license": null,
+  "updated": "2016-09-05",
+  "cloned": false
+ },
+ {
+  "name": "CoverPageTransition",
+  "github": "https://github.com/codrops/CoverPageTransition",
+  "description": "A cover page transition based on Vitalii Burhonskyi's Dribbble shot.",
+  "homepage": null,
+  "stars": 76,
+  "license": "MIT",
+  "updated": "2023-10-28",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollShapeMorph",
+  "github": "https://github.com/codrops/OnScrollShapeMorph",
+  "description": "Morphing shape animations on scroll",
+  "homepage": null,
+  "stars": 76,
+  "license": "MIT",
+  "updated": "2023-11-16",
+  "cloned": false
+ },
+ {
+  "name": "AnimatedAnimals",
+  "github": "https://github.com/codrops/AnimatedAnimals",
+  "description": "Demo for the tutorial on how to animate two SVG animals using only CSS (SCSS)",
+  "homepage": "http://tympanus.net/Tutorials/AnimatedAnimals/",
+  "stars": 75,
+  "license": null,
+  "updated": "2016-03-21",
+  "cloned": false
+ },
+ {
+  "name": "MotionTrailAnimations",
+  "github": "https://github.com/codrops/MotionTrailAnimations",
+  "description": "Some ideas for mouse/touch responsive image animations.",
+  "homepage": null,
+  "stars": 75,
+  "license": "MIT",
+  "updated": "2023-10-18",
+  "cloned": false
+ },
+ {
+  "name": "LayersAnimation",
+  "github": "https://github.com/codrops/LayersAnimation",
+  "description": "Some ideas for speedy page transition animations with layered images using clip-path.",
+  "homepage": null,
+  "stars": 75,
+  "license": "MIT",
+  "updated": "2023-10-31",
+  "cloned": false
+ },
+ {
+  "name": "ScrollLoopMenu",
+  "github": "https://github.com/codrops/ScrollLoopMenu",
+  "description": "A simple infinitely scrollable menu based on the looping scroll illusion of cloned items.",
+  "homepage": "https://tympanus.net/codrops/?p=49748",
+  "stars": 74,
+  "license": "MIT",
+  "updated": "2020-05-23",
+  "cloned": false
+ },
+ {
+  "name": "UnrevealEffects",
+  "github": "https://github.com/codrops/UnrevealEffects",
+  "description": "Some explorations of page transitions using covering elements and CSS clip-paths.",
+  "homepage": null,
+  "stars": 74,
+  "license": "MIT",
+  "updated": "2023-02-23",
+  "cloned": false
+ },
+ {
+  "name": "ShazamButtonEffect",
+  "github": "https://github.com/codrops/ShazamButtonEffect",
+  "description": "Demo for the tutorial on how to create a Shazam-like button that morphs into a music player using Snap.svg.",
+  "homepage": null,
+  "stars": 73,
+  "license": null,
+  "updated": "2015-11-24",
+  "cloned": false
+ },
+ {
+  "name": "ImageStackGrid",
+  "github": "https://github.com/codrops/ImageStackGrid",
+  "description": "A simple intro animation where an image stack moves to become a grid.",
+  "homepage": "https://tympanus.net/codrops/?p=52018",
+  "stars": 73,
+  "license": "MIT",
+  "updated": "2020-11-24",
+  "cloned": false
+ },
+ {
+  "name": "ThumbHoverSVGFilter",
+  "github": "https://github.com/codrops/ThumbHoverSVGFilter",
+  "description": "A simple hover effect for images using different SVG filters.",
+  "homepage": "https://tympanus.net/codrops/?p=54938",
+  "stars": 73,
+  "license": "MIT",
+  "updated": "2021-06-09",
+  "cloned": false
+ },
+ {
+  "name": "OneElementScroll",
+  "github": "https://github.com/codrops/OneElementScroll",
+  "description": "A simple concept of animating one element across different waypoints on scroll using GSAP Flip and ScrollTrigger.",
+  "homepage": null,
+  "stars": 73,
+  "license": "MIT",
+  "updated": "2024-11-20",
+  "cloned": false
+ },
+ {
+  "name": "TextClipScroll",
+  "github": "https://github.com/codrops/TextClipScroll",
+  "description": "Experimental on-scroll typography effects using SVG clip-paths.",
+  "homepage": "https://tympanus.net/codrops/?p=75256",
+  "stars": 71,
+  "license": "MIT",
+  "updated": "2024-01-10",
+  "cloned": false
+ },
+ {
+  "name": "SliderPagination",
+  "github": "https://github.com/codrops/SliderPagination",
+  "description": "An experimental slider pagination using the jQuery UI slider. The idea is to use a simple navigation concept that preserves layout and style while allowing content to stay easily accessible.",
+  "homepage": null,
+  "stars": 70,
+  "license": null,
+  "updated": "2012-12-21",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-FullWidthImageSlider",
+  "github": "https://github.com/codrops/Blueprint-FullWidthImageSlider",
+  "description": "A very simple 100% width slider that scales down to mobile.",
+  "homepage": null,
+  "stars": 70,
+  "license": null,
+  "updated": "2014-10-31",
+  "cloned": false
+ },
+ {
+  "name": "PixelGooeyTooltip",
+  "github": "https://github.com/codrops/PixelGooeyTooltip",
+  "description": "A dynamic tooltip animation with various reveal effects, comprised of different amounts of fragments appearing.",
+  "homepage": null,
+  "stars": 70,
+  "license": "MIT",
+  "updated": "2023-11-08",
+  "cloned": false
+ },
+ {
+  "name": "InlineMenuLayout",
+  "github": "https://github.com/codrops/InlineMenuLayout",
+  "description": "An inline menu layout with a playful hover animation and a gallery content preview panel.",
+  "homepage": "https://tympanus.net/codrops/?p=51858",
+  "stars": 68,
+  "license": "MIT",
+  "updated": "2020-11-11",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-QuotesRotator",
+  "github": "https://github.com/codrops/Blueprint-QuotesRotator",
+  "description": "A simple automatic quotes rotator with progress bar and example media query.",
+  "homepage": null,
+  "stars": 67,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-BackgroundSlideshow",
+  "github": "https://github.com/codrops/Blueprint-BackgroundSlideshow",
+  "description": "A fullscreen background slideshow with autoplay functionality.",
+  "homepage": null,
+  "stars": 67,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "IntroGridMotionTransition",
+  "github": "https://github.com/codrops/IntroGridMotionTransition",
+  "description": "A little hover motion effect on a grid and an intro animation.",
+  "homepage": null,
+  "stars": 67,
+  "license": "MIT",
+  "updated": "2024-05-29",
+  "cloned": false
+ },
+ {
+  "name": "SlicedTextEffect",
+  "github": "https://github.com/codrops/SlicedTextEffect",
+  "description": "A scroll-based sliced text animation",
+  "homepage": null,
+  "stars": 65,
+  "license": "MIT",
+  "updated": "2023-12-05",
+  "cloned": false
+ },
+ {
+  "name": "AnimateSVGTextPath",
+  "github": "https://github.com/codrops/AnimateSVGTextPath",
+  "description": "Animating SVG text on a path on scroll using the Intersection Observer API and SVG filters.",
+  "homepage": "https://tympanus.net/codrops/?p=47831",
+  "stars": 64,
+  "license": "MIT",
+  "updated": "2020-06-05",
+  "cloned": false
+ },
+ {
+  "name": "VerticalShowcaseSlider",
+  "github": "https://github.com/codrops/VerticalShowcaseSlider",
+  "description": "A tutorial on how to create a responsive vertical fullscreen slider that moves its sections in opposite directions. We'll be using jQuery, CSS Transitions and media queries to make the layout adaptive.",
+  "homepage": null,
+  "stars": 63,
+  "license": null,
+  "updated": "2012-12-03",
+  "cloned": false
+ },
+ {
+  "name": "SlicedDualImageLayout",
+  "github": "https://github.com/codrops/SlicedDualImageLayout",
+  "description": "Some layouts with sliced background images, slideshow functionality and glitch effect.",
+  "homepage": "https://tympanus.net/codrops/?p=32361",
+  "stars": 62,
+  "license": null,
+  "updated": "2017-09-28",
+  "cloned": false
+ },
+ {
+  "name": "ConnectedGrid",
+  "github": "https://github.com/codrops/ConnectedGrid",
+  "description": "Some ideas for simple on-scroll animations for connected grid items.",
+  "homepage": null,
+  "stars": 62,
+  "license": "MIT",
+  "updated": "2024-01-30",
+  "cloned": false
+ },
+ {
+  "name": "ContentLayoutTransition",
+  "github": "https://github.com/codrops/ContentLayoutTransition",
+  "description": "An experimental layout transition where a stack of images animates to a gallery view, showing some more content.",
+  "homepage": "https://tympanus.net/codrops/?p=63558",
+  "stars": 61,
+  "license": "MIT",
+  "updated": "2023-12-02",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-VerticalIconMenu",
+  "github": "https://github.com/codrops/Blueprint-VerticalIconMenu",
+  "description": "A fixed vertical icon menu that adjusts its size for smaller screens.",
+  "homepage": null,
+  "stars": 60,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "BackgroundShift",
+  "github": "https://github.com/codrops/BackgroundShift",
+  "description": "A background color shift effect using a CSS blend mode and a multi-layer animation.",
+  "homepage": null,
+  "stars": 60,
+  "license": "MIT",
+  "updated": "2022-01-26",
+  "cloned": false
+ },
+ {
+  "name": "ExpandingRoundedMenu",
+  "github": "https://github.com/codrops/ExpandingRoundedMenu",
+  "description": "An expanding menu animation with a cover unreveal effect in the background.",
+  "homepage": null,
+  "stars": 60,
+  "license": "MIT",
+  "updated": "2022-03-16",
+  "cloned": false
+ },
+ {
+  "name": "PolaroidStackGrid",
+  "github": "https://github.com/codrops/PolaroidStackGrid",
+  "description": "Demos for the [tutorial](http://tympanus.net/codrops/?p=26096) on how to create an intro animation where a decorative Polaroid stacks becomes a grid similar to the effect seen on the [takeit](http://www.takeitapp.co/en) website.",
+  "homepage": null,
+  "stars": 59,
+  "license": null,
+  "updated": "2016-02-17",
+  "cloned": false
+ },
+ {
+  "name": "ContextAwareLogoAnimationScroll",
+  "github": "https://github.com/codrops/ContextAwareLogoAnimationScroll",
+  "description": "Exploring how fixed elements can hide and reveal based on scroll interactions with playful, context-aware animations.",
+  "homepage": null,
+  "stars": 59,
+  "license": "MIT",
+  "updated": "2024-10-09",
+  "cloned": false
+ },
+ {
+  "name": "3DCarousel",
+  "github": "https://github.com/codrops/3DCarousel",
+  "description": "An on-scroll 3D carousel ",
+  "homepage": null,
+  "stars": 59,
+  "license": "MIT",
+  "updated": "2025-05-07",
+  "cloned": false
+ },
+ {
+  "name": "MultiElementSelection",
+  "github": "https://github.com/codrops/MultiElementSelection",
+  "description": "Ever thought that clicking multiple checkboxes is not a very user-friendly task? Imagine rows and rows of junk mail that you'd like to select in your email app. This little script tries to ease that task by allowing a rapid and simple selection of multiple items by clicking, holding and moving over the desired items.",
+  "homepage": null,
+  "stars": 58,
+  "license": null,
+  "updated": "2013-10-29",
+  "cloned": false
+ },
+ {
+  "name": "VideoOpeningAnimation",
+  "github": "https://github.com/codrops/VideoOpeningAnimation",
+  "description": "A tutorial on how to re-create the fullscreen video opening effect seen on [momentsapp.com](http://momentsapp.com/#).",
+  "homepage": null,
+  "stars": 58,
+  "license": null,
+  "updated": "2015-09-17",
+  "cloned": false
+ },
+ {
+  "name": "ParanoiaSlideshow",
+  "github": "https://github.com/codrops/ParanoiaSlideshow",
+  "description": "A slideshow page layout with a filter enhanced navigation effect on the images.",
+  "homepage": null,
+  "stars": 58,
+  "license": "MIT",
+  "updated": "2021-11-17",
+  "cloned": false
+ },
+ {
+  "name": "FullscreenClipEffect",
+  "github": "https://github.com/codrops/FullscreenClipEffect",
+  "description": "Some inspiration for clip-path animations where a fullscreen image moves into a row/grid of smaller images, morphing its shape along the way. ",
+  "homepage": null,
+  "stars": 58,
+  "license": "MIT",
+  "updated": "2023-03-14",
+  "cloned": false
+ },
+ {
+  "name": "ElasticGridScroll",
+  "github": "https://github.com/codrops/ElasticGridScroll",
+  "description": "A scroll effect where each column of a grid moves at a slightly different speed, creating a soft, elastic feel as you scroll.",
+  "homepage": null,
+  "stars": 58,
+  "license": "MIT",
+  "updated": "2026-10-04",
+  "cloned": false
+ },
+ {
+  "name": "ResponsiveMultiColumnForm",
+  "github": "https://github.com/codrops/ResponsiveMultiColumnForm",
+  "description": "A responsive multi-column form with example media queries for a flexible layout.",
+  "homepage": null,
+  "stars": 57,
+  "license": null,
+  "updated": "2013-06-06",
+  "cloned": false
+ },
+ {
+  "name": "LittleFragments",
+  "github": "https://github.com/codrops/LittleFragments",
+  "description": "Demo of the tutorial on how to create a simple image poster effect with little image fragments.",
+  "homepage": "https://tympanus.net/codrops/2017/01/19/little-fragments-creating-a-simple-image-poster-effect/",
+  "stars": 57,
+  "license": null,
+  "updated": "2017-01-19",
+  "cloned": false
+ },
+ {
+  "name": "CollapsingLogo",
+  "github": "https://github.com/codrops/CollapsingLogo",
+  "description": "A recreation of the collapsing logo effect seen on PracticalVR.",
+  "homepage": "https://tympanus.net/codrops/?p=35022",
+  "stars": 57,
+  "license": null,
+  "updated": "2018-06-05",
+  "cloned": false
+ },
+ {
+  "name": "MotionTransitionEffect",
+  "github": "https://github.com/codrops/MotionTransitionEffect",
+  "description": "A speedy motion transition effect for an image slideshow.",
+  "homepage": "https://tympanus.net/codrops/?p=36812",
+  "stars": 57,
+  "license": null,
+  "updated": "2018-12-11",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollSVGFilterText",
+  "github": "https://github.com/codrops/OnScrollSVGFilterText",
+  "description": "A small set of scroll-based SVG filter animations on HTML text.",
+  "homepage": null,
+  "stars": 57,
+  "license": "MIT",
+  "updated": "2024-08-22",
+  "cloned": false
+ },
+ {
+  "name": "SurfReport",
+  "github": "https://github.com/codrops/SurfReport",
+  "description": "A simple template of a weekly surf report with an animated SVG graph and a sliding content panel.",
+  "homepage": null,
+  "stars": 54,
+  "license": null,
+  "updated": "2016-11-19",
+  "cloned": false
+ },
+ {
+  "name": "ScrollPanels",
+  "github": "https://github.com/codrops/ScrollPanels",
+  "description": "An exploration of smooth panel scroll effects based on Margot Priolet's website.",
+  "homepage": null,
+  "stars": 54,
+  "license": "MIT",
+  "updated": "2022-10-12",
+  "cloned": false
+ },
+ {
+  "name": "InlineToMenuLink",
+  "github": "https://github.com/codrops/InlineToMenuLink",
+  "description": "An experimental inline-to-menu-link animation based on a concept by Matthew Hall.",
+  "homepage": null,
+  "stars": 52,
+  "license": "MIT",
+  "updated": "2021-06-23",
+  "cloned": false
+ },
+ {
+  "name": "GlitchPerspective",
+  "github": "https://github.com/codrops/GlitchPerspective",
+  "description": "A fun hover effect that shows a pixelated image with a glitch animation as seen on buōy's website.",
+  "homepage": null,
+  "stars": 51,
+  "license": "MIT",
+  "updated": "2022-09-07",
+  "cloned": false
+ },
+ {
+  "name": "MenuThumbStackAnimation",
+  "github": "https://github.com/codrops/MenuThumbStackAnimation",
+  "description": "An animation on a vertical image stack for a menu that expands to arrange the stack items on a horizontal line.",
+  "homepage": null,
+  "stars": 50,
+  "license": "MIT",
+  "updated": "2021-09-22",
+  "cloned": false
+ },
+ {
+  "name": "LetterShuffleMenu",
+  "github": "https://github.com/codrops/LetterShuffleMenu",
+  "description": "A little animation for a big menu where the letters of a word shuffle to become the first letter of each menu item.",
+  "homepage": null,
+  "stars": 50,
+  "license": "MIT",
+  "updated": "2022-03-23",
+  "cloned": false
+ },
+ {
+  "name": "GridToSlider",
+  "github": "https://github.com/codrops/GridToSlider",
+  "description": "Some ideas for grid to slideshow switch animations using GSAP's Flip plugin.",
+  "homepage": null,
+  "stars": 50,
+  "license": "MIT",
+  "updated": "2023-05-04",
+  "cloned": false
+ },
+ {
+  "name": "DraggableElementsInteraction",
+  "github": "https://github.com/codrops/DraggableElementsInteraction",
+  "description": "A little playful interaction idea inspired by [Rally Interactive's Dribbble shot](https://dribbble.com/shots/2116525-Spectra-Modal). The idea is to add some bounciness to a draggable element and animate it depending on its position.",
+  "homepage": null,
+  "stars": 49,
+  "license": null,
+  "updated": "2015-07-08",
+  "cloned": false
+ },
+ {
+  "name": "ExpandingBarMenus",
+  "github": "https://github.com/codrops/ExpandingBarMenus",
+  "description": "An experimental tab-like navigation that expands a content area when clicked. ",
+  "homepage": null,
+  "stars": 49,
+  "license": null,
+  "updated": "2017-03-23",
+  "cloned": false
+ },
+ {
+  "name": "ScrollTextMotion",
+  "github": "https://github.com/codrops/ScrollTextMotion",
+  "description": "On-scroll animations for typogrphic elements with GSAP",
+  "homepage": "https://tympanus.net/Development/ScrollTextMotion/",
+  "stars": 49,
+  "license": "MIT",
+  "updated": "2025-12-19",
+  "cloned": false
+ },
+ {
+  "name": "FullscreenHoverLoop",
+  "github": "https://github.com/codrops/FullscreenHoverLoop",
+  "description": "A fullscreen loop effect that shows a preview of images when hovering a menu item.",
+  "homepage": "https://tympanus.net/codrops/?p=36172",
+  "stars": 48,
+  "license": null,
+  "updated": "2018-10-16",
+  "cloned": false
+ },
+ {
+  "name": "LettersAnimationLayout",
+  "github": "https://github.com/codrops/LettersAnimationLayout",
+  "description": "A distributed letters animation in the context of a triple panel layout with hover effect.",
+  "homepage": null,
+  "stars": 48,
+  "license": "MIT",
+  "updated": "2021-03-24",
+  "cloned": false
+ },
+ {
+  "name": "CrosshairDistortion",
+  "github": "https://github.com/codrops/CrosshairDistortion",
+  "description": "Demo of the tutorial on how to craft a fullscreen SVG crosshair mouse cursor with a special distortion effect on hover.",
+  "homepage": null,
+  "stars": 47,
+  "license": "MIT",
+  "updated": "2021-05-26",
+  "cloned": false
+ },
+ {
+  "name": "RepetitionHoverEffect",
+  "github": "https://github.com/codrops/RepetitionHoverEffect",
+  "description": "A hover effect with repeated image layers that get scaled up and down.",
+  "homepage": null,
+  "stars": 47,
+  "license": "MIT",
+  "updated": "2022-02-25",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollViewSwitch",
+  "github": "https://github.com/codrops/OnScrollViewSwitch",
+  "description": "A layout with some scroll animations and a view switch where the content items animate to a grid.",
+  "homepage": null,
+  "stars": 47,
+  "license": "MIT",
+  "updated": "2022-10-05",
+  "cloned": false
+ },
+ {
+  "name": "ImageExpansionTypography",
+  "github": "https://github.com/codrops/ImageExpansionTypography",
+  "description": "An expanding image animation inside of a typographic block.",
+  "homepage": null,
+  "stars": 47,
+  "license": "MIT",
+  "updated": "2024-04-02",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-ElasticContentSlider",
+  "github": "https://github.com/codrops/Blueprint-ElasticContentSlider",
+  "description": "A fluid content slider that will adjust in width and height depending on the size of its parent.",
+  "homepage": null,
+  "stars": 46,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "ImageToGridTransition",
+  "github": "https://github.com/codrops/ImageToGridTransition",
+  "description": "A simple transition where a large image animates to its place in a grid.",
+  "homepage": "https://tympanus.net/codrops/?p=63608",
+  "stars": 45,
+  "license": "MIT",
+  "updated": "2022-07-13",
+  "cloned": false
+ },
+ {
+  "name": "ElasticCircleSlideshow",
+  "github": "https://github.com/codrops/ElasticCircleSlideshow",
+  "description": "A very simple content slideshow with circular slides and an elastic, bouncy navigation effect. Inspired by the Dribbble shot [\"Mobile Commerce Interface\"](https://dribbble.com/shots/2197260-Mobile-Commerce-Interface) by Bilal Mechairia.",
+  "homepage": null,
+  "stars": 44,
+  "license": null,
+  "updated": "2016-02-17",
+  "cloned": false
+ },
+ {
+  "name": "GridLayoutAnimation",
+  "github": "https://github.com/codrops/GridLayoutAnimation",
+  "description": "A simple layout transition where a small grid animates to a larger view, using the Flip plugin from GreenSock.",
+  "homepage": "https://tympanus.net/codrops/?p=64172",
+  "stars": 44,
+  "license": "MIT",
+  "updated": "2022-07-13",
+  "cloned": false
+ },
+ {
+  "name": "RepetitiveTypography",
+  "github": "https://github.com/codrops/RepetitiveTypography",
+  "description": "An experimental typography animation based on a kinetic type design by Domagoj Štrok where words get duplicated several times.",
+  "homepage": "https://tympanus.net/codrops/?p=56972",
+  "stars": 43,
+  "license": "MIT",
+  "updated": "2021-10-20",
+  "cloned": false
+ },
+ {
+  "name": "codrops2020",
+  "github": "https://github.com/codrops/codrops2020",
+  "description": "A roundup of Codrops resources from 2020.",
+  "homepage": null,
+  "stars": 42,
+  "license": "MIT",
+  "updated": "2020-12-31",
+  "cloned": false
+ },
+ {
+  "name": "GlitchyGrid",
+  "github": "https://github.com/codrops/GlitchyGrid",
+  "description": "An experimental grid layout slideshow with a stack-like navigation and glitch effect.",
+  "homepage": "https://tympanus.net/codrops/?p=50258",
+  "stars": 41,
+  "license": "MIT",
+  "updated": "2020-06-24",
+  "cloned": false
+ },
+ {
+  "name": "HoverPreviewMiniMap",
+  "github": "https://github.com/codrops/HoverPreviewMiniMap",
+  "description": "An experimental hover effect, where a content preview is shown while a mini map indicates the position of the cursor.",
+  "homepage": "",
+  "stars": 40,
+  "license": "MIT",
+  "updated": "2022-03-01",
+  "cloned": false
+ },
+ {
+  "name": "GridFlowEffect",
+  "github": "https://github.com/codrops/GridFlowEffect",
+  "description": "A loading and navigation animation where thumbnails flow into a grid.",
+  "homepage": null,
+  "stars": 40,
+  "license": "MIT",
+  "updated": "2023-07-27",
+  "cloned": false
+ },
+ {
+  "name": "RotatingOnScrollAnimations",
+  "github": "https://github.com/codrops/RotatingOnScrollAnimations",
+  "description": "Some ideas for animating images in 3D while scrolling.",
+  "homepage": null,
+  "stars": 40,
+  "license": "MIT",
+  "updated": "2026-10-04",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-ResponsiveFullWidthGrid",
+  "github": "https://github.com/codrops/Blueprint-ResponsiveFullWidthGrid",
+  "description": "A responsive grid layout for multiple items in a row that fill all the available width.",
+  "homepage": null,
+  "stars": 39,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "LoopScrolling",
+  "github": "https://github.com/codrops/LoopScrolling",
+  "description": "Infinite loop scrolling based on the animation seen on Bureau DAM.",
+  "homepage": "",
+  "stars": 39,
+  "license": "MIT",
+  "updated": "2023-10-06",
+  "cloned": false
+ },
+ {
+  "name": "HoverGrid",
+  "github": "https://github.com/codrops/HoverGrid",
+  "description": "A grid item reveal animation on hover inspired by Metalab",
+  "homepage": null,
+  "stars": 39,
+  "license": "MIT",
+  "updated": "2024-03-13",
+  "cloned": false
+ },
+ {
+  "name": "PushGridItems",
+  "github": "https://github.com/codrops/PushGridItems",
+  "description": "Animations for grid items based on a concept by Rémi Clauss.",
+  "homepage": null,
+  "stars": 39,
+  "license": "MIT",
+  "updated": "2024-06-05",
+  "cloned": false
+ },
+ {
+  "name": "PlayfulTrampolineEffect",
+  "github": "https://github.com/codrops/PlayfulTrampolineEffect",
+  "description": "A little playful content navigation effect that uses the draggable Elastic Stack and Snap.svg for animating a background shape like a trampoline. The demos are a tribute to Leonard Nimoy.",
+  "homepage": null,
+  "stars": 37,
+  "license": null,
+  "updated": "2015-03-06",
+  "cloned": false
+ },
+ {
+  "name": "GeekyGlasses",
+  "github": "https://github.com/codrops/GeekyGlasses",
+  "description": "A fun \"try-on\" experiment that shows a first person view through the colored lenses of sunglasses, mimicking the movement of putting them on and off.",
+  "homepage": "https://tympanus.net/codrops/2017/02/27/geeky-glasses-first-person-try-experiment/",
+  "stars": 35,
+  "license": null,
+  "updated": "2017-03-01",
+  "cloned": false
+ },
+ {
+  "name": "Blueprint-NestedAccordion",
+  "github": "https://github.com/codrops/Blueprint-NestedAccordion",
+  "description": "A simple, nestable accordion with some examples of nesting levels and a media query.",
+  "homepage": null,
+  "stars": 34,
+  "license": null,
+  "updated": "2013-05-07",
+  "cloned": false
+ },
+ {
+  "name": "IntroTrailEffect",
+  "github": "https://github.com/codrops/IntroTrailEffect",
+  "description": "An intro animation with several layout changes and various effect.",
+  "homepage": null,
+  "stars": 32,
+  "license": "MIT",
+  "updated": "2022-05-03",
+  "cloned": false
+ },
+ {
+  "name": "GridViewSwitch",
+  "github": "https://github.com/codrops/GridViewSwitch",
+  "description": "A proof-of-concept for a view switch animation from grid to slideshow.",
+  "homepage": null,
+  "stars": 32,
+  "license": "MIT",
+  "updated": "2023-04-12",
+  "cloned": false
+ },
+ {
+  "name": "ImageTilesMenu",
+  "github": "https://github.com/codrops/ImageTilesMenu",
+  "description": "An animation featuring image tiles that transform into a full image when a menu item is clicked.",
+  "homepage": null,
+  "stars": 32,
+  "license": "MIT",
+  "updated": "2023-04-26",
+  "cloned": false
+ },
+ {
+  "name": "ReflectionScroll",
+  "github": "https://github.com/codrops/ReflectionScroll",
+  "description": "An decorative reflection effect where we simulate a reflected page and scroll it along with the content.",
+  "homepage": null,
+  "stars": 31,
+  "license": "MIT",
+  "updated": "2024-04-14",
+  "cloned": false
+ },
+ {
+  "name": "RepeatingImageTransition",
+  "github": "https://github.com/codrops/RepeatingImageTransition",
+  "description": null,
+  "homepage": null,
+  "stars": 28,
+  "license": "MIT",
+  "updated": "2026-10-04",
+  "cloned": false
+ },
+ {
+  "name": "TooltipTransition",
+  "github": "https://github.com/codrops/TooltipTransition",
+  "description": "A concept for page transitions where a tooltip image animates to a gallery layout and fullscreen image.",
+  "homepage": null,
+  "stars": 26,
+  "license": "MIT",
+  "updated": "2022-12-07",
+  "cloned": false
+ },
+ {
+  "name": "TriplePanelImageSlider",
+  "github": "https://github.com/codrops/TriplePanelImageSlider",
+  "description": "A tutorial about how to create a triple panel jQuery image slider with a 3D look and swipe-like transitions.",
+  "homepage": null,
+  "stars": 22,
+  "license": null,
+  "updated": "2020-10-01",
+  "cloned": false
+ },
+ {
+  "name": "DoubleSlideshow",
+  "github": "https://github.com/codrops/DoubleSlideshow",
+  "description": null,
+  "homepage": null,
+  "stars": 21,
+  "license": "MIT",
+  "updated": "2023-06-18",
+  "cloned": false
+ },
+ {
+  "name": "ZoomSlideshow",
+  "github": "https://github.com/codrops/ZoomSlideshow",
+  "description": null,
+  "homepage": null,
+  "stars": 20,
+  "license": "MIT",
+  "updated": "2023-06-23",
+  "cloned": false
+ },
+ {
+  "name": "interlude",
+  "github": "https://github.com/codrops/interlude",
+  "description": "A starter for custom page transitions in Astro, built on Astro's ClientRouter and GSAP, with WebGL transitions in three.js.",
+  "homepage": "https://interlude.crnacura.workers.dev/",
+  "stars": 18,
+  "license": "MIT",
+  "updated": "2026-10-07",
+  "cloned": false
+ },
+ {
+  "name": "InlineLayoutSwitch",
+  "github": "https://github.com/codrops/InlineLayoutSwitch",
+  "description": "Two ideas for animating images from an inline layout to a column and grid-based one.",
+  "homepage": null,
+  "stars": 14,
+  "license": "MIT",
+  "updated": "2022-11-22",
+  "cloned": false
+ },
+ {
+  "name": "OnScrollTypoAnimations",
+  "github": "https://github.com/codrops/OnScrollTypoAnimations",
+  "description": null,
+  "homepage": null,
+  "stars": 14,
+  "license": "MIT",
+  "updated": "2023-06-16",
+  "cloned": false
+ },
+ {
+  "name": "InfiniteTubes",
+  "github": "https://github.com/codrops/InfiniteTubes",
+  "description": "A tunnel experiment in WebGL inspired by the effect seen on http://www.fornasetti.com/",
+  "homepage": "https://tympanus.net/Development/InfiniteTubes/",
+  "stars": 13,
+  "license": null,
+  "updated": "2017-05-09",
+  "cloned": false
+ },
+ {
+  "name": "LineTypeEffect",
+  "github": "https://github.com/codrops/LineTypeEffect",
+  "description": null,
+  "homepage": null,
+  "stars": 13,
+  "license": "MIT",
+  "updated": "2023-11-06",
+  "cloned": false
+ },
+ {
+  "name": "CodropsBranding",
+  "github": "https://github.com/codrops/CodropsBranding",
+  "description": "Codrops logos",
+  "homepage": "",
+  "stars": 12,
+  "license": null,
+  "updated": "2026-02-20",
+  "cloned": false
+ },
+ {
+  "name": "EaseReverseClipMenu",
+  "github": "https://github.com/codrops/EaseReverseClipMenu",
+  "description": "A playful menu demo exploring GSAP's easeReverse",
+  "homepage": null,
+  "stars": 11,
+  "license": "MIT",
+  "updated": "2026-04-22",
+  "cloned": false
+ },
+ {
+  "name": "BalloonButton",
+  "github": "https://github.com/codrops/BalloonButton",
+  "description": null,
+  "homepage": null,
+  "stars": 7,
+  "license": null,
+  "updated": "2025-08-20",
+  "cloned": false
+ },
+ {
+  "name": "isle-thorne-collective",
+  "github": "https://github.com/codrops/isle-thorne-collective",
+  "description": "A free furniture shop template for Astro, with content collections, Tailwind CSS and page transitions.",
+  "homepage": "https://isle-thorne-collective.crnacura.workers.dev/",
+  "stars": 5,
+  "license": "MIT",
+  "updated": "2026-10-07",
+  "cloned": false
+ },
+ {
+  "name": "coding-challenge-planner",
+  "github": "https://github.com/codrops/coding-challenge-planner",
+  "description": "Daily Frontend Coding Challenge Planner built with Bolt.new",
+  "homepage": null,
+  "stars": 1,
+  "license": "MIT",
+  "updated": "2025-05-12",
+  "cloned": false
+ }
+]

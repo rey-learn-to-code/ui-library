@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" width="1600" height="900">
+<title>Duong dong muc 1</title>
+<desc>Recolor: set the CSS variables bg-bg, bg-c1, bg-c2, bg-c3 (each prefixed with two hyphens) on the parent element when embedding the SVG inline; currentColor strokes follow the color property.</desc>
+<defs></defs>
+<rect width="100%" height="100%" style="fill:var(--bg-bg,#0f172a)"/>
+<g style="color:var(--bg-c2,#ec4899)"><path d="M0,49 C133,49 133,62 267,62 C400,62 400,17 533,17 C667,17 667,38 800,38 C933,38 933,41 1067,41 C1200,41 1200,31 1333,31 C1467,31 1467,17 1600,17" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,76 C133,76 133,76 267,76 C400,76 400,112 533,112 C667,112 667,92 800,92 C933,92 933,107 1067,107 C1200,107 1200,82 1333,82 C1467,82 1467,74 1600,74" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,130 C133,130 133,164 267,164 C400,164 400,117 533,117 C667,117 667,123 800,123 C933,123 933,143 1067,143 C1200,143 1200,152 1333,152 C1467,152 1467,120 1600,120" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,165 C133,165 133,191 267,191 C400,191 400,201 533,201 C667,201 667,176 800,176 C933,176 933,195 1067,195 C1200,195 1200,168 1333,168 C1467,168 1467,192 1600,192" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,241 C133,241 133,245 267,245 C400,245 400,237 533,237 C667,237 667,254 800,254 C933,254 933,248 1067,248 C1200,248 1200,229 1333,229 C1467,229 1467,215 1600,215" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,294 C133,294 133,289 267,289 C400,289 400,296 533,296 C667,296 667,308 800,308 C933,308 933,287 1067,287 C1200,287 1200,286 1333,286 C1467,286 1467,272 1600,272" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,341 C133,341 133,341 267,341 C400,341 400,335 533,335 C667,335 667,349 800,349 C933,349 933,337 1067,337 C1200,337 1200,343 1333,343 C1467,343 1467,364 1600,364" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,385 C133,385 133,391 267,391 C400,391 400,389 533,389 C667,389 667,402 800,402 C933,402 933,397 1067,397 C1200,397 1200,411 1333,411 C1467,411 1467,383 1600,383" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,440 C133,440 133,459 267,459 C400,459 400,417 533,417 C667,417 667,464 800,464 C933,464 933,437 1067,437 C1200,437 1200,443 1333,443 C1467,443 1467,463 1600,463" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,484 C133,484 133,504 267,504 C400,504 400,473 533,473 C667,473 667,490 800,490 C933,490 933,480 1067,480 C1200,480 1200,489 1333,489 C1467,489 1467,477 1600,477" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,521 C133,521 133,555 267,555 C400,555 400,529 533,529 C667,529 667,534 800,534 C933,534 933,527 1067,527 C1200,527 1200,535 1333,535 C1467,535 1467,516 1600,516" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,581 C133,581 133,604 267,604 C400,604 400,568 533,568 C667,568 667,592 800,592 C933,592 933,581 1067,581 C1200,581 1200,588 1333,588 C1467,588 1467,586 1600,586" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,663 C133,663 133,615 267,615 C400,615 400,621 533,621 C667,621 667,655 800,655 C933,655 933,661 1067,661 C1200,661 1200,639 1333,639 C1467,639 1467,629 1600,629" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,684 C133,684 133,708 267,708 C400,708 400,714 533,714 C667,714 667,693 800,693 C933,693 933,693 1067,693 C1200,693 1200,687 1333,687 C1467,687 1467,700 1600,700" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,737 C133,737 133,753 267,753 C400,753 400,736 533,736 C667,736 667,726 800,726 C933,726 933,755 1067,755 C1200,755 1200,751 1333,751 C1467,751 1467,736 1600,736" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,810 C133,810 133,805 267,805 C400,805 400,775 533,775 C667,775 667,767 800,767 C933,767 933,774 1067,774 C1200,774 1200,794 1333,794 C1467,794 1467,783 1600,783" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,863 C133,863 133,843 267,843 C400,843 400,856 533,856 C667,856 667,862 800,862 C933,862 933,822 1067,822 C1200,822 1200,836 1333,836 C1467,836 1467,832 1600,832" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+<path d="M0,899 C133,899 133,911 267,911 C400,911 400,897 533,897 C667,897 667,867 800,867 C933,867 933,910 1067,910 C1200,910 1200,893 1333,893 C1467,893 1467,905 1600,905" fill="none" stroke="currentColor" stroke-opacity="0.5" stroke-width="3"/>
+</g>
+</svg>

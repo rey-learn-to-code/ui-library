@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" width="1600" height="900">
+<title>Blob 2</title>
+<desc>Recolor: set the CSS variables bg-bg, bg-c1, bg-c2, bg-c3 (each prefixed with two hyphens) on the parent element when embedding the SVG inline; currentColor strokes follow the color property.</desc>
+<defs></defs>
+<rect width="100%" height="100%" style="fill:var(--bg-bg,#0f172a)"/>
+<g><path d="M898,666 C900,708 843,757 805,800 C767,844 716,927 670,927 C625,927 585,846 533,803 C482,759 359,711 359,666 C360,620 483,582 535,530 C587,478 628,353 670,356 C713,359 751,495 789,547 C827,599 895,623 898,666 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.85"/>
+<path d="M1118,488 C1101,569 987,622 922,679 C858,736 809,815 731,829 C653,843 496,820 456,764 C416,707 489,579 491,488 C492,397 422,282 462,219 C502,155 638,112 731,108 C825,105 959,133 1023,196 C1088,259 1135,408 1118,488 Z" style="fill:var(--bg-c2,#ec4899);fill-opacity:0.85"/>
+<path d="M742,621 C753,674 683,788 633,813 C583,838 508,769 441,772 C374,775 277,857 230,832 C184,807 149,679 162,621 C174,563 258,535 304,485 C351,434 398,317 441,319 C484,322 514,448 564,498 C614,549 730,569 742,621 Z" style="fill:var(--bg-c3,#22d3ee);fill-opacity:0.85"/>
+<path d="M1551,519 C1544,558 1490,596 1459,614 C1427,632 1393,629 1364,627 C1334,625 1299,621 1280,603 C1262,585 1258,551 1254,519 C1251,488 1240,436 1259,414 C1277,392 1323,394 1364,388 C1405,382 1473,356 1505,378 C1536,400 1559,480 1551,519 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.85"/>
+</g>
+</svg>

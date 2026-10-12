@@ -1,0 +1,5 @@
+3dicons V1 by Vijay Verma (@realvjy) - https://old.3dicons.co / https://github.com/realvjy/3dicons
+License: CC0 1.0 Universal (Public Domain) - credit is not required (but giving credit voluntarily is encouraged).
+png/: 120 icons x 3 angles (dynamic/front/iso) x 4 styles (clay/gradient/color/premium), downloaded from the public CDN
+https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/ (the URLs are listed publicly in repo/content/3dicons-meta).
+png/index.json: list of icons with name, category and file path.

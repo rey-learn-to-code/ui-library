@@ -1,0 +1,2388 @@
+[
+ {
+  "name": "about29",
+  "kind": "block",
+  "title": "About 29 - Mission panel with text columns",
+  "description": "A stacked about section with a large headline, image and mission overlay, then a three-column text grid of values.",
+  "page": "https://www.shadcnblocks.com/block/about29",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/about29.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "accept-invite1",
+  "kind": "block",
+  "title": "Accept Invite 1 - Two-Column Invite with Email Form",
+  "description": "A two-column invitation acceptance screen with Google sign-in, email input form, welcome message, and footer links.",
+  "page": "https://www.shadcnblocks.com/block/accept-invite1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/accept-invite1.json",
+  "dependencies": [
+   "react-icons"
+  ],
+  "registryDependencies": [
+   "button",
+   "input"
+  ]
+ },
+ {
+  "name": "address-book1",
+  "kind": "block",
+  "title": "Address Book 1 - Address book list with edit modes and default selection",
+  "description": "This component provides an interactive interface for managing and editing a list of addresses, allowing users to add, edit, and delete addresses with form inputs for various details like name, street, city, and phone number. It includes features such as marking an address as default, categorizing addresses by type (home, work, other), and toggling between display and edit modes.",
+  "page": "https://www.shadcnblocks.com/block/address-book1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/address-book1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button",
+   "card",
+   "dropdown-menu",
+   "input",
+   "label",
+   "radio-group",
+   "select"
+  ]
+ },
+ {
+  "name": "application-shell1",
+  "kind": "block",
+  "title": "Application Shell 1 - Sidebar Shell with Breadcrumbs",
+  "description": "A full application shell with collapsible sidebar, grouped navigation with submenus, user dropdown in footer, header with breadcrumbs, and placeholder content area.",
+  "page": "https://www.shadcnblocks.com/block/application-shell1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/application-shell1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "breadcrumb",
+   "collapsible",
+   "dropdown-menu",
+   "scroll-area",
+   "separator",
+   "sidebar"
+  ]
+ },
+ {
+  "name": "awards1",
+  "kind": "block",
+  "title": "Awards 1 - Awards table with linked rows",
+  "description": "A section with a large heading and a full-width table of award name, description, and year, with each name linked externally.",
+  "page": "https://www.shadcnblocks.com/block/awards1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/awards1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "background-pattern1",
+  "kind": "block",
+  "title": "Background Pattern 1 - Full-screen radial gradient background pattern",
+  "description": "This component generates a full-screen background pattern with a radial gradient effect, applying customizable styles through optional class names. It features a placeholder pattern element and a visually striking top primary radial gradient.",
+  "page": "https://www.shadcnblocks.com/block/background-pattern1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/background-pattern1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button"
+  ]
+ },
+ {
+  "name": "banner1",
+  "kind": "block",
+  "title": "Banner 1 - Full-width dismissible announcement bar",
+  "description": "A thin top bar with centered title, muted supporting text, an inline external link, and a ghost icon button that hides the banner.",
+  "page": "https://www.shadcnblocks.com/block/banner1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/banner1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "blog7",
+  "kind": "block",
+  "title": "Blog 7 - Centered blog cards with read-more links",
+  "description": "A centered blog section with secondary badge, large heading, supporting copy, and a responsive grid of image-top cards with linked titles, summaries, and read-more rows.",
+  "page": "https://www.shadcnblocks.com/block/blog7",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/blog7.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "card"
+  ]
+ },
+ {
+  "name": "blogpost1",
+  "kind": "block",
+  "title": "Blogpost 1 - Centered article with alert and table",
+  "description": "A single-post layout with centered title, subtitle, author row with avatar and site link, hero media, and prose body including headings, alert, table, and figures.",
+  "page": "https://www.shadcnblocks.com/block/blogpost1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/blogpost1.json",
+  "dependencies": [
+   "date-fns",
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "alert",
+   "avatar"
+  ]
+ },
+ {
+  "name": "book-a-demo1",
+  "kind": "block",
+  "title": "Book A Demo 1 - Demo booking form with benefits and logos",
+  "description": "This component is designed to facilitate user engagement by providing a form for booking a demo, along with showcasing key benefits and a carousel of company logos. It features input fields for user information and preferences, a select dropdown for source discovery, and incorporates motion effects for enhanced visual presentation.",
+  "page": "https://www.shadcnblocks.com/block/book-a-demo1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/book-a-demo1.json",
+  "dependencies": [
+   "lucide-react",
+   "motion",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button",
+   "card",
+   "input",
+   "label",
+   "select",
+   "textarea"
+  ]
+ },
+ {
+  "name": "careers-intro1",
+  "kind": "block",
+  "title": "Careers Intro 1 - Company intro with three reasons",
+  "description": "A careers intro with an outline hiring badge, a large heading, a short company paragraph, a link to open roles, and three reason columns.",
+  "page": "https://www.shadcnblocks.com/block/careers-intro1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/careers-intro1.json",
+  "dependencies": [
+   "cn",
+   "lucide-react"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button"
+  ]
+ },
+ {
+  "name": "careers4",
+  "kind": "block",
+  "title": "Careers 4 - Simple careers heading with category sections",
+  "description": "A minimal careers section with configurable heading and grouped job rows showing title, location, and arrow link per opening.",
+  "page": "https://www.shadcnblocks.com/block/careers4",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/careers4.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "case-studies2",
+  "kind": "block",
+  "title": "Case Studies 2 - Case studies with quotes and metrics",
+  "description": "This component displays case studies highlighting user testimonials and key performance metrics such as satisfaction rates and ROI improvement. It features visual and text elements including user quotes, images, and company logos to illustrate the impact and effectiveness of a product or service.",
+  "page": "https://www.shadcnblocks.com/block/case-studies2",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/case-studies2.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "separator"
+  ]
+ },
+ {
+  "name": "case-study8",
+  "kind": "block",
+  "title": "Case Study 8 - Case study article with company sidebar",
+  "description": "The component \"CaseStudy8\" is designed to present a detailed narrative with accompanying visuals, including an image and structured text sections for titles, paragraphs, and lists. It also incorporates an informational sidebar that displays company-related details such as logo, size, location, and website, offering users comprehensive content and context in one cohesive block.",
+  "page": "https://www.shadcnblocks.com/block/case-study8",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/case-study8.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "changelog1",
+  "kind": "block",
+  "title": "Changelog 1 - Changelog with sticky version and date rail",
+  "description": "Stacked release entries pair a narrow sticky column of version badge and date with titles, descriptions, optional bullet lists, images, and external learn-more links.",
+  "page": "https://www.shadcnblocks.com/block/changelog1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/changelog1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button"
+  ]
+ },
+ {
+  "name": "chart-card1",
+  "kind": "block",
+  "title": "Chart Card 1 - Area Chart Card",
+  "description": "A card containing an area chart with gradient fill, grid lines, and interactive tooltips.",
+  "page": "https://www.shadcnblocks.com/block/chart-card1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/chart-card1.json",
+  "dependencies": [
+   "recharts",
+   "cn"
+  ],
+  "registryDependencies": [
+   "card",
+   "chart"
+  ]
+ },
+ {
+  "name": "chart-card3",
+  "kind": "block",
+  "title": "Chart Card 3 - Bar Chart Card",
+  "description": "A card containing a vertical bar chart with rounded tops and interactive tooltips.",
+  "page": "https://www.shadcnblocks.com/block/chart-card3",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/chart-card3.json",
+  "dependencies": [
+   "recharts",
+   "cn"
+  ],
+  "registryDependencies": [
+   "card",
+   "chart"
+  ]
+ },
+ {
+  "name": "chart-group1",
+  "kind": "block",
+  "title": "Chart Group 1 - Two Charts Side by Side",
+  "description": "A two-column layout with an area chart and bar chart displayed side by side.",
+  "page": "https://www.shadcnblocks.com/block/chart-group1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/chart-group1.json",
+  "dependencies": [
+   "recharts",
+   "cn"
+  ],
+  "registryDependencies": [
+   "card",
+   "chart"
+  ]
+ },
+ {
+  "name": "checkout1",
+  "kind": "block",
+  "title": "Checkout 1 - Accordion checkout with cart and payment steps",
+  "description": "This component is a checkout block that facilitates online purchasing by managing cart items and payment details. It features forms for user information, address, shipping methods, and payment options, integrating an accordion layout for a step-by-step process.",
+  "page": "https://www.shadcnblocks.com/block/checkout1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/checkout1.json",
+  "dependencies": [
+   "@hookform/resolvers",
+   "lucide-react",
+   "react-hook-form",
+   "zod",
+   "cn"
+  ],
+  "registryDependencies": [
+   "accordion",
+   "aspect-ratio",
+   "button",
+   "card",
+   "checkbox",
+   "field",
+   "input",
+   "radio-group",
+   "context-menu"
+  ]
+ },
+ {
+  "name": "code-example1",
+  "kind": "block",
+  "title": "Code Example 1 - Tabbed database query examples in multiple languages",
+  "description": "This component serves as a versatile code example block that allows users to explore and copy multi-language database query examples, such as JavaScript, Python, Go, and Ruby, with integration for ORMs and raw SQL. It features tabbed navigation to switch between languages, a copy button for ease of use, and displays relevant file names for each example.",
+  "page": "https://www.shadcnblocks.com/block/code-example1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/code-example1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "scroll-area",
+   "tabs",
+   "https://www.kibo-ui.com/r/code-block.json"
+  ]
+ },
+ {
+  "name": "community1",
+  "kind": "block",
+  "title": "Community 1 - Centered invite with logo and outline social buttons",
+  "description": "A centered community section with a small logo, a two-line headline with a muted second line, and outline icon buttons for X, GitHub, and Discord.",
+  "page": "https://www.shadcnblocks.com/block/community1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/community1.json",
+  "dependencies": [
+   "react-icons",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "company-benefits1",
+  "kind": "block",
+  "title": "Company Benefits 1 - Portrait photo with quote and ratings",
+  "description": "A company benefits section with one candid office photo, a coworker quote, and LinkedIn and Glassdoor scores.",
+  "page": "https://www.shadcnblocks.com/block/company-benefits1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/company-benefits1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "compare-products1",
+  "kind": "block",
+  "title": "Compare Products 1 - Side-by-side product comparison with specs and cart",
+  "description": "This component allows users to compare multiple products side-by-side by displaying their specifications and key features in a tabular format. It includes interactive elements such as badges, pricing details, product ratings, and an option to directly add items to the cart.",
+  "page": "https://www.shadcnblocks.com/block/compare-products1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/compare-products1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "badge",
+   "button",
+   "table"
+  ]
+ },
+ {
+  "name": "compare7",
+  "kind": "block",
+  "title": "Compare 7 - Compact three-column comparison table with tooltips",
+  "description": "Centered title and muted intro frame a bordered feature table whose middle column carries a muted fill for the primary stack, dotted underlines on selective secondary cells opening explanatory tooltips.",
+  "page": "https://www.shadcnblocks.com/block/compare7",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/compare7.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "table",
+   "tooltip"
+  ]
+ },
+ {
+  "name": "compliance1",
+  "kind": "block",
+  "title": "Compliance 1 - Two-column compliance narrative with stacked detail cards",
+  "description": "Outline live-status badge, large balanced heading, supporting copy, paired grayscale certification marks, and three bordered stacked stories each pairing title paragraph text with anchored corner badge illustration.",
+  "page": "https://www.shadcnblocks.com/block/compliance1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/compliance1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge"
+  ]
+ },
+ {
+  "name": "contact7",
+  "kind": "block",
+  "title": "Contact 7 - Grid of contact method cards",
+  "description": "A heading and short description lead into four rounded muted cards for email, office, phone, and live chat, each with icon, copy, and link.",
+  "page": "https://www.shadcnblocks.com/block/contact7",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/contact7.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "content1",
+  "kind": "block",
+  "title": "Content 1 - Long-form story with sticky section outline",
+  "description": "Narrative article layout with a sticky in-page outline, scroll-based active section highlighting, and rich body content including images, lists, tables, and callouts.",
+  "page": "https://www.shadcnblocks.com/block/content1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/content1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "alert",
+   "badge"
+  ]
+ },
+ {
+  "name": "cta10",
+  "kind": "block",
+  "title": "Cta 10 - Banded call-to-action with dual buttons",
+  "description": "Contained CTA band with headline, supporting text, and optional primary and secondary actions aligned inline on larger breakpoints and stacked when space is tight.",
+  "page": "https://www.shadcnblocks.com/block/cta10",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta10.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "cta11",
+  "kind": "block",
+  "title": "Cta 11 - Bordered CTA with icon label and single action",
+  "description": "Card-style split with an image column, inline icon beside the heading, supporting copy, and one text link-style primary action with a trailing arrow icon.",
+  "page": "https://www.shadcnblocks.com/block/cta11",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta11.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "cta34",
+  "kind": "block",
+  "title": "Cta 34 - Call to action with top border separator",
+  "description": "A centered call to action with a heading, description, and two buttons, separated from content above by a thin top border and open spacing.",
+  "page": "https://www.shadcnblocks.com/block/cta34",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta34.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "cta35",
+  "kind": "block",
+  "title": "Cta 35 - Call to action with left border stripe",
+  "description": "A left-aligned call to action with a thick primary-colored vertical stripe, heading, description, and buttons inside padded content.",
+  "page": "https://www.shadcnblocks.com/block/cta35",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta35.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "cta36",
+  "kind": "block",
+  "title": "Cta 36 - Inline split call to action",
+  "description": "A horizontal split call to action with heading and description on one side and paired buttons on the other, closed by a bottom border.",
+  "page": "https://www.shadcnblocks.com/block/cta36",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta36.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "cta37",
+  "kind": "block",
+  "title": "Cta 37 - Bordered grid split call to action",
+  "description": "A bordered card call to action on a CSS grid with a wide text column and a narrow column of full-width stacked buttons.",
+  "page": "https://www.shadcnblocks.com/block/cta37",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta37.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "cta38",
+  "kind": "block",
+  "title": "Cta 38 - Inverted card call to action",
+  "description": "A centered call to action in a rounded card that fills with the foreground token, inverted type, and paired primary and outline buttons.",
+  "page": "https://www.shadcnblocks.com/block/cta38",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta38.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "cta39",
+  "kind": "block",
+  "title": "Cta 39 - Dashed outline card call to action",
+  "description": "A centered call to action inside a dashed rounded border with transparent fill, stacking heading, description, and buttons.",
+  "page": "https://www.shadcnblocks.com/block/cta39",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cta39.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "customer-details1",
+  "kind": "block",
+  "title": "Customer Details 1 - Basic customer details form",
+  "description": "A free form for editing a customer's name, contact details, company, status, and notes.",
+  "page": "https://www.shadcnblocks.com/block/customer-details1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/customer-details1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "field",
+   "input",
+   "select",
+   "textarea"
+  ]
+ },
+ {
+  "name": "data-table1",
+  "kind": "block",
+  "title": "Data Table 1 - Basic Data Table",
+  "description": "A basic data table section with sortable columns, currency formatting, and availability badges. Built with TanStack Table for sorting functionality.",
+  "page": "https://www.shadcnblocks.com/block/data-table1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/data-table1.json",
+  "dependencies": [
+   "@tanstack/react-table",
+   "lucide-react",
+   "zod",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button",
+   "table"
+  ]
+ },
+ {
+  "name": "download2",
+  "kind": "block",
+  "title": "Download 2 - Minimal three-column downloads",
+  "description": "A softer muted backdrop with a centered title and intro, then three equal columns for desktop, iOS, and Android with large round icons, short copy, and badges or a download button.",
+  "page": "https://www.shadcnblocks.com/block/download2",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/download2.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "ecommerce-footer1",
+  "kind": "block",
+  "title": "Ecommerce Footer 1 - Ecommerce footer with newsletter, language selector, and contact row",
+  "description": "This component serves as a comprehensive footer block featuring a newsletter subscription form, a multilingual section for various language selections, and contact information including social media links. It includes customizable sections for footer links, enabling users to provide important information such as policies and collections, enhancing navigation and connectivity options for the user.",
+  "page": "https://www.shadcnblocks.com/block/ecommerce-footer1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/ecommerce-footer1.json",
+  "dependencies": [
+   "@hookform/resolvers",
+   "lucide-react",
+   "react-hook-form",
+   "zod",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "field",
+   "input",
+   "select",
+   "separator"
+  ]
+ },
+ {
+  "name": "experience1",
+  "kind": "block",
+  "title": "Experience 1 - Work history rows with CV download",
+  "description": "Portfolio experience list with oversized section heading, trailing ghost CV link with download icon, and each role showing period, title and body copy, plus company label beside a square logo mark.",
+  "page": "https://www.shadcnblocks.com/block/experience1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/experience1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "faq1",
+  "kind": "block",
+  "title": "Faq 1 - Centered accordion FAQ block",
+  "description": "Narrow container FAQ heading above a collapsible accordion list where each question triggers expansion and answers render in muted body color for readability.",
+  "page": "https://www.shadcnblocks.com/block/faq1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/faq1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "accordion"
+  ]
+ },
+ {
+  "name": "feature1",
+  "kind": "block",
+  "title": "Feature 1 - Two-column feature with square image and button",
+  "description": "Split feature section with a large heading, optional description, an outline call-to-action, and a square bordered product image in the second column.",
+  "page": "https://www.shadcnblocks.com/block/feature1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "feature13",
+  "kind": "block",
+  "title": "Feature 13 - Two-column feature cards with linked titles and imagery",
+  "description": "A heading and optional intro above a two-column grid of cards that combine labels, linked titles, descriptions, and bottom-anchored images per feature.",
+  "page": "https://www.shadcnblocks.com/block/feature13",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature13.json",
+  "dependencies": [
+   "cn",
+   "lucide-react"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "feature166",
+  "kind": "block",
+  "title": "Feature 166 - Centered intro over four-panel feature matrix",
+  "description": "Centered title and muted intro precede a bordered two-by-two matrix of four prop-driven features, each with heading, description, and image in alternating three-fifths and two-fifths column widths.",
+  "page": "https://www.shadcnblocks.com/block/feature166",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature166.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "feature17",
+  "kind": "block",
+  "title": "Feature 17 - Six-up icon grid with centered intro",
+  "description": "Optional secondary badge and large centered heading introduce up to six icon-led features in two columns, each with accent circle, title, and muted body, plus an optional large primary link button.",
+  "page": "https://www.shadcnblocks.com/block/feature17",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature17.json",
+  "dependencies": [
+   "cn",
+   "lucide-react"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button"
+  ]
+ },
+ {
+  "name": "feature197",
+  "kind": "block",
+  "title": "Feature 197 - Feature accordion with paired image panel",
+  "description": "A two-column section built around an accordion that switches feature copy and updates the large preview image beside the list.",
+  "page": "https://www.shadcnblocks.com/block/feature197",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature197.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "accordion"
+  ]
+ },
+ {
+  "name": "feature2",
+  "kind": "block",
+  "title": "Feature 2 - Split feature row with image and dual actions",
+  "description": "A two-column block with one column for media and the other for a heading, supporting paragraph, and paired primary and secondary buttons.",
+  "page": "https://www.shadcnblocks.com/block/feature2",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature2.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "feature43",
+  "kind": "block",
+  "title": "Feature 43 - Icon reasons with centered call to action",
+  "description": "Centered section title above six circular icon tiles in a responsive three-column grid, with a large primary button centered beneath the set.",
+  "page": "https://www.shadcnblocks.com/block/feature43",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature43.json",
+  "dependencies": [
+   "cn",
+   "lucide-react"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "feature51",
+  "kind": "block",
+  "title": "Feature 51 - Stacked icon tabs with feature imagery",
+  "description": "Three tab triggers with circular icon wells, headings, and blurbs swap a large feature image; triggers stack vertically on small screens and align in a row from medium widths up.",
+  "page": "https://www.shadcnblocks.com/block/feature51",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature51.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "tabs"
+  ]
+ },
+ {
+  "name": "feature72",
+  "kind": "block",
+  "title": "Feature 72 - Narrow header with bordered feature cards",
+  "description": "Narrow-width heading band with optional copy and link-style primary action sits above up to four bordered cards in a responsive grid; each card links an image topper to a title stack and muted body text below.",
+  "page": "https://www.shadcnblocks.com/block/feature72",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature72.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "feature73",
+  "kind": "block",
+  "title": "Feature 73 - Image card grid with optional header link",
+  "description": "A section heading with optional link-style button introduces three image-led feature cards in a responsive grid: one column on small screens, two from medium breakpoints, three on large screens.",
+  "page": "https://www.shadcnblocks.com/block/feature73",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/feature73.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "footer2",
+  "kind": "block",
+  "title": "Footer 2 - Footer with logo, tagline, link columns, and legal row",
+  "description": "Standard footer with a logo, short description, up to four navigation link columns, copyright text, and underlined legal links.",
+  "page": "https://www.shadcnblocks.com/block/footer2",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/footer2.json",
+  "dependencies": [
+   "cn",
+   "react-icons",
+   "lucide-react"
+  ],
+  "registryDependencies": [
+   "context-menu"
+  ]
+ },
+ {
+  "name": "gallery6",
+  "kind": "block",
+  "title": "Gallery 6 - Gallery carousel with demo link",
+  "description": "Horizontal image carousel with a heading, call-to-action link, and outline-variant arrow controls above the scrolling cards.",
+  "page": "https://www.shadcnblocks.com/block/gallery6",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/gallery6.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "carousel"
+  ]
+ },
+ {
+  "name": "help1",
+  "kind": "block",
+  "title": "Help 1 - Category grid help center",
+  "description": "Help center with categorized topic cards, a popular topics list, and a contact support button.",
+  "page": "https://www.shadcnblocks.com/block/help1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/help1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "card"
+  ]
+ },
+ {
+  "name": "hero1",
+  "kind": "block",
+  "title": "Hero 1 - Split hero with image on the right",
+  "description": "A two-column marketing hero with text first, then a badge, headline, body copy, and paired CTAs aligned start on large screens beside the media column.",
+  "page": "https://www.shadcnblocks.com/block/hero1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/hero1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button"
+  ]
+ },
+ {
+  "name": "hero115",
+  "kind": "block",
+  "title": "Hero 115 - Centered hero with ring backdrop",
+  "description": "A centered hero with concentric ring decoration behind the copy, a leading icon, headline, supporting text, one primary CTA, optional byline, and a capped hero image.",
+  "page": "https://www.shadcnblocks.com/block/hero115",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/hero115.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "hero3",
+  "kind": "block",
+  "title": "Hero 3 - Split hero with review strip and tall photography",
+  "description": "A two-column hero using shadcn/ui Avatar and Button rows where overlapped faces, star score, and review total sit beside a tall rounded cover image.",
+  "page": "https://www.shadcnblocks.com/block/hero3",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/hero3.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "button"
+  ]
+ },
+ {
+  "name": "hero45",
+  "kind": "block",
+  "title": "Hero 45 - Hero with wide image and three feature columns",
+  "description": "A hero with outline badge, headline, a wide landscape image that crossfades between slides when each feature column is hovered, gradient veil, and three icon-led columns separated by vertical rules on desktop.",
+  "page": "https://www.shadcnblocks.com/block/hero45",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/hero45.json",
+  "dependencies": [
+   "cn",
+   "lucide-react"
+  ],
+  "registryDependencies": [
+   "badge",
+   "separator"
+  ]
+ },
+ {
+  "name": "hero47",
+  "kind": "block",
+  "title": "Hero 47 - Split hero with handset frame and split headline line",
+  "description": "A free-tier hero combining oversized heading with muted continuation phrase, supporting paragraph, stylized shadcn/ui primary button, docs link, and inset screenshot inside a phone asset.",
+  "page": "https://www.shadcnblocks.com/block/hero47",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/hero47.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "hero7",
+  "kind": "block",
+  "title": "Hero 7 - Centered hero with ratings row under single CTA",
+  "description": "A centered hero with headline, muted paragraph, large shadcn/ui button, overlapped avatars, star row, numeric score, and review total caption.",
+  "page": "https://www.shadcnblocks.com/block/hero7",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/hero7.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "button"
+  ]
+ },
+ {
+  "name": "incentives1",
+  "kind": "block",
+  "title": "Incentives 1 - Icon row of shopping incentives",
+  "description": "A four-item incentive row with circular icons, titles, and short support copy that scrolls as a carousel on small screens and becomes a grid on larger ones.",
+  "page": "https://www.shadcnblocks.com/block/incentives1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/incentives1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "carousel"
+  ]
+ },
+ {
+  "name": "industries1",
+  "kind": "block",
+  "title": "Industries 1 - Industry cards with hover description",
+  "description": "A heading above a grid of industry cards, each linking out with an image and name that reveals a description overlay and plus icon on hover.",
+  "page": "https://www.shadcnblocks.com/block/industries1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/industries1.json",
+  "dependencies": [
+   "motion",
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "integration3",
+  "kind": "block",
+  "title": "Integration 3 - Simple integration list",
+  "description": "A centered vertical list of integrations showing icons, titles, and descriptions in a single-column layout.",
+  "page": "https://www.shadcnblocks.com/block/integration3",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/integration3.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "investors1",
+  "kind": "block",
+  "title": "Investors 1 - Investor Logo Grid",
+  "description": "A centered heading and short paragraph above an eight-firm grid of venture wordmarks and names.",
+  "page": "https://www.shadcnblocks.com/block/investors1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/investors1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "invite-user1",
+  "kind": "block",
+  "title": "Invite User 1 - User Table with Dialog Invite",
+  "description": "A user management table with invite button that opens a dialog for sending bulk email invitations with role selection and textarea for multiple addresses.",
+  "page": "https://www.shadcnblocks.com/block/invite-user1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/invite-user1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "dialog",
+   "label",
+   "select",
+   "table",
+   "textarea"
+  ]
+ },
+ {
+  "name": "issue-list1",
+  "kind": "block",
+  "title": "Issue List 1 - Searchable backlog list",
+  "description": "A flat backlog with search and status chips, sorted from backlog through done.",
+  "page": "https://www.shadcnblocks.com/block/issue-list1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/issue-list1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "button",
+   "input"
+  ]
+ },
+ {
+  "name": "leaderboard1",
+  "kind": "block",
+  "title": "Leaderboard 1 - Leaderboard with Progress Bars",
+  "description": "A ranked list card with progress bars showing relative values for each item.",
+  "page": "https://www.shadcnblocks.com/block/leaderboard1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/leaderboard1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "card",
+   "progress"
+  ]
+ },
+ {
+  "name": "list2",
+  "kind": "block",
+  "title": "List 2 - Icon list with action buttons",
+  "description": "Vertical list of items separated by dividers, each showing an icon, title, category, description, and a view button.",
+  "page": "https://www.shadcnblocks.com/block/list2",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/list2.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "separator"
+  ]
+ },
+ {
+  "name": "live-purchase1",
+  "kind": "block",
+  "title": "Live Purchase 1 - Rotating purchase toast card",
+  "description": "A fixed corner card that cycles recent purchases, showing customer name, location, product image, relative time, and a dismiss button.",
+  "page": "https://www.shadcnblocks.com/block/live-purchase1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/live-purchase1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "card"
+  ]
+ },
+ {
+  "name": "login1",
+  "kind": "block",
+  "title": "Login 1 - Minimal email and password login",
+  "description": "Simple centered login form with a logo, email and password inputs, a submit button, and a signup link.",
+  "page": "https://www.shadcnblocks.com/block/login1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/login1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "input"
+  ]
+ },
+ {
+  "name": "logos18",
+  "kind": "block",
+  "title": "Logos 18 - Logo Grid Without Headline",
+  "description": "A centered wrap grid of partner logos with no title, using the same logo list and spacing as the heading-based grid variant.",
+  "page": "https://www.shadcnblocks.com/block/logos18",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/logos18.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "logos8",
+  "kind": "block",
+  "title": "Logos 8 - Centered logo row with heading",
+  "description": "Shows up to six logos in a centered flex-wrap row beneath a heading, with dark-mode inversion.",
+  "page": "https://www.shadcnblocks.com/block/logos8",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/logos8.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "navbar1",
+  "kind": "block",
+  "title": "Navbar 1 - Navbar with icon dropdown menus",
+  "description": "A horizontal navbar with logo, navigation menu dropdowns showing icons and descriptions, login and signup buttons, and a mobile sheet with accordion submenus.",
+  "page": "https://www.shadcnblocks.com/block/navbar1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/navbar1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "accordion",
+   "button",
+   "navigation-menu",
+   "sheet"
+  ]
+ },
+ {
+  "name": "navbar35",
+  "kind": "block",
+  "title": "Navbar 35 - Navbar with a centered icon menu",
+  "description": "A horizontal navbar with the logo on the left, a centered menu of icon dropdowns and links, login and signup buttons on the right, and a mobile sheet with accordion submenus.",
+  "page": "https://www.shadcnblocks.com/block/navbar35",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/navbar35.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "accordion",
+   "button",
+   "navigation-menu",
+   "sheet"
+  ]
+ },
+ {
+  "name": "offer-modal4",
+  "kind": "block",
+  "title": "Offer Modal 4 - Membership offer modal with photo",
+  "description": "A promotional dialog with a product photo, membership discount headline, email field, submit button, and supporting copy.",
+  "page": "https://www.shadcnblocks.com/block/offer-modal4",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/offer-modal4.json",
+  "dependencies": [
+   "@hookform/resolvers",
+   "lucide-react",
+   "react-hook-form",
+   "zod"
+  ],
+  "registryDependencies": [
+   "button",
+   "dialog",
+   "field",
+   "input-group"
+  ]
+ },
+ {
+  "name": "order-summary1",
+  "kind": "block",
+  "title": "Order Summary 1 - Order confirmation with itemized totals",
+  "description": "A post-purchase confirmation with a status badge, itemized products, cost breakdown, shipping address, payment method, and actions to track, download a receipt, or print.",
+  "page": "https://www.shadcnblocks.com/block/order-summary1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/order-summary1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "badge",
+   "button",
+   "card",
+   "separator"
+  ]
+ },
+ {
+  "name": "payment-methods1",
+  "kind": "block",
+  "title": "Payment Methods 1 - Payment methods list with inline edit",
+  "description": "A saved payment list for cards and PayPal with radio selection, default badge, inline add and edit forms, and a menu to delete methods.",
+  "page": "https://www.shadcnblocks.com/block/payment-methods1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/payment-methods1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button",
+   "card",
+   "dropdown-menu",
+   "input",
+   "label",
+   "radio-group",
+   "select"
+  ]
+ },
+ {
+  "name": "pricing2",
+  "kind": "block",
+  "title": "Pricing 2 - Classic two-plan pricing with billing switch",
+  "description": "Centered heading with a monthly/yearly toggle, two side-by-side cards with large prices, feature checklists, and full-width CTA buttons.",
+  "page": "https://www.shadcnblocks.com/block/pricing2",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/pricing2.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "card",
+   "separator",
+   "switch"
+  ]
+ },
+ {
+  "name": "pricing4",
+  "kind": "block",
+  "title": "Pricing 4 - Three-plan pricing with tabs and one highlighted column",
+  "description": "Monthly and yearly tabs above three tier columns with one muted highlighted column, badge labels from tier names, checks on features, and sans-serif price type.",
+  "page": "https://www.shadcnblocks.com/block/pricing4",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/pricing4.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button",
+   "separator",
+   "tabs"
+  ]
+ },
+ {
+  "name": "pricing6",
+  "kind": "block",
+  "title": "Pricing 6 - Single plan pricing card with grouped features",
+  "description": "Centered single-plan card with separated feature groups, a large price numeral, and a CTA button, all under a heading and subheading.",
+  "page": "https://www.shadcnblocks.com/block/pricing6",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/pricing6.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "separator"
+  ]
+ },
+ {
+  "name": "process1",
+  "kind": "block",
+  "title": "Process 1 - Sticky sidebar four-step process",
+  "description": "Two-column process section with a sticky heading and contact button on the left, numbered step cards on the right.",
+  "page": "https://www.shadcnblocks.com/block/process1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/process1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "product-card1",
+  "kind": "block",
+  "title": "Product Card 1 - Product card with sale badge",
+  "description": "A linked product card with a product image, urgency badge, name, short description, and regular plus sale price.",
+  "page": "https://www.shadcnblocks.com/block/product-card1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/product-card1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "badge",
+   "card"
+  ]
+ },
+ {
+  "name": "product-categories1",
+  "kind": "block",
+  "title": "Product Categories 1 - Split category banner with image",
+  "description": "A two-column product category banner with a centered title and summary on the left and a full-bleed category image on the right.",
+  "page": "https://www.shadcnblocks.com/block/product-categories1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/product-categories1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "product-detail1",
+  "kind": "block",
+  "title": "Product Detail 1 - Product detail with specs list",
+  "description": "A two-column product page with an image carousel, reviews, in-stock badge, buy now button, size and color options, and a labeled specs list.",
+  "page": "https://www.shadcnblocks.com/block/product-detail1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/product-detail1.json",
+  "dependencies": [
+   "@hookform/resolvers",
+   "lucide-react",
+   "react-hook-form",
+   "zod",
+   "cn"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "badge",
+   "button",
+   "carousel",
+   "radio-group"
+  ]
+ },
+ {
+  "name": "product-gallery1",
+  "kind": "block",
+  "title": "Product Gallery 1 - Product image carousel and grid",
+  "description": "A product image gallery that swipes as a carousel on small screens and becomes a three-column grid with a full-width lead image on larger screens.",
+  "page": "https://www.shadcnblocks.com/block/product-gallery1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/product-gallery1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "carousel"
+  ]
+ },
+ {
+  "name": "product-list1",
+  "kind": "block",
+  "title": "Product List 1 - Product grid with badges",
+  "description": "A responsive product grid of cards with images, optional urgency badges, names, descriptions, and regular plus sale prices.",
+  "page": "https://www.shadcnblocks.com/block/product-list1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/product-list1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "badge",
+   "card"
+  ]
+ },
+ {
+  "name": "product-quick-view4",
+  "kind": "block",
+  "title": "Product Quick View 4 - Dialog quick view with variants",
+  "description": "A product quick-view dialog with an image carousel, description, price, color and size options, and add-to-cart plus details actions.",
+  "page": "https://www.shadcnblocks.com/block/product-quick-view4",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/product-quick-view4.json",
+  "dependencies": [
+   "@hookform/resolvers",
+   "lucide-react",
+   "react-hook-form",
+   "zod",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "carousel",
+   "dialog",
+   "field",
+   "radio-group"
+  ]
+ },
+ {
+  "name": "product-specs1",
+  "kind": "block",
+  "title": "Product Specs 1 - Collapsible product spec tables",
+  "description": "A product specifications section with expandable categories, icons, label-value tables, and expand-all or collapse-all controls.",
+  "page": "https://www.shadcnblocks.com/block/product-specs1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/product-specs1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "collapsible",
+   "table"
+  ]
+ },
+ {
+  "name": "project1",
+  "kind": "block",
+  "title": "Project 1 - Project detail with animated scroll reveal",
+  "description": "Single-project layout with a header, hero image, descriptive paragraphs, metadata rows, and a two-column image grid with fade-up scroll animations.",
+  "page": "https://www.shadcnblocks.com/block/project1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/project1.json",
+  "dependencies": [
+   "motion",
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "projects5",
+  "kind": "block",
+  "title": "Projects 5 - Animated project cards with year badges",
+  "description": "Two-column grid of bordered project cards with images, titles, categories, and pill-shaped year badges that animate into view on scroll.",
+  "page": "https://www.shadcnblocks.com/block/projects5",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/projects5.json",
+  "dependencies": [
+   "motion",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "promo-banner1",
+  "kind": "block",
+  "title": "Promo Banner 1 - Free shipping progress banner",
+  "description": "A storefront banner that shows remaining spend toward free shipping, a progress bar, and a confirmation message once the threshold is met.",
+  "page": "https://www.shadcnblocks.com/block/promo-banner1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/promo-banner1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "progress"
+  ]
+ },
+ {
+  "name": "rate-card2",
+  "kind": "block",
+  "title": "Rate Card 2 - Two-plan monthly rate cards",
+  "description": "A pair of pricing cards for a monthly retainer and a premium package, each with a description, included-benefits list, price, and a get-started button.",
+  "page": "https://www.shadcnblocks.com/block/rate-card2",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/rate-card2.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "resource1",
+  "kind": "block",
+  "title": "Resource 1 - Resource detail with sidebar and article",
+  "description": "A two-column resource page with a prose article on the right and a sidebar containing download options, whitepaper info, and social sharing links.",
+  "page": "https://www.shadcnblocks.com/block/resource1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/resource1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "reviews1",
+  "kind": "block",
+  "title": "Reviews 1 - Customer review list with average rating",
+  "description": "A review list with a calculated average rating, star scores, titles, author avatars, dates, and verified-purchase badges for each entry.",
+  "page": "https://www.shadcnblocks.com/block/reviews1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/reviews1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "separator"
+  ]
+ },
+ {
+  "name": "service1",
+  "kind": "block",
+  "title": "Service 1 - Service detail page with hero and prose content",
+  "description": "A single-column service page with a muted full-width hero heading, an introduction section, and long-form prose content with headings, paragraphs, and a service list.",
+  "page": "https://www.shadcnblocks.com/block/service1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/service1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "services4",
+  "kind": "block",
+  "title": "Services 4 - Bordered service cards with icon and bullet list",
+  "description": "Four service cards in a two-column grid, each with a circular icon, title, description, and dot-prefixed item list, plus a hover shadow effect.",
+  "page": "https://www.shadcnblocks.com/block/services4",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/services4.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "settings-profile1",
+  "kind": "block",
+  "title": "Settings Profile 1 - Basic Profile Form",
+  "description": "A compact profile settings card with avatar upload, name, username, email, and bio fields.",
+  "page": "https://www.shadcnblocks.com/block/settings-profile1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/settings-profile1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "button",
+   "card",
+   "input",
+   "label",
+   "textarea",
+   "@diceui/file-upload"
+  ]
+ },
+ {
+  "name": "shader3",
+  "kind": "block",
+  "title": "Shader 3 - Mouse-Interactive Glass Shader",
+  "description": "A full-screen shader background with glass refraction, circular shapes, mouse-following interaction, and configurable color.",
+  "page": "https://www.shadcnblocks.com/block/shader3",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/shader3.json",
+  "dependencies": [
+   "@react-three/fiber",
+   "three",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "shopping-cart1",
+  "kind": "block",
+  "title": "Shopping Cart 1 - Simple page shopping cart",
+  "description": "A page shopping cart listing item images, quantities, and line totals with a remove action, overall total, checkout button, and empty state.",
+  "page": "https://www.shadcnblocks.com/block/shopping-cart1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/shopping-cart1.json",
+  "dependencies": [
+   "lucide-react"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "button",
+   "separator"
+  ]
+ },
+ {
+  "name": "sidebar1",
+  "kind": "block",
+  "title": "Sidebar 1 - Basic Sidebar with Groups",
+  "description": "A simple sidebar with logo header, labeled navigation groups, footer links, and main content area with breadcrumbs and toggle button.",
+  "page": "https://www.shadcnblocks.com/block/sidebar1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/sidebar1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "breadcrumb",
+   "separator",
+   "sidebar"
+  ]
+ },
+ {
+  "name": "signup1",
+  "kind": "block",
+  "title": "Signup 1 - Centered signup form with confirm password",
+  "description": "A full-screen centered signup form with a logo, unlabeled email and password fields, a confirm password input, a create account button, and a login link.",
+  "page": "https://www.shadcnblocks.com/block/signup1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/signup1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "input"
+  ]
+ },
+ {
+  "name": "stats-card1",
+  "kind": "block",
+  "title": "Stats Card 1 - Metric Card with Trend",
+  "description": "A compact metric card displaying a value with trend indicator showing percentage change and direction.",
+  "page": "https://www.shadcnblocks.com/block/stats-card1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/stats-card1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "card"
+  ]
+ },
+ {
+  "name": "stats8",
+  "kind": "block",
+  "title": "Stats 8 - Stats grid with heading and link",
+  "description": "A heading, description, and linked call to action above a four-column grid of large stat figures with labels.",
+  "page": "https://www.shadcnblocks.com/block/stats8",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/stats8.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "team1",
+  "kind": "block",
+  "title": "Team 1 - Centered team grid with avatars",
+  "description": "Centered team intro with heading and supporting copy above a responsive avatar grid of names and roles.",
+  "page": "https://www.shadcnblocks.com/block/team1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/team1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar"
+  ]
+ },
+ {
+  "name": "team56",
+  "kind": "block",
+  "title": "Team 56 - Left-aligned team cards",
+  "description": "Left-aligned team heading and supporting copy above a responsive card grid of circular avatars, names, and roles.",
+  "page": "https://www.shadcnblocks.com/block/team56",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/team56.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "card"
+  ]
+ },
+ {
+  "name": "testimonial10",
+  "kind": "block",
+  "title": "Testimonial 10 - Single centered quote",
+  "description": "One large testimonial quote centered on the page with an avatar, name, and role beneath it.",
+  "page": "https://www.shadcnblocks.com/block/testimonial10",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/testimonial10.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar"
+  ]
+ },
+ {
+  "name": "testimonial9",
+  "kind": "block",
+  "title": "Testimonial 9 - Masonry quotes with source icons",
+  "description": "A heading and supporting line above a responsive masonry of testimonial cards with avatars and optional source icons.",
+  "page": "https://www.shadcnblocks.com/block/testimonial9",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/testimonial9.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "card"
+  ]
+ },
+ {
+  "name": "timeline9",
+  "kind": "block",
+  "title": "Timeline 9 - Vertical dot timeline",
+  "description": "Vertical timeline with a left-aligned separator, filled dot markers, and card-wrapped entries showing dates, titles, and prose content.",
+  "page": "https://www.shadcnblocks.com/block/timeline9",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/timeline9.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "card",
+   "separator"
+  ]
+ },
+ {
+  "name": "todo1",
+  "kind": "block",
+  "title": "Todo 1 - Simple checkbox todo list",
+  "description": "A simple todo list with a heading, task titles, and checkboxes that toggle completion and fade completed items.",
+  "page": "https://www.shadcnblocks.com/block/todo1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/todo1.json",
+  "dependencies": [],
+  "registryDependencies": [
+   "checkbox",
+   "item"
+  ]
+ },
+ {
+  "name": "trust-strip1",
+  "kind": "block",
+  "title": "Trust Strip 1 - Icon grid of store guarantees",
+  "description": "A four-column strip of trust items, each with an icon, title, and short description covering shipping, returns, payment, and ratings.",
+  "page": "https://www.shadcnblocks.com/block/trust-strip1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/trust-strip1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "user-profile1",
+  "kind": "block",
+  "title": "User Profile 1 - Basic Profile Card",
+  "description": "A centered profile card with avatar, name, role, bio, and action buttons for messaging and following.",
+  "page": "https://www.shadcnblocks.com/block/user-profile1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/user-profile1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "badge",
+   "button",
+   "card"
+  ]
+ },
+ {
+  "name": "waitlist1",
+  "kind": "block",
+  "title": "Waitlist 1 - Centered waitlist with avatar row",
+  "description": "A full-height waitlist with a large heading, supporting copy, email field, join button, overlapping avatars, and a joined-count line.",
+  "page": "https://www.shadcnblocks.com/block/waitlist1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/waitlist1.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "avatar",
+   "button",
+   "input",
+   "https://ui.aceternity.com/registry/background-lines.json"
+  ]
+ },
+ {
+  "name": "wishlist1",
+  "kind": "block",
+  "title": "Wishlist 1 - Wishlist grid with price-drop badges",
+  "description": "A three-column wishlist of saved products with price-drop and stock badges, add-to-cart or notify actions, add-all, and an empty state.",
+  "page": "https://www.shadcnblocks.com/block/wishlist1",
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/wishlist1.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "aspect-ratio",
+   "badge",
+   "button",
+   "card"
+  ]
+ },
+ {
+  "name": "async-button",
+  "kind": "component",
+  "title": "Async Button - Async status button",
+  "description": "A button that shows idle, loading spinner, success, and error states, with an optional progress bar.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/async-button.json",
+  "dependencies": [
+   "lucide-react",
+   "motion",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "aurora-button",
+  "kind": "component",
+  "title": "Aurora Button - Aurora gradient button",
+  "description": "A button filled with a slowly shifting multi-color aurora gradient, or an aurora outline with a solid inner fill.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/aurora-button.json",
+  "dependencies": [
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "avatar-group",
+  "kind": "component",
+  "title": "Avatar Group - Overlapping avatar group",
+  "description": "A horizontal row of overlapping circular avatars with spacing variants, hover spread, and an overflow count badge.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/avatar-group.json",
+  "dependencies": [
+   "class-variance-authority",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "background-beams",
+  "kind": "component",
+  "title": "Background Beams - Animated background beams",
+  "description": "An absolute SVG layer of curved light beams with traveling gradients for decorative page backgrounds.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/background-beams.json",
+  "dependencies": [
+   "motion",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "background",
+  "kind": "component",
+  "title": "Background - Layered section background",
+  "description": "A section wrapper with editorial borders, patterns, and mesh gradients that sit behind content using named presets.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/background.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "border-button",
+  "kind": "component",
+  "title": "Border Button - Corner accent border button",
+  "description": "A square-cornered button with L-shaped SVG accents at all four edges, using standard Button variants.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/border-button.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "button-link",
+  "kind": "component",
+  "title": "Button Link - Button-styled link",
+  "description": "A native anchor styled with shadcn/ui button variants for navigation that should look like a button.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/button-link.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "copy-button",
+  "kind": "component",
+  "title": "Copy Button - Copy to clipboard button",
+  "description": "A button that copies a string to the clipboard and swaps to a check icon for two seconds.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/copy-button.json",
+  "dependencies": [
+   "lucide-react",
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "counter-button",
+  "kind": "component",
+  "title": "Counter Button - Animated count stepper",
+  "description": "A minus and plus control that increments a number with a vertical slide animation between min and max.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/counter-button.json",
+  "dependencies": [
+   "lucide-react",
+   "motion",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "cover",
+  "kind": "component",
+  "title": "Cover - Hover sparkle cover",
+  "description": "An inline highlight that darkens on hover, sweeps beams, and fills the box with sparkle particles.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/cover.json",
+  "dependencies": [
+   "motion",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "data-toolbar",
+  "kind": "component",
+  "title": "Data Toolbar - Search and actions toolbar",
+  "description": "A wrapping toolbar with a search field and a slot for filters, tabs, and column menus.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/data-toolbar.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "input"
+  ]
+ },
+ {
+  "name": "emoji-picker",
+  "kind": "component",
+  "title": "Emoji Picker - Searchable emoji picker",
+  "description": "A popover emoji grid with search, category tabs, recent history, and keyboard navigation.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/emoji-picker.json",
+  "dependencies": [
+   "lucide-react"
+  ],
+  "registryDependencies": [
+   "badge",
+   "button",
+   "input",
+   "popover",
+   "scroll-area",
+   "tabs"
+  ]
+ },
+ {
+  "name": "expand-button",
+  "kind": "component",
+  "title": "Expand Button - Hover-expand icon button",
+  "description": "An icon button that springs wider on hover to reveal additional label text.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/expand-button.json",
+  "dependencies": [
+   "lucide-react",
+   "motion",
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "filter-panel",
+  "kind": "component",
+  "title": "Filter Panel - Sectioned filter panel",
+  "description": "A stacked filter sidebar with titled sections and option rows that can show a count.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/filter-panel.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "fold-button",
+  "kind": "component",
+  "title": "Fold Button - Fold-over hover button",
+  "description": "A button whose background folds upward on hover, inverting label color, with an optional loading spinner.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/fold-button.json",
+  "dependencies": [
+   "lucide-react",
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "form-star-rating",
+  "kind": "component",
+  "title": "Form Star Rating - Interactive form star rating",
+  "description": "An interactive RadioGroup rating with hover fill, optional labels, and star or custom icon options.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/form-star-rating.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "label",
+   "radio-group"
+  ]
+ },
+ {
+  "name": "github-stars",
+  "kind": "component",
+  "title": "Github Stars - GitHub stars badge",
+  "description": "An outline button that links to a GitHub repository and can show an optional star count.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/github-stars.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "tooltip"
+  ]
+ },
+ {
+  "name": "gleam-button",
+  "kind": "component",
+  "title": "Gleam Button - Gleam sweep button",
+  "description": "A button with a brief diagonal gleam that passes across the surface on a repeating interval.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/gleam-button.json",
+  "dependencies": [
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "glow-button",
+  "kind": "component",
+  "title": "Glow Button - Soft glow button",
+  "description": "A button with a soft drop-shadow glow that intensifies on hover in light and dark themes.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/glow-button.json",
+  "dependencies": [
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "iphone",
+  "kind": "component",
+  "title": "Iphone",
+  "description": null,
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/iphone.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "link-preview",
+  "kind": "component",
+  "title": "Link Preview - Hover link preview card",
+  "description": "An inline link with a hover card that shows a screenshot of the destination URL from Microlink or a static image.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/link-preview.json",
+  "dependencies": [
+   "radix-ui",
+   "motion",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "login-button",
+  "kind": "component",
+  "title": "Login Button - Login CTA button",
+  "description": "A login action button with an optional icon and default Log in label, matching shadcn/ui button variants.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/login-button.json",
+  "dependencies": [
+   "radix-ui",
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "logo",
+  "kind": "component",
+  "title": "Logo - Responsive logo with wordmark",
+  "description": "A linked brand mark and wordmark with breakpoint-aware image and text slots plus an optional asset download menu.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/logo.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "context-menu"
+  ]
+ },
+ {
+  "name": "marquee-button",
+  "kind": "component",
+  "title": "Marquee Button - Marquee text button",
+  "description": "A button that scrolls its label in a looping marquee on hover or automatically.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/marquee-button.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "morph-button",
+  "kind": "component",
+  "title": "Morph Button - Loading morph button",
+  "description": "A button that shrinks into a spinner while loading, then expands back to its label when idle.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/morph-button.json",
+  "dependencies": [
+   "lucide-react",
+   "motion",
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "moving-border-button",
+  "kind": "component",
+  "title": "Moving Border Button - Animated moving border button",
+  "description": "A button with animated gradient borders including spin, beam, pulse, shimmer, dash, meteor, glow, and wave.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/moving-border-button.json",
+  "dependencies": [
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "pattern-placeholder",
+  "kind": "component",
+  "title": "Pattern Placeholder - Centered pattern preview",
+  "description": "A centered hero scaffold with badge, heading, copy, and buttons for previewing patterns behind content.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/pattern-placeholder.json",
+  "dependencies": [],
+  "registryDependencies": [
+   "badge",
+   "button"
+  ]
+ },
+ {
+  "name": "pattern-template",
+  "kind": "component",
+  "title": "Pattern Template - Two-column pattern preview",
+  "description": "A split layout scaffold with badge, headline, buttons, and SVG placeholder for testing background patterns.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/pattern-template.json",
+  "dependencies": [],
+  "registryDependencies": [
+   "badge",
+   "button"
+  ]
+ },
+ {
+  "name": "pinlight-button",
+  "kind": "component",
+  "title": "Pinlight Button - Pointer-follow spotlight button",
+  "description": "A button with a radial spotlight that follows the pointer across the surface on hover.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/pinlight-button.json",
+  "dependencies": [
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "price",
+  "kind": "component",
+  "title": "Price - Product price with sale",
+  "description": "A currency display that pairs regular and sale amounts with strikethrough styling and locale-aware formatting.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/price.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "quantity-input",
+  "kind": "component",
+  "title": "Quantity Input - Quantity stepper input",
+  "description": "A pill-shaped minus and plus stepper with a centered number field for cart and checkout counts.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/quantity-input.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button",
+   "input"
+  ]
+ },
+ {
+  "name": "rating",
+  "kind": "component",
+  "title": "Rating - Five-star rating display",
+  "description": "A five-star score with full, half, and empty icons plus optional numeric label and caption.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/rating.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "scrollable-tabslist",
+  "kind": "component",
+  "title": "Scrollable Tabslist - Horizontally scrollable tab list",
+  "description": "A pill-shaped TabsList wrapper that scrolls horizontally so long tab strips stay usable on narrow viewports.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/scrollable-tabslist.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "scroll-area"
+  ]
+ },
+ {
+  "name": "shimmer-button",
+  "kind": "component",
+  "title": "Shimmer Button - Rotating shimmer button",
+  "description": "A button with a spinning conic border glow and a sliding surface shimmer over the fill.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/shimmer-button.json",
+  "dependencies": [
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "shine-button",
+  "kind": "component",
+  "title": "Shine Button - Animated shine button",
+  "description": "A button with a repeating diagonal light sweep that travels across the surface.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/shine-button.json",
+  "dependencies": [
+   "radix-ui",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "slide-text-button",
+  "kind": "component",
+  "title": "Slide Text Button - Sliding label button",
+  "description": "A button whose label slides out and a hover label slides in from up, left, or right.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/slide-text-button.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "social-button",
+  "kind": "component",
+  "title": "Social Button - Social sign-in button",
+  "description": "A provider-branded OAuth button with Google, GitHub, Apple, Microsoft, X, Discord, Facebook, and LinkedIn icons.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/social-button.json",
+  "dependencies": [
+   "radix-ui",
+   "react-icons",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "sparkles",
+  "kind": "component",
+  "title": "Sparkles - Canvas particle sparkles",
+  "description": "A canvas particle field that drifts, wraps, and twinkles as a decorative background behind heroes and highlights.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/sparkles.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "sparkline",
+  "kind": "component",
+  "title": "Sparkline - Compact line, bar, or area sparkline",
+  "description": "A tiny chart for a numeric series, drawn as a line, bar, or area with no axes.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/sparkline.json",
+  "dependencies": [
+   "recharts",
+   "cn"
+  ],
+  "registryDependencies": [
+   "chart"
+  ]
+ },
+ {
+  "name": "stat",
+  "kind": "component",
+  "title": "Stat - Stat with label, value, and delta",
+  "description": "A compact metric stack with a label, a tabular value, an optional trend delta, and an icon slot.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/stat.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": []
+ },
+ {
+  "name": "theme-toggle",
+  "kind": "component",
+  "title": "Theme Toggle - Light and dark theme toggle",
+  "description": "A sun and moon icon button that switches between light and dark mode, with optional text labels.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/theme-toggle.json",
+  "dependencies": [
+   "lucide-react",
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "trace-button",
+  "kind": "component",
+  "title": "Trace Button - SVG border trace button",
+  "description": "A button whose outline draws itself on hover with SVG stroke effects including draw, loop, dual, dash, and glow.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/trace-button.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ },
+ {
+  "name": "typewriter-button",
+  "kind": "component",
+  "title": "Typewriter Button - Typewriter text button",
+  "description": "A button that types its label character by character on hover or automatically, with a blinking cursor.",
+  "page": null,
+  "install": "npx shadcn@latest add https://www.shadcnblocks.com/r/typewriter-button.json",
+  "dependencies": [
+   "cn"
+  ],
+  "registryDependencies": [
+   "button"
+  ]
+ }
+]

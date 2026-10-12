@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UI Library</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">UI Library <span class="sub">free resources for building websites</span></div>
+  <nav id="tabs"></nav>
+</header>
+<main id="view"></main>
+<dialog id="modal">
+  <div class="modal-head"><strong id="modal-title"></strong><div class="modal-actions" id="modal-actions"></div><button class="btn ghost" id="modal-close">Close ✕</button></div>
+  <div id="modal-body"></div>
+</dialog>
+<div id="toast"></div>
+<script src="vendor/marked.umd.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

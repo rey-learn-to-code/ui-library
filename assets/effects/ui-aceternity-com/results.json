@@ -1,0 +1,2265 @@
+[
+ {
+  "name": "grid",
+  "url": "https://ui.aceternity.com/registry/grid.json",
+  "status": 200,
+  "files": 1,
+  "title": "Grid",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "moving-line",
+  "url": "https://ui.aceternity.com/registry/moving-line.json",
+  "status": 200,
+  "files": 1,
+  "title": "Moving Line",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "sparkles",
+  "url": "https://ui.aceternity.com/registry/sparkles.json",
+  "status": 200,
+  "files": 1,
+  "title": "Sparkles",
+  "description": null,
+  "dependencies": [
+   "@tsparticles/react",
+   "@tsparticles/engine",
+   "@tsparticles/slim",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "spotlight",
+  "url": "https://ui.aceternity.com/registry/spotlight.json",
+  "status": 200,
+  "files": 1,
+  "title": "Spotlight",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "glowing-stars",
+  "url": "https://ui.aceternity.com/registry/glowing-stars.json",
+  "status": 200,
+  "files": 1,
+  "title": "Glowing Stars",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "text-reveal-card",
+  "url": "https://ui.aceternity.com/registry/text-reveal-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "Text Reveal Card",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "animated-tooltip",
+  "url": "https://ui.aceternity.com/registry/animated-tooltip.json",
+  "status": 200,
+  "files": 1,
+  "title": "Animated Tooltip",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "following-pointer",
+  "url": "https://ui.aceternity.com/registry/following-pointer.json",
+  "status": 200,
+  "files": 1,
+  "title": "Following Pointer",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "background-beams",
+  "url": "https://ui.aceternity.com/registry/background-beams.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Beams",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "svg-mask-effect",
+  "url": "https://ui.aceternity.com/registry/svg-mask-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Svg Mask Effect",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "infinite-moving-cards",
+  "url": "https://ui.aceternity.com/registry/infinite-moving-cards.json",
+  "status": 200,
+  "files": 1,
+  "title": "Infinite Moving Cards",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "3d-pin",
+  "url": "https://ui.aceternity.com/registry/3d-pin.json",
+  "status": 200,
+  "files": 1,
+  "title": "3d Pin",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "evervault-card",
+  "url": "https://ui.aceternity.com/registry/evervault-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "Evervault Card",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "parallax-scroll",
+  "url": "https://ui.aceternity.com/registry/parallax-scroll.json",
+  "status": 200,
+  "files": 1,
+  "title": "Parallax Scroll",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "parallax-scroll-2",
+  "url": "https://ui.aceternity.com/registry/parallax-scroll-2.json",
+  "status": 200,
+  "files": 1,
+  "title": "Parallax Scroll 2",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "parallax-hero-images",
+  "url": "https://ui.aceternity.com/registry/parallax-hero-images.json",
+  "status": 200,
+  "files": 1,
+  "title": "Parallax Hero Images",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "tracing-beam",
+  "url": "https://ui.aceternity.com/registry/tracing-beam.json",
+  "status": 200,
+  "files": 1,
+  "title": "Tracing Beam",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "container-scroll-animation",
+  "url": "https://ui.aceternity.com/registry/container-scroll-animation.json",
+  "status": 200,
+  "files": 1,
+  "title": "Container Scroll Animation",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "text-generate-effect",
+  "url": "https://ui.aceternity.com/registry/text-generate-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Text Generate Effect",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "meteors",
+  "url": "https://ui.aceternity.com/registry/meteors.json",
+  "status": 200,
+  "files": 1,
+  "title": "Meteors",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "card-stack",
+  "url": "https://ui.aceternity.com/registry/card-stack.json",
+  "status": 200,
+  "files": 1,
+  "title": "Card Stack",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "moving-border",
+  "url": "https://ui.aceternity.com/registry/moving-border.json",
+  "status": 200,
+  "files": 1,
+  "title": "Moving Border",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "lamp",
+  "url": "https://ui.aceternity.com/registry/lamp.json",
+  "status": 200,
+  "files": 1,
+  "title": "Lamp",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "sticky-scroll-reveal",
+  "url": "https://ui.aceternity.com/registry/sticky-scroll-reveal.json",
+  "status": 200,
+  "files": 1,
+  "title": "Sticky Scroll Reveal",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "floating-navbar",
+  "url": "https://ui.aceternity.com/registry/floating-navbar.json",
+  "status": 200,
+  "files": 1,
+  "title": "Floating Navbar",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "navbar-menu",
+  "url": "https://ui.aceternity.com/registry/navbar-menu.json",
+  "status": 200,
+  "files": 1,
+  "title": "Navbar Menu",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "tailwindcss-buttons",
+  "url": "https://ui.aceternity.com/registry/tailwindcss-buttons.json",
+  "status": 200,
+  "files": 1,
+  "title": "Tailwindcss Buttons",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "bento-grid",
+  "url": "https://ui.aceternity.com/registry/bento-grid.json",
+  "status": 200,
+  "files": 1,
+  "title": "Bento Grid",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "card-hover-effect",
+  "url": "https://ui.aceternity.com/registry/card-hover-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Card Hover Effect",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "google-gemini-effect",
+  "url": "https://ui.aceternity.com/registry/google-gemini-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Google Gemini Effect",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "gooey-input",
+  "url": "https://ui.aceternity.com/registry/gooey-input.json",
+  "status": 200,
+  "files": 1,
+  "title": "Gooey Input",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "typewriter-effect",
+  "url": "https://ui.aceternity.com/registry/typewriter-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Typewriter Effect",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "background-boxes",
+  "url": "https://ui.aceternity.com/registry/background-boxes.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Boxes",
+  "description": null,
+  "dependencies": [
+   "mini-svg-data-uri",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "3d-card",
+  "url": "https://ui.aceternity.com/registry/3d-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "3d Card",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "images-slider",
+  "url": "https://ui.aceternity.com/registry/images-slider.json",
+  "status": 200,
+  "files": 1,
+  "title": "Images Slider",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "direction-aware-hover",
+  "url": "https://ui.aceternity.com/registry/direction-aware-hover.json",
+  "status": 200,
+  "files": 1,
+  "title": "Direction Aware Hover",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "tabs",
+  "url": "https://ui.aceternity.com/registry/tabs.json",
+  "status": 200,
+  "files": 1,
+  "title": "Tabs",
+  "description": null,
+  "dependencies": [
+   "@radix-ui/react-tabs"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "hero-parallax",
+  "url": "https://ui.aceternity.com/registry/hero-parallax.json",
+  "status": 200,
+  "files": 1,
+  "title": "Hero Parallax",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "wavy-background",
+  "url": "https://ui.aceternity.com/registry/wavy-background.json",
+  "status": 200,
+  "files": 1,
+  "title": "Wavy Background",
+  "description": null,
+  "dependencies": [
+   "simplex-noise"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "background-gradient",
+  "url": "https://ui.aceternity.com/registry/background-gradient.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Gradient",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "layout-grid",
+  "url": "https://ui.aceternity.com/registry/layout-grid.json",
+  "status": 200,
+  "files": 1,
+  "title": "Layout Grid",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "background-gradient-animation",
+  "url": "https://ui.aceternity.com/registry/background-gradient-animation.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Gradient Animation",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "macbook-scroll",
+  "url": "https://ui.aceternity.com/registry/macbook-scroll.json",
+  "status": 200,
+  "files": 1,
+  "title": "Macbook Scroll",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "input",
+  "url": "https://ui.aceternity.com/registry/input.json",
+  "status": 200,
+  "files": 1,
+  "title": "Input",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "label",
+  "url": "https://ui.aceternity.com/registry/label.json",
+  "status": 200,
+  "files": 1,
+  "title": "Label",
+  "description": null,
+  "dependencies": [
+   "@radix-ui/react-label"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "multi-step-loader",
+  "url": "https://ui.aceternity.com/registry/multi-step-loader.json",
+  "status": 200,
+  "files": 1,
+  "title": "Multi Step Loader",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "globe",
+  "url": "https://ui.aceternity.com/registry/globe.json",
+  "status": 200,
+  "files": 1,
+  "title": "Globe",
+  "description": null,
+  "dependencies": [
+   "three",
+   "three-globe",
+   "@react-three/fiber@alpha",
+   "@react-three/drei"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "aurora-background",
+  "url": "https://ui.aceternity.com/registry/aurora-background.json",
+  "status": 200,
+  "files": 1,
+  "title": "Aurora Background",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "canvas-reveal-effect",
+  "url": "https://ui.aceternity.com/registry/canvas-reveal-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Canvas Reveal Effect",
+  "description": null,
+  "dependencies": [
+   "three",
+   "@react-three/fiber"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "hover-border-gradient",
+  "url": "https://ui.aceternity.com/registry/hover-border-gradient.json",
+  "status": 200,
+  "files": 1,
+  "title": "Hover Border Gradient",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "hero-highlight",
+  "url": "https://ui.aceternity.com/registry/hero-highlight.json",
+  "status": 200,
+  "files": 1,
+  "title": "Hero Highlight",
+  "description": null,
+  "dependencies": [
+   "mini-svg-data-uri",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "vortex",
+  "url": "https://ui.aceternity.com/registry/vortex.json",
+  "status": 200,
+  "files": 1,
+  "title": "Vortex",
+  "description": null,
+  "dependencies": [
+   "simplex-noise",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "wobble-card",
+  "url": "https://ui.aceternity.com/registry/wobble-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "Wobble Card",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "placeholders-and-vanish-input",
+  "url": "https://ui.aceternity.com/registry/placeholders-and-vanish-input.json",
+  "status": 200,
+  "files": 1,
+  "title": "Placeholders And Vanish Input",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "flip-words",
+  "url": "https://ui.aceternity.com/registry/flip-words.json",
+  "status": 200,
+  "files": 1,
+  "title": "Flip Words",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "link-preview",
+  "url": "https://ui.aceternity.com/registry/link-preview.json",
+  "status": 200,
+  "files": 1,
+  "title": "Link Preview",
+  "description": null,
+  "dependencies": [
+   "@radix-ui/react-hover-card",
+   "qss",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "glare-card",
+  "url": "https://ui.aceternity.com/registry/glare-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "Glare Card",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "animated-modal",
+  "url": "https://ui.aceternity.com/registry/animated-modal.json",
+  "status": 200,
+  "files": 1,
+  "title": "Animated Modal",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "sidebar",
+  "url": "https://ui.aceternity.com/registry/sidebar.json",
+  "status": 200,
+  "files": 1,
+  "title": "Sidebar",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "apple-cards-carousel",
+  "url": "https://ui.aceternity.com/registry/apple-cards-carousel.json",
+  "status": 200,
+  "files": 2,
+  "title": "Apple Cards Carousel",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion"
+  ],
+  "registryDependencies": [
+   "https://ui.aceternity.com/registry/use-outside-click.json"
+  ]
+ },
+ {
+  "name": "shooting-stars",
+  "url": "https://ui.aceternity.com/registry/shooting-stars.json",
+  "status": 200,
+  "files": 1,
+  "title": "Shooting Stars",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "stars-background",
+  "url": "https://ui.aceternity.com/registry/stars-background.json",
+  "status": 200,
+  "files": 1,
+  "title": "Stars Background",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "compare",
+  "url": "https://ui.aceternity.com/registry/compare.json",
+  "status": 200,
+  "files": 1,
+  "title": "Compare",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "card-spotlight",
+  "url": "https://ui.aceternity.com/registry/card-spotlight.json",
+  "status": 200,
+  "files": 2,
+  "title": "Card Spotlight",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": [
+   "https://ui.aceternity.com/registry/canvas-reveal-effect.json"
+  ]
+ },
+ {
+  "name": "cover",
+  "url": "https://ui.aceternity.com/registry/cover.json",
+  "status": 200,
+  "files": 2,
+  "title": "Cover",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": [
+   "https://ui.aceternity.com/registry/sparkles.json"
+  ]
+ },
+ {
+  "name": "file-upload",
+  "url": "https://ui.aceternity.com/registry/file-upload.json",
+  "status": 200,
+  "files": 1,
+  "title": "File Upload",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "react-dropzone",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "floating-dock",
+  "url": "https://ui.aceternity.com/registry/floating-dock.json",
+  "status": 200,
+  "files": 1,
+  "title": "Floating Dock",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "focus-cards",
+  "url": "https://ui.aceternity.com/registry/focus-cards.json",
+  "status": 200,
+  "files": 1,
+  "title": "Focus Cards",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "background-beams-with-collision",
+  "url": "https://ui.aceternity.com/registry/background-beams-with-collision.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Beams With Collision",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "timeline",
+  "url": "https://ui.aceternity.com/registry/timeline.json",
+  "status": 200,
+  "files": 1,
+  "title": "Timeline",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "text-hover-effect",
+  "url": "https://ui.aceternity.com/registry/text-hover-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Text Hover Effect",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "lens",
+  "url": "https://ui.aceternity.com/registry/lens.json",
+  "status": 200,
+  "files": 1,
+  "title": "Lens",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "background-lines",
+  "url": "https://ui.aceternity.com/registry/background-lines.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Lines",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "animated-testimonials",
+  "url": "https://ui.aceternity.com/registry/animated-testimonials.json",
+  "status": 200,
+  "files": 1,
+  "title": "Animated Testimonials",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "world-map",
+  "url": "https://ui.aceternity.com/registry/world-map.json",
+  "status": 200,
+  "files": 1,
+  "title": "World Map",
+  "description": null,
+  "dependencies": [
+   "dotted-map",
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "code-block",
+  "url": "https://ui.aceternity.com/registry/code-block.json",
+  "status": 200,
+  "files": 1,
+  "title": "Code Block",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "react-syntax-highlighter"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "carousel",
+  "url": "https://ui.aceternity.com/registry/carousel.json",
+  "status": 200,
+  "files": 1,
+  "title": "Carousel",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "colourful-text",
+  "url": "https://ui.aceternity.com/registry/colourful-text.json",
+  "status": 200,
+  "files": 1,
+  "title": "Colourful Text",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "squiggly-text",
+  "url": "https://ui.aceternity.com/registry/squiggly-text.json",
+  "status": 200,
+  "files": 1,
+  "title": "Squiggly Text",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "magnetic-button",
+  "url": "https://ui.aceternity.com/registry/magnetic-button.json",
+  "status": 200,
+  "files": 1,
+  "title": "Magnetic Button",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "notch",
+  "url": "https://ui.aceternity.com/registry/notch.json",
+  "status": 200,
+  "files": 1,
+  "title": "Notch",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "spotlight-new",
+  "url": "https://ui.aceternity.com/registry/spotlight-new.json",
+  "status": 200,
+  "files": 1,
+  "title": "Spotlight New",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "glowing-effect",
+  "url": "https://ui.aceternity.com/registry/glowing-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Glowing Effect",
+  "description": null,
+  "dependencies": [
+   "lucide-react"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "3d-marquee",
+  "url": "https://ui.aceternity.com/registry/3d-marquee.json",
+  "status": 200,
+  "files": 1,
+  "title": "3d Marquee",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "container-text-flip",
+  "url": "https://ui.aceternity.com/registry/container-text-flip.json",
+  "status": 200,
+  "files": 1,
+  "title": "Container Text Flip",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "resizable-navbar",
+  "url": "https://ui.aceternity.com/registry/resizable-navbar.json",
+  "status": 200,
+  "files": 1,
+  "title": "Resizable Navbar",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "draggable-card",
+  "url": "https://ui.aceternity.com/registry/draggable-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "Draggable Card",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "sticky-banner",
+  "url": "https://ui.aceternity.com/registry/sticky-banner.json",
+  "status": 200,
+  "files": 1,
+  "title": "Sticky Banner",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "pointer-highlight",
+  "url": "https://ui.aceternity.com/registry/pointer-highlight.json",
+  "status": 200,
+  "files": 1,
+  "title": "Pointer Highlight",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "stateful-button",
+  "url": "https://ui.aceternity.com/registry/stateful-button.json",
+  "status": 200,
+  "files": 1,
+  "title": "Stateful Button",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "loader",
+  "url": "https://ui.aceternity.com/registry/loader.json",
+  "status": 200,
+  "files": 1,
+  "title": "Loader",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "image-generation-loader",
+  "url": "https://ui.aceternity.com/registry/image-generation-loader.json",
+  "status": 200,
+  "files": 1,
+  "title": "Image Generation Loader",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "comet-card",
+  "url": "https://ui.aceternity.com/registry/comet-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "Comet Card",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "background-ripple-effect",
+  "url": "https://ui.aceternity.com/registry/background-ripple-effect.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Ripple Effect",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "pixelated-canvas",
+  "url": "https://ui.aceternity.com/registry/pixelated-canvas.json",
+  "status": 200,
+  "files": 1,
+  "title": "Pixelated Canvas",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "canvas-text",
+  "url": "https://ui.aceternity.com/registry/canvas-text.json",
+  "status": 200,
+  "files": 1,
+  "title": "Canvas Text",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "layout-text-flip",
+  "url": "https://ui.aceternity.com/registry/layout-text-flip.json",
+  "status": 200,
+  "files": 1,
+  "title": "Layout Text Flip",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "dotted-glow-background",
+  "url": "https://ui.aceternity.com/registry/dotted-glow-background.json",
+  "status": 200,
+  "files": 1,
+  "title": "Dotted Glow Background",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "tooltip-card",
+  "url": "https://ui.aceternity.com/registry/tooltip-card.json",
+  "status": 200,
+  "files": 1,
+  "title": "Tooltip Card",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "encrypted-text",
+  "url": "https://ui.aceternity.com/registry/encrypted-text.json",
+  "status": 200,
+  "files": 1,
+  "title": "Encrypted Text",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "noise-background",
+  "url": "https://ui.aceternity.com/registry/noise-background.json",
+  "status": 200,
+  "files": 1,
+  "title": "Noise Background",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "dither-shader",
+  "url": "https://ui.aceternity.com/registry/dither-shader.json",
+  "status": 200,
+  "files": 1,
+  "title": "Dither Shader",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "cloud-shader",
+  "url": "https://ui.aceternity.com/registry/cloud-shader.json",
+  "status": 200,
+  "files": 1,
+  "title": "Cloud Shader",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "chromatic-image",
+  "url": "https://ui.aceternity.com/registry/chromatic-image.json",
+  "status": 200,
+  "files": 1,
+  "title": "Chromatic Image",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "webcam-pixel-grid",
+  "url": "https://ui.aceternity.com/registry/webcam-pixel-grid.json",
+  "status": 200,
+  "files": 1,
+  "title": "Webcam Pixel Grid",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "images-badge",
+  "url": "https://ui.aceternity.com/registry/images-badge.json",
+  "status": 200,
+  "files": 1,
+  "title": "Images Badge",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "keyboard",
+  "url": "https://ui.aceternity.com/registry/keyboard.json",
+  "status": 200,
+  "files": 1,
+  "title": "Keyboard",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "motion/react"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "terminal",
+  "url": "https://ui.aceternity.com/registry/terminal.json",
+  "status": 200,
+  "files": 1,
+  "title": "Terminal",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "3d-globe",
+  "url": "https://ui.aceternity.com/registry/3d-globe.json",
+  "status": 200,
+  "files": 1,
+  "title": "3d Globe",
+  "description": null,
+  "dependencies": [
+   "three",
+   "@react-three/fiber",
+   "@react-three/drei"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "ascii-art",
+  "url": "https://ui.aceternity.com/registry/ascii-art.json",
+  "status": 200,
+  "files": 1,
+  "title": "Ascii Art",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "scales",
+  "url": "https://ui.aceternity.com/registry/scales.json",
+  "status": 200,
+  "files": 1,
+  "title": "Scales",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "text-flipping-board",
+  "url": "https://ui.aceternity.com/registry/text-flipping-board.json",
+  "status": 200,
+  "files": 1,
+  "title": "Text Flipping Board",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "cards-demo-1",
+  "url": "https://ui.aceternity.com/registry/cards-demo-1.json",
+  "status": 200,
+  "files": 1,
+  "title": "Cards Demo 1",
+  "description": null,
+  "dependencies": [
+   "react-icons"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "cards-demo-2",
+  "url": "https://ui.aceternity.com/registry/cards-demo-2.json",
+  "status": 200,
+  "files": 1,
+  "title": "Cards Demo 2",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "cards-demo-3",
+  "url": "https://ui.aceternity.com/registry/cards-demo-3.json",
+  "status": 200,
+  "files": 1,
+  "title": "Cards Demo 3",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "expandable-card-on-click",
+  "url": "https://ui.aceternity.com/registry/expandable-card-on-click.json",
+  "status": 401
+ },
+ {
+  "name": "features-section-demo-1",
+  "url": "https://ui.aceternity.com/registry/features-section-demo-1.json",
+  "status": 200,
+  "files": 1,
+  "title": "Features Section Demo 1",
+  "description": null,
+  "dependencies": null,
+  "registryDependencies": null
+ },
+ {
+  "name": "features-section-demo-2",
+  "url": "https://ui.aceternity.com/registry/features-section-demo-2.json",
+  "status": 200,
+  "files": 1,
+  "title": "Features Section Demo 2",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "features-section-demo-3",
+  "url": "https://ui.aceternity.com/registry/features-section-demo-3.json",
+  "status": 200,
+  "files": 1,
+  "title": "Features Section Demo 3",
+  "description": null,
+  "dependencies": [
+   "@tabler/icons-react",
+   "cobe"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "features-with-sticky-scroll",
+  "url": "https://ui.aceternity.com/registry/features-with-sticky-scroll.json",
+  "status": 401
+ },
+ {
+  "name": "hero-with-centered-image",
+  "url": "https://ui.aceternity.com/registry/hero-with-centered-image.json",
+  "status": 401
+ },
+ {
+  "name": "modern-hero-with-gradients",
+  "url": "https://ui.aceternity.com/registry/modern-hero-with-gradients.json",
+  "status": 401
+ },
+ {
+  "name": "two-column-with-image",
+  "url": "https://ui.aceternity.com/registry/two-column-with-image.json",
+  "status": 401
+ },
+ {
+  "name": "full-background-image-with-text",
+  "url": "https://ui.aceternity.com/registry/full-background-image-with-text.json",
+  "status": 401
+ },
+ {
+  "name": "centered-around-testimonials",
+  "url": "https://ui.aceternity.com/registry/centered-around-testimonials.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-images-grid-and-navbar",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-images-grid-and-navbar.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-beams-and-grid",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-beams-and-grid.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-noise-background",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-noise-background.json",
+  "status": 401
+ },
+ {
+  "name": "logo-cloud-marquee",
+  "url": "https://ui.aceternity.com/registry/logo-cloud-marquee.json",
+  "status": 401
+ },
+ {
+  "name": "logos-with-blur-flip",
+  "url": "https://ui.aceternity.com/registry/logos-with-blur-flip.json",
+  "status": 401
+ },
+ {
+  "name": "spotlight-logo-cloud",
+  "url": "https://ui.aceternity.com/registry/spotlight-logo-cloud.json",
+  "status": 401
+ },
+ {
+  "name": "three-column-bento-grid",
+  "url": "https://ui.aceternity.com/registry/three-column-bento-grid.json",
+  "status": 401
+ },
+ {
+  "name": "three-columns-with-images",
+  "url": "https://ui.aceternity.com/registry/three-columns-with-images.json",
+  "status": 401
+ },
+ {
+  "name": "bento-grid-example-three",
+  "url": "https://ui.aceternity.com/registry/bento-grid-example-three.json",
+  "status": 401
+ },
+ {
+  "name": "simple-cta-with-images",
+  "url": "https://ui.aceternity.com/registry/simple-cta-with-images.json",
+  "status": 401
+ },
+ {
+  "name": "cta-with-masonry-images",
+  "url": "https://ui.aceternity.com/registry/cta-with-masonry-images.json",
+  "status": 401
+ },
+ {
+  "name": "cta-centered-masonry-gallery",
+  "url": "https://ui.aceternity.com/registry/cta-centered-masonry-gallery.json",
+  "status": 401
+ },
+ {
+  "name": "cta-with-background-noise",
+  "url": "https://ui.aceternity.com/registry/cta-with-background-noise.json",
+  "status": 401
+ },
+ {
+  "name": "cta-with-centered-text",
+  "url": "https://ui.aceternity.com/registry/cta-with-centered-text.json",
+  "status": 401
+ },
+ {
+  "name": "cta-with-dashed-grid-lines",
+  "url": "https://ui.aceternity.com/registry/cta-with-dashed-grid-lines.json",
+  "status": 401
+ },
+ {
+  "name": "cta-with-right-gradient-and-animation",
+  "url": "https://ui.aceternity.com/registry/cta-with-right-gradient-and-animation.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-grid-with-centered-carousel",
+  "url": "https://ui.aceternity.com/registry/testimonials-grid-with-centered-carousel.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-marquee-grid",
+  "url": "https://ui.aceternity.com/registry/testimonials-marquee-grid.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-marquee-grid-boxed",
+  "url": "https://ui.aceternity.com/registry/testimonials-marquee-grid-boxed.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-masonry-grid",
+  "url": "https://ui.aceternity.com/registry/testimonials-masonry-grid.json",
+  "status": 401
+ },
+ {
+  "name": "simple-pricing-with-three-tiers",
+  "url": "https://ui.aceternity.com/registry/simple-pricing-with-three-tiers.json",
+  "status": 401
+ },
+ {
+  "name": "pricing-with-switch",
+  "url": "https://ui.aceternity.com/registry/pricing-with-switch.json",
+  "status": 401
+ },
+ {
+  "name": "pricing-with-switch-and-add-on",
+  "url": "https://ui.aceternity.com/registry/pricing-with-switch-and-add-on.json",
+  "status": 401
+ },
+ {
+  "name": "pricing-minimal",
+  "url": "https://ui.aceternity.com/registry/pricing-minimal.json",
+  "status": 401
+ },
+ {
+  "name": "simple-navbar-with-hover-effects",
+  "url": "https://ui.aceternity.com/registry/simple-navbar-with-hover-effects.json",
+  "status": 401
+ },
+ {
+  "name": "navbar-with-children",
+  "url": "https://ui.aceternity.com/registry/navbar-with-children.json",
+  "status": 401
+ },
+ {
+  "name": "simple-footer-with-four-grids",
+  "url": "https://ui.aceternity.com/registry/simple-footer-with-four-grids.json",
+  "status": 401
+ },
+ {
+  "name": "footer-with-grid",
+  "url": "https://ui.aceternity.com/registry/footer-with-grid.json",
+  "status": 401
+ },
+ {
+  "name": "footer-with-big-text",
+  "url": "https://ui.aceternity.com/registry/footer-with-big-text.json",
+  "status": 401
+ },
+ {
+  "name": "centered-with-logo",
+  "url": "https://ui.aceternity.com/registry/centered-with-logo.json",
+  "status": 401
+ },
+ {
+  "name": "registration-form-with-images",
+  "url": "https://ui.aceternity.com/registry/registration-form-with-images.json",
+  "status": 401
+ },
+ {
+  "name": "login-with-socials-and-email",
+  "url": "https://ui.aceternity.com/registry/login-with-socials-and-email.json",
+  "status": 401
+ },
+ {
+  "name": "login-signup-minimal",
+  "url": "https://ui.aceternity.com/registry/login-signup-minimal.json",
+  "status": 401
+ },
+ {
+  "name": "premium-auth-split",
+  "url": "https://ui.aceternity.com/registry/premium-auth-split.json",
+  "status": 401
+ },
+ {
+  "name": "contact-form-grid-with-details",
+  "url": "https://ui.aceternity.com/registry/contact-form-grid-with-details.json",
+  "status": 401
+ },
+ {
+  "name": "simple-centered-contact-form",
+  "url": "https://ui.aceternity.com/registry/simple-centered-contact-form.json",
+  "status": 401
+ },
+ {
+  "name": "blog-with-search",
+  "url": "https://ui.aceternity.com/registry/blog-with-search.json",
+  "status": 401
+ },
+ {
+  "name": "blog-with-search-magazine",
+  "url": "https://ui.aceternity.com/registry/blog-with-search-magazine.json",
+  "status": 401
+ },
+ {
+  "name": "blog-with-categories",
+  "url": "https://ui.aceternity.com/registry/blog-with-categories.json",
+  "status": 401
+ },
+ {
+  "name": "simple-blog-with-grid",
+  "url": "https://ui.aceternity.com/registry/simple-blog-with-grid.json",
+  "status": 401
+ },
+ {
+  "name": "playful-hero-section",
+  "url": "https://ui.aceternity.com/registry/playful-hero-section.json",
+  "status": 401
+ },
+ {
+  "name": "frequently-asked-questions-accordion",
+  "url": "https://ui.aceternity.com/registry/frequently-asked-questions-accordion.json",
+  "status": 401
+ },
+ {
+  "name": "simple-faqs-with-background",
+  "url": "https://ui.aceternity.com/registry/simple-faqs-with-background.json",
+  "status": 401
+ },
+ {
+  "name": "faqs-with-grid",
+  "url": "https://ui.aceternity.com/registry/faqs-with-grid.json",
+  "status": 401
+ },
+ {
+  "name": "simple-sidebar-with-hover",
+  "url": "https://ui.aceternity.com/registry/simple-sidebar-with-hover.json",
+  "status": 401
+ },
+ {
+  "name": "collapsible-sidebar",
+  "url": "https://ui.aceternity.com/registry/collapsible-sidebar.json",
+  "status": 401
+ },
+ {
+  "name": "grouped-sidebar",
+  "url": "https://ui.aceternity.com/registry/grouped-sidebar.json",
+  "status": 401
+ },
+ {
+  "name": "blog-content-centered",
+  "url": "https://ui.aceternity.com/registry/blog-content-centered.json",
+  "status": 401
+ },
+ {
+  "name": "blog-content-with-toc",
+  "url": "https://ui.aceternity.com/registry/blog-content-with-toc.json",
+  "status": 401
+ },
+ {
+  "name": "stats-for-changelog",
+  "url": "https://ui.aceternity.com/registry/stats-for-changelog.json",
+  "status": 401
+ },
+ {
+  "name": "stats-with-number-ticker",
+  "url": "https://ui.aceternity.com/registry/stats-with-number-ticker.json",
+  "status": 401
+ },
+ {
+  "name": "stats-with-grid-background",
+  "url": "https://ui.aceternity.com/registry/stats-with-grid-background.json",
+  "status": 401
+ },
+ {
+  "name": "stats-with-gradient",
+  "url": "https://ui.aceternity.com/registry/stats-with-gradient.json",
+  "status": 401
+ },
+ {
+  "name": "background-with-full-video",
+  "url": "https://ui.aceternity.com/registry/background-with-full-video.json",
+  "status": 401
+ },
+ {
+  "name": "background-lines",
+  "url": "https://ui.aceternity.com/registry/background-lines.json",
+  "status": 200,
+  "files": 1,
+  "title": "Background Lines",
+  "description": null,
+  "dependencies": [
+   "motion"
+  ],
+  "registryDependencies": null
+ },
+ {
+  "name": "background-with-shooting-stars",
+  "url": "https://ui.aceternity.com/registry/background-with-shooting-stars.json",
+  "status": 401
+ },
+ {
+  "name": "background-dots",
+  "url": "https://ui.aceternity.com/registry/background-dots.json",
+  "status": 401
+ },
+ {
+  "name": "background-dots-masked",
+  "url": "https://ui.aceternity.com/registry/background-dots-masked.json",
+  "status": 401
+ },
+ {
+  "name": "background-dots-masked-vertical",
+  "url": "https://ui.aceternity.com/registry/background-dots-masked-vertical.json",
+  "status": 401
+ },
+ {
+  "name": "background-grid-with-dots",
+  "url": "https://ui.aceternity.com/registry/background-grid-with-dots.json",
+  "status": 401
+ },
+ {
+  "name": "background-grid-with-dots-and-animations",
+  "url": "https://ui.aceternity.com/registry/background-grid-with-dots-and-animations.json",
+  "status": 401
+ },
+ {
+  "name": "background-with-skewed-rectangles",
+  "url": "https://ui.aceternity.com/registry/background-with-skewed-rectangles.json",
+  "status": 401
+ },
+ {
+  "name": "background-with-skewed-lines",
+  "url": "https://ui.aceternity.com/registry/background-with-skewed-lines.json",
+  "status": 401
+ },
+ {
+  "name": "background-noise-grid",
+  "url": "https://ui.aceternity.com/registry/background-noise-grid.json",
+  "status": 401
+ },
+ {
+  "name": "text-animation-flipping-words-demo",
+  "url": "https://ui.aceternity.com/registry/text-animation-flipping-words-demo.json",
+  "status": 401
+ },
+ {
+  "name": "text-animation-typewriter-effect-demo",
+  "url": "https://ui.aceternity.com/registry/text-animation-typewriter-effect-demo.json",
+  "status": 401
+ },
+ {
+  "name": "text-animation-blur-fade-in-demo",
+  "url": "https://ui.aceternity.com/registry/text-animation-blur-fade-in-demo.json",
+  "status": 401
+ },
+ {
+  "name": "text-generate-typewriter",
+  "url": "https://ui.aceternity.com/registry/text-generate-typewriter.json",
+  "status": 401
+ },
+ {
+  "name": "login-form-with-gradient",
+  "url": "https://ui.aceternity.com/registry/login-form-with-gradient.json",
+  "status": 401
+ },
+ {
+  "name": "navbar-classic",
+  "url": "https://ui.aceternity.com/registry/navbar-classic.json",
+  "status": 401
+ },
+ {
+  "name": "navbar-mega",
+  "url": "https://ui.aceternity.com/registry/navbar-mega.json",
+  "status": 401
+ },
+ {
+  "name": "navbar-dark-shadow",
+  "url": "https://ui.aceternity.com/registry/navbar-dark-shadow.json",
+  "status": 401
+ },
+ {
+  "name": "navbar-pill",
+  "url": "https://ui.aceternity.com/registry/navbar-pill.json",
+  "status": 401
+ },
+ {
+  "name": "navbar-underline",
+  "url": "https://ui.aceternity.com/registry/navbar-underline.json",
+  "status": 401
+ },
+ {
+  "name": "masonry-bento-grid-with-images",
+  "url": "https://ui.aceternity.com/registry/masonry-bento-grid-with-images.json",
+  "status": 401
+ },
+ {
+  "name": "minimal-hero-section-with-parallax-images",
+  "url": "https://ui.aceternity.com/registry/minimal-hero-section-with-parallax-images.json",
+  "status": 401
+ },
+ {
+  "name": "hero-with-image-and-scales",
+  "url": "https://ui.aceternity.com/registry/hero-with-image-and-scales.json",
+  "status": 401
+ },
+ {
+  "name": "logo-cloud-with-blur-animation",
+  "url": "https://ui.aceternity.com/registry/logo-cloud-with-blur-animation.json",
+  "status": 401
+ },
+ {
+  "name": "logo-cloud-with-swap-animation",
+  "url": "https://ui.aceternity.com/registry/logo-cloud-with-swap-animation.json",
+  "status": 401
+ },
+ {
+  "name": "single-row-logo-cloud",
+  "url": "https://ui.aceternity.com/registry/single-row-logo-cloud.json",
+  "status": 401
+ },
+ {
+  "name": "logo-cloud-multiple-rows",
+  "url": "https://ui.aceternity.com/registry/logo-cloud-multiple-rows.json",
+  "status": 401
+ },
+ {
+  "name": "features-grid-with-large-skeletons",
+  "url": "https://ui.aceternity.com/registry/features-grid-with-large-skeletons.json",
+  "status": 401
+ },
+ {
+  "name": "pricing-page-with-featured-and-enterprise",
+  "url": "https://ui.aceternity.com/registry/pricing-page-with-featured-and-enterprise.json",
+  "status": 401
+ },
+ {
+  "name": "bento-grid-with-skeletons",
+  "url": "https://ui.aceternity.com/registry/bento-grid-with-skeletons.json",
+  "status": 401
+ },
+ {
+  "name": "dot-distortion-shader",
+  "url": "https://ui.aceternity.com/registry/dot-distortion-shader.json",
+  "status": 401
+ },
+ {
+  "name": "lines-gradient-shader",
+  "url": "https://ui.aceternity.com/registry/lines-gradient-shader.json",
+  "status": 401
+ },
+ {
+  "name": "spotlight-shader",
+  "url": "https://ui.aceternity.com/registry/spotlight-shader.json",
+  "status": 401
+ },
+ {
+  "name": "hero-with-background-and-navbar",
+  "url": "https://ui.aceternity.com/registry/hero-with-background-and-navbar.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-multi-color-background",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-multi-color-background.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-infinite-scroll-cards",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-infinite-scroll-cards.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-background-with-drag",
+  "url": "https://ui.aceternity.com/registry/testimonials-background-with-drag.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-flickering-lights",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-flickering-lights.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-tabs",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-tabs.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-mesh-gradient",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-mesh-gradient.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-shadow-and-scales",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-shadow-and-scales.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-dither-background",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-dither-background.json",
+  "status": 401
+ },
+ {
+  "name": "hero-with-dither-shader",
+  "url": "https://ui.aceternity.com/registry/hero-with-dither-shader.json",
+  "status": 401
+ },
+ {
+  "name": "hero-with-framed-image-and-logos",
+  "url": "https://ui.aceternity.com/registry/hero-with-framed-image-and-logos.json",
+  "status": 401
+ },
+ {
+  "name": "hero-with-chat-input",
+  "url": "https://ui.aceternity.com/registry/hero-with-chat-input.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-with-carousel",
+  "url": "https://ui.aceternity.com/registry/testimonials-with-carousel.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-with-centered-highlight",
+  "url": "https://ui.aceternity.com/registry/testimonials-with-centered-highlight.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-photo-carousel",
+  "url": "https://ui.aceternity.com/registry/testimonials-photo-carousel.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-photo-carousel-tall",
+  "url": "https://ui.aceternity.com/registry/testimonials-photo-carousel-tall.json",
+  "status": 401
+ },
+ {
+  "name": "features-section-with-skeletons",
+  "url": "https://ui.aceternity.com/registry/features-section-with-skeletons.json",
+  "status": 401
+ },
+ {
+  "name": "chat-conversation",
+  "url": "https://ui.aceternity.com/registry/chat-conversation.json",
+  "status": 401
+ },
+ {
+  "name": "folder-with-files",
+  "url": "https://ui.aceternity.com/registry/folder-with-files.json",
+  "status": 401
+ },
+ {
+  "name": "collaborative-cursors",
+  "url": "https://ui.aceternity.com/registry/collaborative-cursors.json",
+  "status": 401
+ },
+ {
+  "name": "testimonials-hover-illustration",
+  "url": "https://ui.aceternity.com/registry/testimonials-hover-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "contact-section-with-shader",
+  "url": "https://ui.aceternity.com/registry/contact-section-with-shader.json",
+  "status": 401
+ },
+ {
+  "name": "contact-with-dither-image",
+  "url": "https://ui.aceternity.com/registry/contact-with-dither-image.json",
+  "status": 401
+ },
+ {
+  "name": "team-section-with-scales",
+  "url": "https://ui.aceternity.com/registry/team-section-with-scales.json",
+  "status": 401
+ },
+ {
+  "name": "team-section-with-light-background",
+  "url": "https://ui.aceternity.com/registry/team-section-with-light-background.json",
+  "status": 401
+ },
+ {
+  "name": "team-section-with-small-avatars",
+  "url": "https://ui.aceternity.com/registry/team-section-with-small-avatars.json",
+  "status": 401
+ },
+ {
+  "name": "team-section-with-timeline-cards",
+  "url": "https://ui.aceternity.com/registry/team-section-with-timeline-cards.json",
+  "status": 401
+ },
+ {
+  "name": "empty-state-vertical-grid",
+  "url": "https://ui.aceternity.com/registry/empty-state-vertical-grid.json",
+  "status": 401
+ },
+ {
+  "name": "empty-state-with-cards",
+  "url": "https://ui.aceternity.com/registry/empty-state-with-cards.json",
+  "status": 401
+ },
+ {
+  "name": "empty-state-with-pictures",
+  "url": "https://ui.aceternity.com/registry/empty-state-with-pictures.json",
+  "status": 401
+ },
+ {
+  "name": "empty-state-with-draggable-cards",
+  "url": "https://ui.aceternity.com/registry/empty-state-with-draggable-cards.json",
+  "status": 401
+ },
+ {
+  "name": "empty-state-with-stacked-cards",
+  "url": "https://ui.aceternity.com/registry/empty-state-with-stacked-cards.json",
+  "status": 401
+ },
+ {
+  "name": "feature-section-bento-skeletons",
+  "url": "https://ui.aceternity.com/registry/feature-section-bento-skeletons.json",
+  "status": 401
+ },
+ {
+  "name": "uptime-status-illustration",
+  "url": "https://ui.aceternity.com/registry/uptime-status-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "rotating-tabs-with-text",
+  "url": "https://ui.aceternity.com/registry/rotating-tabs-with-text.json",
+  "status": 401
+ },
+ {
+  "name": "flipping-images-with-bar",
+  "url": "https://ui.aceternity.com/registry/flipping-images-with-bar.json",
+  "status": 401
+ },
+ {
+  "name": "isometric-box",
+  "url": "https://ui.aceternity.com/registry/isometric-box.json",
+  "status": 401
+ },
+ {
+  "name": "features-with-isometric-blocks",
+  "url": "https://ui.aceternity.com/registry/features-with-isometric-blocks.json",
+  "status": 401
+ },
+ {
+  "name": "features-with-stacked-isometric-boxes",
+  "url": "https://ui.aceternity.com/registry/features-with-stacked-isometric-boxes.json",
+  "status": 401
+ },
+ {
+  "name": "macbook-illustration",
+  "url": "https://ui.aceternity.com/registry/macbook-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "iphone-illustration",
+  "url": "https://ui.aceternity.com/registry/iphone-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "dynamic-island",
+  "url": "https://ui.aceternity.com/registry/dynamic-island.json",
+  "status": 401
+ },
+ {
+  "name": "ipad-illustration",
+  "url": "https://ui.aceternity.com/registry/ipad-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "bento-grid-illustrations",
+  "url": "https://ui.aceternity.com/registry/bento-grid-illustrations.json",
+  "status": 401
+ },
+ {
+  "name": "world-map-illustration",
+  "url": "https://ui.aceternity.com/registry/world-map-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "keyboard-illustration",
+  "url": "https://ui.aceternity.com/registry/keyboard-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "simple-login-with-grid-lines",
+  "url": "https://ui.aceternity.com/registry/simple-login-with-grid-lines.json",
+  "status": 401
+ },
+ {
+  "name": "animated-beam-path-illustration",
+  "url": "https://ui.aceternity.com/registry/animated-beam-path-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "multi-illustration-bento",
+  "url": "https://ui.aceternity.com/registry/multi-illustration-bento.json",
+  "status": 401
+ },
+ {
+  "name": "feature-section-with-vertical-grids",
+  "url": "https://ui.aceternity.com/registry/feature-section-with-vertical-grids.json",
+  "status": 401
+ },
+ {
+  "name": "feature-section-with-horizontal-skeletons",
+  "url": "https://ui.aceternity.com/registry/feature-section-with-horizontal-skeletons.json",
+  "status": 401
+ },
+ {
+  "name": "feature-section-with-centered-skeleton",
+  "url": "https://ui.aceternity.com/registry/feature-section-with-centered-skeleton.json",
+  "status": 401
+ },
+ {
+  "name": "feature-section-with-terminal",
+  "url": "https://ui.aceternity.com/registry/feature-section-with-terminal.json",
+  "status": 401
+ },
+ {
+  "name": "box-illustration",
+  "url": "https://ui.aceternity.com/registry/box-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "feature-with-inline-icons",
+  "url": "https://ui.aceternity.com/registry/feature-with-inline-icons.json",
+  "status": 401
+ },
+ {
+  "name": "features-with-hover-and-text-animation",
+  "url": "https://ui.aceternity.com/registry/features-with-hover-and-text-animation.json",
+  "status": 401
+ },
+ {
+  "name": "pricing-with-header-and-icons",
+  "url": "https://ui.aceternity.com/registry/pricing-with-header-and-icons.json",
+  "status": 401
+ },
+ {
+  "name": "pricing-with-icons",
+  "url": "https://ui.aceternity.com/registry/pricing-with-icons.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-mousemove",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-mousemove.json",
+  "status": 401
+ },
+ {
+  "name": "macbook-illustration-with-icons",
+  "url": "https://ui.aceternity.com/registry/macbook-illustration-with-icons.json",
+  "status": 401
+ },
+ {
+  "name": "text-highlight-illustration",
+  "url": "https://ui.aceternity.com/registry/text-highlight-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "meeting-illustration",
+  "url": "https://ui.aceternity.com/registry/meeting-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "inline-icon-illustration",
+  "url": "https://ui.aceternity.com/registry/inline-icon-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "slider-illustration",
+  "url": "https://ui.aceternity.com/registry/slider-illustration.json",
+  "status": 401
+ },
+ {
+  "name": "draggable-cards",
+  "url": "https://ui.aceternity.com/registry/draggable-cards.json",
+  "status": 401
+ },
+ {
+  "name": "faqs-with-dashed-lines",
+  "url": "https://ui.aceternity.com/registry/faqs-with-dashed-lines.json",
+  "status": 401
+ },
+ {
+  "name": "dither-features",
+  "url": "https://ui.aceternity.com/registry/dither-features.json",
+  "status": 401
+ },
+ {
+  "name": "multicolored-features",
+  "url": "https://ui.aceternity.com/registry/multicolored-features.json",
+  "status": 401
+ },
+ {
+  "name": "features-with-accordion-and-image",
+  "url": "https://ui.aceternity.com/registry/features-with-accordion-and-image.json",
+  "status": 401
+ },
+ {
+  "name": "multi-level-features-with-illustrations",
+  "url": "https://ui.aceternity.com/registry/multi-level-features-with-illustrations.json",
+  "status": 401
+ },
+ {
+  "name": "three-column-features-with-image",
+  "url": "https://ui.aceternity.com/registry/three-column-features-with-image.json",
+  "status": 401
+ },
+ {
+  "name": "features-with-square-edges",
+  "url": "https://ui.aceternity.com/registry/features-with-square-edges.json",
+  "status": 401
+ },
+ {
+  "name": "hero-section-with-hub",
+  "url": "https://ui.aceternity.com/registry/hero-section-with-hub.json",
+  "status": 401
+ },
+ {
+  "name": "minimal-hero-with-huge-interactions",
+  "url": "https://ui.aceternity.com/registry/minimal-hero-with-huge-interactions.json",
+  "status": 401
+ },
+ {
+  "name": "hero-with-fluid-gradient-and-planner",
+  "url": "https://ui.aceternity.com/registry/hero-with-fluid-gradient-and-planner.json",
+  "status": 401
+ },
+ {
+  "name": "feature-grid-with-minimal-illustrations",
+  "url": "https://ui.aceternity.com/registry/feature-grid-with-minimal-illustrations.json",
+  "status": 401
+ },
+ {
+  "name": "feature-grid-with-motion-and-tabs",
+  "url": "https://ui.aceternity.com/registry/feature-grid-with-motion-and-tabs.json",
+  "status": 401
+ },
+ {
+  "name": "feature-grid-with-illustrations-and-bento",
+  "url": "https://ui.aceternity.com/registry/feature-grid-with-illustrations-and-bento.json",
+  "status": 401
+ },
+ {
+  "name": "about-us-section-with-cards",
+  "url": "https://ui.aceternity.com/registry/about-us-section-with-cards.json",
+  "status": 401
+ },
+ {
+  "name": "ribbon-gradient-shader",
+  "url": "https://ui.aceternity.com/registry/ribbon-gradient-shader.json",
+  "status": 401
+ },
+ {
+  "name": "saas-landing-page",
+  "url": "https://ui.aceternity.com/registry/saas-landing-page.json",
+  "status": 401
+ },
+ {
+  "name": "meeting-notes-landing-page",
+  "url": "https://ui.aceternity.com/registry/meeting-notes-landing-page.json",
+  "status": 401
+ },
+ {
+  "name": "inference-landing-page",
+  "url": "https://ui.aceternity.com/registry/inference-landing-page.json",
+  "status": 401
+ }
+]

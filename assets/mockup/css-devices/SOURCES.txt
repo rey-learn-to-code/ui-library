@@ -1,0 +1,4 @@
+Pure-CSS device frames (open source, MIT license - keep the LICENSE file in each folder):
+- marvelapp-devices-css  <- https://github.com/marvelapp/devices.css  (MIT, Marvel)
+- picturepan2-devices-css <- https://github.com/picturepan2/devices.css (MIT, Yan Zhu)
+MIT requires you to keep the copyright notice and license text when you redistribute the source code.

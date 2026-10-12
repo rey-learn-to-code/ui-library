@@ -1,0 +1,17 @@
+[
+ {"url": "https://lucide.dev/icons/", "status": "downloaded", "local_path": "assets/icon/lucide", "license": "ISC", "size": "48M", "items": 2134,
+  "notes": "All 2,134 outline SVG icons (lucide-static 1.54.0), plus sprite.svg, an icon font, keywords and icons-index.json for searching.",
+  "usage": "HTML: paste the SVG, use <img> or <svg><use href=\"sprite.svg#house\"/></svg> (set stroke on the svg tag). React: npm install lucide-react, then <House size={24} />."},
+ {"url": "https://phosphoricons.com/", "status": "downloaded", "local_path": "assets/icon/phosphor", "license": "MIT", "size": "38M", "items": 1512,
+  "notes": "1,512 icons × 6 styles (regular, thin, light, bold, fill, duotone) = 9,072 SVG files from @phosphor-icons/core 2.1.1, with keywords and sprite-regular.svg.",
+  "usage": "HTML: paste the SVG, use <img> or sprite-regular.svg; or include @phosphor-icons/web, then <i class=\"ph ph-house\">. React: npm install @phosphor-icons/react, then <House weight=\"bold\" />."},
+ {"url": "https://heroicons.com/", "status": "downloaded", "local_path": "assets/icon/heroicons", "license": "MIT", "size": "5.6M", "items": 324,
+  "notes": "324 icons × 4 styles (outline 24, solid 24, mini 20, micro 16) from heroicons 2.2.0, plus sprite-outline/solid.svg; the original has no keywords.",
+  "usage": "HTML: paste the SVG, use <img> or <svg><use href=\"sprite-outline.svg#home\"/></svg>. React: npm install @heroicons/react, then import { HomeIcon } from \"@heroicons/react/24/outline\"."},
+ {"url": "https://lordicon.com/", "status": "partial", "local_path": "assets/animated-icons/lordicon", "license": "Icons: Lordicon Free License (modified CC BY-ND 4.0, commercial use allowed, credit required, account needed); @lordicon/element runtime: MIT", "size": "6.5M", "items": 18066,
+  "notes": "Icon files not downloaded: the free license is only granted with an account, and this computer blocks cdn/media.lordicon.com. Saved the runtime (lordicon.js, 2 npm packages) and a list of 18,066 icon names from the public sitemap (paid icons included).",
+  "usage": "Log in to lordicon.com yourself to get the Free .json icon files, and credit \"Icons by Lordicon.com\". HTML: <script type=\"module\" src=\"lordicon.js\"> then <lord-icon src=\"lock.json\" trigger=\"hover\">; React: npm install @lordicon/element, call defineElement(), then use the <lord-icon> tag."},
+ {"url": "https://rive.app/marketplace/", "status": "downloaded", "local_path": "assets/animated-icons/rive", "license": "Each file: CC BY 4.0 (credit the author); @rive-app/* runtime: MIT", "size": "140M", "items": 70,
+  "notes": "A curated set of 70 public .riv files (featured + icon/button/loader/toggle/hover), all CC BY 4.0, with preview images and rive-index.json listing author, license and state machine names. Includes the rive.js/rive.wasm runtime and the React package.",
+  "usage": "HTML: load runtime/rive.js, then new rive.Rive({src, canvas, stateMachines}). React: npm install @rive-app/react-canvas, use useRive({src, stateMachines}); remember to credit the author."}
+]

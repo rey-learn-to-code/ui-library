@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" width="1600" height="900">
+<title>Song nhieu lop 5</title>
+<desc>Recolor: set the CSS variables bg-bg, bg-c1, bg-c2, bg-c3 (each prefixed with two hyphens) on the parent element when embedding the SVG inline; currentColor strokes follow the color property.</desc>
+<defs></defs>
+<rect width="100%" height="100%" style="fill:var(--bg-bg,#0f172a)"/>
+<path d="M0,900 L0,442 C100,442 100,435 200,435 C300,435 300,424 400,424 C500,424 500,383 600,383 C700,383 700,391 800,391 C900,391 900,422 1000,422 C1100,422 1100,430 1200,430 C1300,430 1300,366 1400,366 C1500,366 1500,378 1600,378 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.55"/>
+<path d="M0,900 L0,549 C100,549 100,487 200,487 C300,487 300,530 400,530 C500,530 500,504 600,504 C700,504 700,529 800,529 C900,529 900,546 1000,546 C1100,546 1100,524 1200,524 C1300,524 1300,509 1400,509 C1500,509 1500,503 1600,503 L1600,900 Z" style="fill:var(--bg-c2,#ec4899);fill-opacity:0.55"/>
+<path d="M0,900 L0,640 C100,640 100,640 200,640 C300,640 300,623 400,623 C500,623 500,627 600,627 C700,627 700,633 800,633 C900,633 900,611 1000,611 C1100,611 1100,604 1200,604 C1300,604 1300,635 1400,635 C1500,635 1500,598 1600,598 L1600,900 Z" style="fill:var(--bg-c3,#22d3ee);fill-opacity:0.55"/>
+<path d="M0,900 L0,750 C100,750 100,767 200,767 C300,767 300,769 400,769 C500,769 500,723 600,723 C700,723 700,736 800,736 C900,736 900,776 1000,776 C1100,776 1100,730 1200,730 C1300,730 1300,782 1400,782 C1500,782 1500,718 1600,718 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.7000000000000001"/>
+
+</svg>

@@ -1,0 +1,22 @@
+# Venture Capital Fund Landing Page Template
+
+- Source: https://www.aura.build/templates/venture-capital-0
+- Category: Web
+- Tags: Landing Page, Business, Brand, Clean, Minimal, Large Type, Technology, Services, Dark, Gradient
+- Tier: Free
+- Preview image/video (link only, not downloaded): https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/preview-images/shared-code-previews/venture-capital-0-preview-1770546479214.jpeg
+- live_preview: https://venture-capital-0.aura.build
+- type: html
+- views: 57
+- creator: -
+- createdAt: 2026-01-23
+- License note: Templates made by the Aura community (operated by DESIGNCODE IO PTE. LTD.). Viewing/previewing is public; "Copy prompt"/"Use for Free"/code export need login; Pro needs a paid plan; Paid is sold separately. Only metadata + link are stored.
+- Collected on: 2026-10-09
+
+## Description (from the source page)
+
+A modern venture capital fund website template for early-stage investment firms to showcase their thesis, team, and deal flow to founders and LPs.
+
+## Prompt
+
+Login required: the "Copy prompt" button on Aura requires login (even for Free templates).

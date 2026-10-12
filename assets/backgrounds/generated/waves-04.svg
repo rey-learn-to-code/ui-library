@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" width="1600" height="900">
+<title>Song nhieu lop 4</title>
+<desc>Recolor: set the CSS variables bg-bg, bg-c1, bg-c2, bg-c3 (each prefixed with two hyphens) on the parent element when embedding the SVG inline; currentColor strokes follow the color property.</desc>
+<defs></defs>
+<rect width="100%" height="100%" style="fill:var(--bg-bg,#0f172a)"/>
+<path d="M0,900 L0,462 C114,462 114,400 229,400 C343,400 343,431 457,431 C571,431 571,433 686,433 C800,433 800,371 914,371 C1029,371 1029,354 1143,354 C1257,354 1257,417 1371,417 C1486,417 1486,360 1600,360 L1600,900 Z" style="fill:var(--bg-c1,#6366f1);fill-opacity:0.55"/>
+<path d="M0,900 L0,541 C114,541 114,602 229,602 C343,602 343,600 457,600 C571,600 571,509 686,509 C800,509 800,505 914,505 C1029,505 1029,522 1143,522 C1257,522 1257,594 1371,594 C1486,594 1486,498 1600,498 L1600,900 Z" style="fill:var(--bg-c2,#ec4899);fill-opacity:0.55"/>
+<path d="M0,900 L0,672 C114,672 114,658 229,658 C343,658 343,660 457,660 C571,660 571,708 686,708 C800,708 800,667 914,667 C1029,667 1029,694 1143,694 C1257,694 1257,733 1371,733 C1486,733 1486,732 1600,732 L1600,900 Z" style="fill:var(--bg-c3,#22d3ee);fill-opacity:0.7000000000000001"/>
+
+</svg>

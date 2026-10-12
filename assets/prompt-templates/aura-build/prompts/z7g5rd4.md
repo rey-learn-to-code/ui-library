@@ -1,0 +1,22 @@
+# Responsive Gradient Hero Section
+
+- Source: https://www.aura.build/templates/Z7G5rD4
+- Category: Web
+- Tags: HTML, Tailwind CSS, Responsive Design, Hero Section, Gradient Text, UI Components
+- Tier: Free
+- Preview image/video (link only, not downloaded): https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/preview-images/Z7G5rD4.jpg
+- live_preview: https://Z7G5rD4.aura.build
+- type: html
+- views: 395
+- creator: 9109ECBB-CDC4-4815-981E-2EA83BE13765
+- createdAt: 2025-05-03
+- License note: Templates made by the Aura community (operated by DESIGNCODE IO PTE. LTD.). Viewing/previewing is public; "Copy prompt"/"Use for Free"/code export need login; Pro needs a paid plan; Paid is sold separately. Only metadata + link are stored.
+- Collected on: 2026-10-09
+
+## Description (from the source page)
+
+HTML and Tailwind CSS code for a responsive hero section with gradient text, navbar, call-to-actions, and feature stats.
+
+## Prompt
+
+Login required: the "Copy prompt" button on Aura requires login (even for Free templates).

@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://fonts.google.com/",
+  "status": "downloaded",
+  "local_path": "assets/font/google-fonts",
+  "license": "SIL OFL 1.1 (1984 families), Apache 2.0 (42), Ubuntu Font Licence (5); the license file is in each font folder",
+  "size": "2.7 GB",
+  "items": 2031,
+  "notes": "All 2031 Google Fonts families (3758 .ttf files, from the google/fonts repo on 2026-10-09). Includes fonts-index.json (name, category, designer, license, weights, files) and fonts-vietnamese.json listing the 543 families that support Vietnamese accents.",
+  "usage": "Look up fonts-vietnamese.json to pick a font with Vietnamese accents, then use the .ttf file with @font-face or next/font/local; see README.md and font-pairings-vietnamese.md (32 font pairs checked for accents)."
+ },
+ {
+  "url": "https://www.fontshare.com/",
+  "status": "link-only",
+  "local_path": "assets/font/fontshare",
+  "license": "ITF Free Font License (free for personal and commercial use, do not resell the font files)",
+  "size": "0",
+  "items": 0,
+  "notes": "Not downloaded yet: the internet provider's DNS returns 127.0.0.1 for api.fontshare.com and cdn.fontshare.com (CDN b-cdn.net), so the API can't be reached. The script scripts/font_fontshare.py is ready to download everything and check Vietnamese accents once the network allows it.",
+  "usage": "Change DNS (1.1.1.1/8.8.8.8), then run python3 -E scripts/font_fontshare.py assets/font/fontshare, or download each font by hand from the website; instructions in fontshare/NOTES.md."
+ },
+ {
+  "url": "https://www.typewolf.com/",
+  "status": "link-only",
+  "local_path": "assets/font/typewolf",
+  "license": "Typewolf content is copyrighted — do not copy",
+  "size": "0",
+  "items": 0,
+  "notes": "A reference site showing how real websites use and pair fonts; only links and usage notes are saved.",
+  "usage": "Browse sample websites for font-pairing ideas, then find similar free fonts with Vietnamese accents in the library; see typewolf/NOTES.md and font-pairings-vietnamese.md."
+ }
+]

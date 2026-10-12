@@ -1,0 +1,86 @@
+PatternFly • Empty state
+Skip to content
+# Empty state
+An empty state is a screen that is not yet populated with data or information—typically containing a short message and next steps for users.
+- React
+- HTML
+- CSS variables
+- Design guidelines
+Examples
+Basic
+#### Empty state
+ This represents the empty state pattern in PatternFly. Hopefully it's simple enough to use but flexible enough to meet a variety of needs. 
+Primary action
+MultipleAction ButtonsCanGo hereIn the secondaryAction area
+ TS
+Extra small
+#### Empty state
+This represents an the empty state pattern in PatternFly. The icon is optional.
+MultipleAction ButtonsCanGo hereIn the secondaryAction area
+ TS
+Small
+#### Empty state
+ This represents the empty state pattern in PatternFly. Hopefully it's simple enough to use but flexible enough to meet a variety of needs. 
+Primary action
+MultipleAction ButtonsCanGo hereIn the secondaryAction area
+ TS
+Large
+#### Empty state
+ This represents the empty state pattern in PatternFly. Hopefully it's simple enough to use but flexible enough to meet a variety of needs. 
+Primary action
+MultipleAction ButtonsCanGo hereIn the secondaryAction area
+ TS
+Extra large
+#### Empty state
+ This represents the empty state pattern in PatternFly. Hopefully it's simple enough to use but flexible enough to meet a variety of needs. 
+Primary action
+MultipleAction ButtonsCanGo hereIn the secondaryAction area
+ TS
+With status
+#### You're all set
+ This represents an the empty state pattern in PatternFly. Hopefully it's simple enough to use but flexible enough to meet a variety of needs. 
+ Toggle status 
+MultipleAction ButtonsCanGo hereIn the secondaryAction area
+ TS
+Spinner
+#### Loading
+ TS
+No match found
+#### No results found
+No results match the filter criteria. Clear all filters and try again.
+Clear all filters
+ TS
+Props
+EmptyState
+*required
+NameTypeDefaultDescription
+childrenReact.ReactNodeContent rendered inside the empty state
+classNamestringAdditional classes added to the empty state
+headerClassNamestringAdditional class names to apply to the empty state header
+headingLevel'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6'The heading level to use, default is h1
+iconReact.ComponentType<any>Empty state icon element to be rendered. Can also be a spinner component
+isFullHeightbooleanCause component to consume the available height of its container
+status'danger' | 'warning' | 'success' | 'info' | 'custom'Status of the empty state, will set a default status icon and color. Icon can be overwritten using the icon prop
+titleClassNamestringAdditional classes added to the title inside empty state header
+titleTextReact.ReactNodeText of the title inside empty state header, will be wrapped in headingLevel
+variant'xs' | 'sm' | 'lg' | 'xl' | 'full'EmptyStateVariant.fullModifies empty state max-width and sizes of icon, title and body
+EmptyStateBody
+*required
+NameTypeDefaultDescription
+childrenReact.ReactNodeContent rendered inside the empty state body
+classNamestringAdditional classes added to the empty state body
+EmptyStateFooter
+*required
+NameTypeDefaultDescription
+childrenReact.ReactNodeContent rendered inside the empty state footer
+classNamestringAdditional classes added to the empty state footer
+EmptyStateActions
+*required
+NameTypeDefaultDescription
+childrenReact.ReactNodeContent rendered inside the empty state actions
+classNamestringAdditional classes added to the empty state actions
+Edit this page on GitHub
+Back to top
+Give feedback
+Copyright © 2014-2026 Red Hat, Inc.
+Privacy statementTerms of useAll policies and guidelines

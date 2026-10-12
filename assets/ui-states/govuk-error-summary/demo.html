@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" class="govuk-template">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Example: form error summary (GOV.UK error summary)</title>
+  <link rel="stylesheet" href="dist/govuk-frontend.min.css">
+  <!-- Note: the GDS Transport font is only for gov.uk sites, so a system font is used here -->
+  <style>body, .govuk-body, .govuk-heading-l, .govuk-label, .govuk-error-summary { font-family: system-ui, Arial, sans-serif; }</style>
+</head>
+<body class="govuk-template__body">
+<script>document.body.className += ' js-enabled' + ('noModule' in HTMLScriptElement.prototype ? ' govuk-frontend-supported' : '');</script>
+<main class="govuk-main-wrapper govuk-width-container">
+  <!-- 1) Error summary box: put it at the TOP of the page, right above the heading -->
+  <div class="govuk-error-summary" data-module="govuk-error-summary">
+    <div role="alert">
+      <h2 class="govuk-error-summary__title">There is a problem</h2>
+      <div class="govuk-error-summary__body">
+        <ul class="govuk-list govuk-error-summary__list">
+          <li><a href="#email">Enter an email address in the correct format, like name@example.com</a></li>
+          <li><a href="#phone">Enter a phone number with 10 digits</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <h1 class="govuk-heading-l">Sign up for updates</h1>
+
+  <!-- 2) Each field with an error: add the --error class, put the error line right above the field, and point aria-describedby to the error line -->
+  <div class="govuk-form-group govuk-form-group--error">
+    <label class="govuk-label" for="email">Email</label>
+    <p id="email-error" class="govuk-error-message"><span class="govuk-visually-hidden">Error:</span> Enter an email address in the correct format, like name@example.com</p>
+    <input class="govuk-input govuk-input--error" id="email" name="email" type="email" value="name@" aria-describedby="email-error">
+  </div>
+  <div class="govuk-form-group govuk-form-group--error">
+    <label class="govuk-label" for="phone">Phone number</label>
+    <p id="phone-error" class="govuk-error-message"><span class="govuk-visually-hidden">Error:</span> Enter a phone number with 10 digits</p>
+    <input class="govuk-input govuk-input--width-20 govuk-input--error" id="phone" name="phone" type="tel" value="09123" aria-describedby="phone-error">
+  </div>
+  <button class="govuk-button" data-module="govuk-button">Submit</button>
+</main>
+<script type="module">
+  import { initAll } from './dist/govuk-frontend.min.js'
+  initAll()
+</script>
+</body>
+</html>

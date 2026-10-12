@@ -1,0 +1,134 @@
+/**
+ * Shared classes of the playground options. A field is one labelled control.
+ * Its label row carries the label on the left and the tools on the right:
+ * the current value, the reset link and the range toggle.
+ */
+.pg-field {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+}
+
+.pg-field-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 28px;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--db-ink);
+
+  > label {
+    cursor: pointer;
+  }
+}
+
+.pg-field-tools {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: auto;
+
+  /* The tools sit at the right edge of the column, so their tooltips grow to
+     the left and stay inside the viewport on phones. */
+  [data-tip]:hover::after,
+  [data-tip]:focus-visible::after {
+    right: 0;
+    left: auto;
+    transform: none;
+  }
+}
+
+.pg-field-value {
+  font-family: var(--db-font-mono);
+  font-size: 14px;
+  line-height: 20px;
+  font-variant-numeric: tabular-nums;
+  color: var(--db-ink-2);
+  white-space: nowrap;
+}
+
+.pg-field-reset {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 500;
+  color: var(--db-brand-text);
+  cursor: pointer;
+}
+
+/* Muted help text under a control or at the top of a section. */
+.pg-help {
+  margin: 0;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--db-muted);
+
+  strong {
+    font-weight: 600;
+    color: var(--db-ink-2);
+  }
+
+  a {
+    color: var(--db-brand-text);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  code {
+    font-family: var(--db-font-mono);
+    font-size: 13px;
+  }
+}
+
+/* A titled group inside an entry, the ones after the first behind a line. */
+.pg-group {
+  padding-top: 20px;
+  border-top: 1px solid var(--db-line);
+}
+
+.pg-group-first {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.pg-group-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+
+  .pg-field-reset {
+    margin-left: auto;
+  }
+}
+
+.pg-group-title {
+  margin: 0;
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--db-ink-2);
+}
+
+/* Fields one under the other, each with the full width for its slider,
+   which a range needs. */
+.pg-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* The list of styles in its sheet on a phone. The dialog renders the
+   content box, so this rule is not scoped. */
+.pg-style-sheet {
+  height: min(640px, 78vh);
+  padding: 0;
+}

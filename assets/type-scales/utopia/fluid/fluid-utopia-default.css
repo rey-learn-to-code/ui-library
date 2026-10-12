@@ -1,0 +1,44 @@
+/* Fluid type + space (utopia-default) — utopia.fyi default settings: screens 320→1240px, base text 18→20px, ratio 1.2→1.25.
+   Port of the utopia-core formula (ISC, trys/utopia-core). Viewport 320px → 1240px.
+   Usage: font-size: var(--step-2); padding: var(--space-s-m); gap: var(--space-m); */
+:root {
+  --step-5: clamp(2.7994rem, 2.4462rem + 1.7658vi, 3.8147rem); /* 44.79px → 61.04px */
+  --step-4: clamp(2.3328rem, 2.0827rem + 1.2504vi, 3.0518rem); /* 37.32px → 48.83px */
+  --step-3: clamp(1.944rem, 1.771rem + 0.8651vi, 2.4414rem); /* 31.10px → 39.06px */
+  --step-2: clamp(1.62rem, 1.5041rem + 0.5793vi, 1.9531rem); /* 25.92px → 31.25px */
+  --step-1: clamp(1.35rem, 1.2761rem + 0.3696vi, 1.5625rem); /* 21.60px → 25.00px */
+  --step-0: clamp(1.125rem, 1.0815rem + 0.2174vi, 1.25rem); /* 18.00px → 20.00px */
+  --step--1: clamp(0.9375rem, 0.9158rem + 0.1087vi, 1rem); /* 15.00px → 16.00px */
+  --step--2: clamp(0.7813rem, 0.7747rem + 0.0326vi, 0.8rem); /* 12.50px → 12.80px */
+
+  --space-3xs: clamp(0.3125rem, 0.3125rem + 0vi, 0.3125rem); /* 5px → 5px */
+  --space-2xs: clamp(0.5625rem, 0.5408rem + 0.1087vi, 0.625rem); /* 9px → 10px */
+  --space-xs: clamp(0.875rem, 0.8533rem + 0.1087vi, 0.9375rem); /* 14px → 15px */
+  --space-s: clamp(1.125rem, 1.0815rem + 0.2174vi, 1.25rem); /* 18px → 20px */
+  --space-m: clamp(1.6875rem, 1.6223rem + 0.3261vi, 1.875rem); /* 27px → 30px */
+  --space-l: clamp(2.25rem, 2.163rem + 0.4348vi, 2.5rem); /* 36px → 40px */
+  --space-xl: clamp(3.375rem, 3.2446rem + 0.6522vi, 3.75rem); /* 54px → 60px */
+  --space-2xl: clamp(4.5rem, 4.3261rem + 0.8696vi, 5rem); /* 72px → 80px */
+  --space-3xl: clamp(6.75rem, 6.4891rem + 1.3043vi, 7.5rem); /* 108px → 120px */
+
+  /* One-up pairs: scale more strongly (e.g. --space-s-m: s on small screens, m on large screens) */
+  --space-3xs-2xs: clamp(0.3125rem, 0.2038rem + 0.5435vi, 0.625rem);
+  --space-2xs-xs: clamp(0.5625rem, 0.4321rem + 0.6522vi, 0.9375rem);
+  --space-xs-s: clamp(0.875rem, 0.7446rem + 0.6522vi, 1.25rem);
+  --space-s-m: clamp(1.125rem, 0.8641rem + 1.3043vi, 1.875rem);
+  --space-m-l: clamp(1.6875rem, 1.4049rem + 1.413vi, 2.5rem);
+  --space-l-xl: clamp(2.25rem, 1.7283rem + 2.6087vi, 3.75rem);
+  --space-xl-2xl: clamp(3.375rem, 2.8098rem + 2.8261vi, 5rem);
+  --space-2xl-3xl: clamp(4.5rem, 3.4565rem + 5.2174vi, 7.5rem);
+
+  /* Custom pair */
+  --space-s-l: clamp(1.125rem, 0.6467rem + 2.3913vi, 2.5rem);
+}
+
+/* Optional: preset styles for headings — remove if not needed */
+.fluid-type { font-size: var(--step-0); line-height: 1.6; }
+.fluid-type h1 { font-size: var(--step-5); line-height: 1.15; }
+.fluid-type h2 { font-size: var(--step-4); line-height: 1.15; }
+.fluid-type h3 { font-size: var(--step-3); line-height: 1.15; }
+.fluid-type h4 { font-size: var(--step-2); line-height: 1.15; }
+.fluid-type h5 { font-size: var(--step-1); line-height: 1.15; }

@@ -1,0 +1,19 @@
+Source: MockUPhone - https://mockuphone.com (source code: https://github.com/oursky/mockuphone.com)
+Folders: repo/public/images/mockup_templates (342 PNG device frames) + repo/src/scripts/device_info.json
+
+License:
+- Repo source code: Apache License 2.0 (see repo/LICENSE).
+- Images/device frames: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+  https://creativecommons.org/licenses/by/3.0/
+  From the page https://mockuphone.com/attribution: "No particular form of attribution is required,
+  but please follow best practices for attribution. A minimal form of attribution would be to mention
+  in your application's source project that some assets were created with MockUPhone."
+
+Credit line to use (put it in the source code/README of the project that uses these assets):
+  Some device mockup assets were created with MockUPhone (https://mockuphone.com), licensed under CC BY 3.0.
+
+Original contributors (from MockUPhone's attribution page, checked 2026-10-09):
+  Pixeden; GraphicBurger; Pinto; Paul Flavius Nechita (@npaulflavius); Medialoot (@MediaLoot);
+  Matt D. Smith (@mds); PSDCovers; Stelios Strong (@steliosstrong); chirag dave - uijunction (@uijunction);
+  Pixel Art Factory; Dorin Vancea (@dorinvancea); Artiom Dashinsky (@hvost); Elegant Themes (@elegantthemes);
+  Skymaker's Designer; Sajjad Mohammadi Nia; BRIX Templates; DesignBolts.

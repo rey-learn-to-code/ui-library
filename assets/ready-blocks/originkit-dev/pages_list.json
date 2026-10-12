@@ -1,0 +1,2441 @@
+{
+ "source": "https://www.originkit.dev/sitemap.xml (public)",
+ "components": [
+  {
+   "name": "3d-stagger-flip",
+   "url": "https://www.originkit.dev/components/3d-stagger-flip"
+  },
+  {
+   "name": "3d-text-unfold",
+   "url": "https://www.originkit.dev/components/3d-text-unfold"
+  },
+  {
+   "name": "accretion-disc",
+   "url": "https://www.originkit.dev/components/accretion-disc"
+  },
+  {
+   "name": "acrylic-pour",
+   "url": "https://www.originkit.dev/components/acrylic-pour"
+  },
+  {
+   "name": "appear-text",
+   "url": "https://www.originkit.dev/components/appear-text"
+  },
+  {
+   "name": "arch-corridor",
+   "url": "https://www.originkit.dev/components/arch-corridor"
+  },
+  {
+   "name": "arrow-cross",
+   "url": "https://www.originkit.dev/components/arrow-cross"
+  },
+  {
+   "name": "arrow-reveal-button",
+   "url": "https://www.originkit.dev/components/arrow-reveal-button"
+  },
+  {
+   "name": "ascii-flame",
+   "url": "https://www.originkit.dev/components/ascii-flame"
+  },
+  {
+   "name": "ascii-flame-ball",
+   "url": "https://www.originkit.dev/components/ascii-flame-ball"
+  },
+  {
+   "name": "ascii-radar",
+   "url": "https://www.originkit.dev/components/ascii-radar"
+  },
+  {
+   "name": "ascii-rain",
+   "url": "https://www.originkit.dev/components/ascii-rain"
+  },
+  {
+   "name": "ascii-reveal",
+   "url": "https://www.originkit.dev/components/ascii-reveal"
+  },
+  {
+   "name": "ascii-sphere",
+   "url": "https://www.originkit.dev/components/ascii-sphere"
+  },
+  {
+   "name": "ascii-tunnel",
+   "url": "https://www.originkit.dev/components/ascii-tunnel"
+  },
+  {
+   "name": "ascii-water",
+   "url": "https://www.originkit.dev/components/ascii-water"
+  },
+  {
+   "name": "ascii-wave",
+   "url": "https://www.originkit.dev/components/ascii-wave"
+  },
+  {
+   "name": "auger-tape",
+   "url": "https://www.originkit.dev/components/auger-tape"
+  },
+  {
+   "name": "aura-cursor",
+   "url": "https://www.originkit.dev/components/aura-cursor"
+  },
+  {
+   "name": "axis-cursor",
+   "url": "https://www.originkit.dev/components/axis-cursor"
+  },
+  {
+   "name": "ball-study",
+   "url": "https://www.originkit.dev/components/ball-study"
+  },
+  {
+   "name": "bayer-vortex",
+   "url": "https://www.originkit.dev/components/bayer-vortex"
+  },
+  {
+   "name": "beam-sweep",
+   "url": "https://www.originkit.dev/components/beam-sweep"
+  },
+  {
+   "name": "beating-hearts",
+   "url": "https://www.originkit.dev/components/beating-hearts"
+  },
+  {
+   "name": "beyond-horizon",
+   "url": "https://www.originkit.dev/components/beyond-horizon"
+  },
+  {
+   "name": "blackhole",
+   "url": "https://www.originkit.dev/components/blackhole"
+  },
+  {
+   "name": "blinkingsquares",
+   "url": "https://www.originkit.dev/components/blinkingsquares"
+  },
+  {
+   "name": "blob-text-reveal",
+   "url": "https://www.originkit.dev/components/blob-text-reveal"
+  },
+  {
+   "name": "block-drift",
+   "url": "https://www.originkit.dev/components/block-drift"
+  },
+  {
+   "name": "block-text-reveal",
+   "url": "https://www.originkit.dev/components/block-text-reveal"
+  },
+  {
+   "name": "blooming-flower",
+   "url": "https://www.originkit.dev/components/blooming-flower"
+  },
+  {
+   "name": "blur-reveal",
+   "url": "https://www.originkit.dev/components/blur-reveal"
+  },
+  {
+   "name": "blurcarousel",
+   "url": "https://www.originkit.dev/components/blurcarousel"
+  },
+  {
+   "name": "botanical-text",
+   "url": "https://www.originkit.dev/components/botanical-text"
+  },
+  {
+   "name": "boxcarousel",
+   "url": "https://www.originkit.dev/components/boxcarousel"
+  },
+  {
+   "name": "breathing-dots",
+   "url": "https://www.originkit.dev/components/breathing-dots"
+  },
+  {
+   "name": "brick-projection",
+   "url": "https://www.originkit.dev/components/brick-projection"
+  },
+  {
+   "name": "broken-glass",
+   "url": "https://www.originkit.dev/components/broken-glass"
+  },
+  {
+   "name": "brush-reveal",
+   "url": "https://www.originkit.dev/components/brush-reveal"
+  },
+  {
+   "name": "bubble-burst",
+   "url": "https://www.originkit.dev/components/bubble-burst"
+  },
+  {
+   "name": "bubble-stream",
+   "url": "https://www.originkit.dev/components/bubble-stream"
+  },
+  {
+   "name": "bubble-text",
+   "url": "https://www.originkit.dev/components/bubble-text"
+  },
+  {
+   "name": "butterfly-drift",
+   "url": "https://www.originkit.dev/components/butterfly-drift"
+  },
+  {
+   "name": "button-carousel",
+   "url": "https://www.originkit.dev/components/button-carousel"
+  },
+  {
+   "name": "capsule-orb",
+   "url": "https://www.originkit.dev/components/capsule-orb"
+  },
+  {
+   "name": "caustic-weave",
+   "url": "https://www.originkit.dev/components/caustic-weave"
+  },
+  {
+   "name": "cell-field",
+   "url": "https://www.originkit.dev/components/cell-field"
+  },
+  {
+   "name": "cello-stack",
+   "url": "https://www.originkit.dev/components/cello-stack"
+  },
+  {
+   "name": "chain-vortex",
+   "url": "https://www.originkit.dev/components/chain-vortex"
+  },
+  {
+   "name": "character-cursor",
+   "url": "https://www.originkit.dev/components/character-cursor"
+  },
+  {
+   "name": "character-waves",
+   "url": "https://www.originkit.dev/components/character-waves"
+  },
+  {
+   "name": "checker-vortex",
+   "url": "https://www.originkit.dev/components/checker-vortex"
+  },
+  {
+   "name": "chess-horizon",
+   "url": "https://www.originkit.dev/components/chess-horizon"
+  },
+  {
+   "name": "chevron-duct",
+   "url": "https://www.originkit.dev/components/chevron-duct"
+  },
+  {
+   "name": "chladni-tune",
+   "url": "https://www.originkit.dev/components/chladni-tune"
+  },
+  {
+   "name": "chromatic-waves",
+   "url": "https://www.originkit.dev/components/chromatic-waves"
+  },
+  {
+   "name": "chrome-blob",
+   "url": "https://www.originkit.dev/components/chrome-blob"
+  },
+  {
+   "name": "chrome-cells",
+   "url": "https://www.originkit.dev/components/chrome-cells"
+  },
+  {
+   "name": "chrome-stack",
+   "url": "https://www.originkit.dev/components/chrome-stack"
+  },
+  {
+   "name": "circle-cursor",
+   "url": "https://www.originkit.dev/components/circle-cursor"
+  },
+  {
+   "name": "circular-gallery",
+   "url": "https://www.originkit.dev/components/circular-gallery"
+  },
+  {
+   "name": "clickeffects",
+   "url": "https://www.originkit.dev/components/clickeffects"
+  },
+  {
+   "name": "clip-stack-fixed",
+   "url": "https://www.originkit.dev/components/clip-stack-fixed"
+  },
+  {
+   "name": "cloth-study",
+   "url": "https://www.originkit.dev/components/cloth-study"
+  },
+  {
+   "name": "cloud-sky",
+   "url": "https://www.originkit.dev/components/cloud-sky"
+  },
+  {
+   "name": "cluster-about-soap",
+   "url": "https://www.originkit.dev/components/cluster-about-soap"
+  },
+  {
+   "name": "cobalt-louvre",
+   "url": "https://www.originkit.dev/components/cobalt-louvre"
+  },
+  {
+   "name": "cog-train",
+   "url": "https://www.originkit.dev/components/cog-train"
+  },
+  {
+   "name": "coin-loader",
+   "url": "https://www.originkit.dev/components/coin-loader"
+  },
+  {
+   "name": "coins",
+   "url": "https://www.originkit.dev/components/coins"
+  },
+  {
+   "name": "color-hexa-sphere",
+   "url": "https://www.originkit.dev/components/color-hexa-sphere"
+  },
+  {
+   "name": "compare-slider",
+   "url": "https://www.originkit.dev/components/compare-slider"
+  },
+  {
+   "name": "confetti-cursor",
+   "url": "https://www.originkit.dev/components/confetti-cursor"
+  },
+  {
+   "name": "connectivity-graph",
+   "url": "https://www.originkit.dev/components/connectivity-graph"
+  },
+  {
+   "name": "constellation",
+   "url": "https://www.originkit.dev/components/constellation"
+  },
+  {
+   "name": "constellation-shell",
+   "url": "https://www.originkit.dev/components/constellation-shell"
+  },
+  {
+   "name": "contour-embers",
+   "url": "https://www.originkit.dev/components/contour-embers"
+  },
+  {
+   "name": "contour-loop",
+   "url": "https://www.originkit.dev/components/contour-loop"
+  },
+  {
+   "name": "cosmic-bg",
+   "url": "https://www.originkit.dev/components/cosmic-bg"
+  },
+  {
+   "name": "cosmic-orb",
+   "url": "https://www.originkit.dev/components/cosmic-orb"
+  },
+  {
+   "name": "coverflowcarousel",
+   "url": "https://www.originkit.dev/components/coverflowcarousel"
+  },
+  {
+   "name": "coverflowgallery",
+   "url": "https://www.originkit.dev/components/coverflowgallery"
+  },
+  {
+   "name": "crater-burst",
+   "url": "https://www.originkit.dev/components/crater-burst"
+  },
+  {
+   "name": "crease-flyer",
+   "url": "https://www.originkit.dev/components/crease-flyer"
+  },
+  {
+   "name": "crystal-caldera",
+   "url": "https://www.originkit.dev/components/crystal-caldera"
+  },
+  {
+   "name": "crystal-glow",
+   "url": "https://www.originkit.dev/components/crystal-glow"
+  },
+  {
+   "name": "crystalgem",
+   "url": "https://www.originkit.dev/components/crystalgem"
+  },
+  {
+   "name": "cube",
+   "url": "https://www.originkit.dev/components/cube"
+  },
+  {
+   "name": "cube-flip-button",
+   "url": "https://www.originkit.dev/components/cube-flip-button"
+  },
+  {
+   "name": "cube-roll-letter-role",
+   "url": "https://www.originkit.dev/components/cube-roll-letter-role"
+  },
+  {
+   "name": "curl-pool",
+   "url": "https://www.originkit.dev/components/curl-pool"
+  },
+  {
+   "name": "cursor-image-gallery",
+   "url": "https://www.originkit.dev/components/cursor-image-gallery"
+  },
+  {
+   "name": "cursor-image-trail",
+   "url": "https://www.originkit.dev/components/cursor-image-trail"
+  },
+  {
+   "name": "cursor-ring-field",
+   "url": "https://www.originkit.dev/components/cursor-ring-field"
+  },
+  {
+   "name": "curvedmarquee",
+   "url": "https://www.originkit.dev/components/curvedmarquee"
+  },
+  {
+   "name": "cyclone-ink",
+   "url": "https://www.originkit.dev/components/cyclone-ink"
+  },
+  {
+   "name": "dark-cluster",
+   "url": "https://www.originkit.dev/components/dark-cluster"
+  },
+  {
+   "name": "dash-cursor",
+   "url": "https://www.originkit.dev/components/dash-cursor"
+  },
+  {
+   "name": "data-pixel-arc",
+   "url": "https://www.originkit.dev/components/data-pixel-arc"
+  },
+  {
+   "name": "data-strings",
+   "url": "https://www.originkit.dev/components/data-strings"
+  },
+  {
+   "name": "deck-carousel",
+   "url": "https://www.originkit.dev/components/deck-carousel"
+  },
+  {
+   "name": "defense-lines",
+   "url": "https://www.originkit.dev/components/defense-lines"
+  },
+  {
+   "name": "dense-grid-round",
+   "url": "https://www.originkit.dev/components/dense-grid-round"
+  },
+  {
+   "name": "deparkanoid",
+   "url": "https://www.originkit.dev/components/deparkanoid"
+  },
+  {
+   "name": "depth-gallery",
+   "url": "https://www.originkit.dev/components/depth-gallery"
+  },
+  {
+   "name": "dice-roll",
+   "url": "https://www.originkit.dev/components/dice-roll"
+  },
+  {
+   "name": "dice-wave-field",
+   "url": "https://www.originkit.dev/components/dice-wave-field"
+  },
+  {
+   "name": "dimensional-field",
+   "url": "https://www.originkit.dev/components/dimensional-field"
+  },
+  {
+   "name": "directionhover",
+   "url": "https://www.originkit.dev/components/directionhover"
+  },
+  {
+   "name": "disc-split",
+   "url": "https://www.originkit.dev/components/disc-split"
+  },
+  {
+   "name": "dither-burn",
+   "url": "https://www.originkit.dev/components/dither-burn"
+  },
+  {
+   "name": "dither-effect",
+   "url": "https://www.originkit.dev/components/dither-effect"
+  },
+  {
+   "name": "dither-effect-2",
+   "url": "https://www.originkit.dev/components/dither-effect-2"
+  },
+  {
+   "name": "dither-globe",
+   "url": "https://www.originkit.dev/components/dither-globe"
+  },
+  {
+   "name": "dither-reveal",
+   "url": "https://www.originkit.dev/components/dither-reveal"
+  },
+  {
+   "name": "domino-text-fall",
+   "url": "https://www.originkit.dev/components/domino-text-fall"
+  },
+  {
+   "name": "dot-cursor",
+   "url": "https://www.originkit.dev/components/dot-cursor"
+  },
+  {
+   "name": "dot-image-reveal",
+   "url": "https://www.originkit.dev/components/dot-image-reveal"
+  },
+  {
+   "name": "dot-lens",
+   "url": "https://www.originkit.dev/components/dot-lens"
+  },
+  {
+   "name": "dot-scatter",
+   "url": "https://www.originkit.dev/components/dot-scatter"
+  },
+  {
+   "name": "dotmatrix",
+   "url": "https://www.originkit.dev/components/dotmatrix"
+  },
+  {
+   "name": "dotted-offset-button",
+   "url": "https://www.originkit.dev/components/dotted-offset-button"
+  },
+  {
+   "name": "draggable-grid",
+   "url": "https://www.originkit.dev/components/draggable-grid"
+  },
+  {
+   "name": "draggablesticker",
+   "url": "https://www.originkit.dev/components/draggablesticker"
+  },
+  {
+   "name": "dry-brush-reveal",
+   "url": "https://www.originkit.dev/components/dry-brush-reveal"
+  },
+  {
+   "name": "dust-text-reveal",
+   "url": "https://www.originkit.dev/components/dust-text-reveal"
+  },
+  {
+   "name": "dynamic-weight",
+   "url": "https://www.originkit.dev/components/dynamic-weight"
+  },
+  {
+   "name": "elastic-text",
+   "url": "https://www.originkit.dev/components/elastic-text"
+  },
+  {
+   "name": "electricborder",
+   "url": "https://www.originkit.dev/components/electricborder"
+  },
+  {
+   "name": "elemental-lightning",
+   "url": "https://www.originkit.dev/components/elemental-lightning"
+  },
+  {
+   "name": "elemental-water",
+   "url": "https://www.originkit.dev/components/elemental-water"
+  },
+  {
+   "name": "ember-dissolve",
+   "url": "https://www.originkit.dev/components/ember-dissolve"
+  },
+  {
+   "name": "ember-husk",
+   "url": "https://www.originkit.dev/components/ember-husk"
+  },
+  {
+   "name": "embroidery",
+   "url": "https://www.originkit.dev/components/embroidery"
+  },
+  {
+   "name": "emoji-particle",
+   "url": "https://www.originkit.dev/components/emoji-particle"
+  },
+  {
+   "name": "emojiburst",
+   "url": "https://www.originkit.dev/components/emojiburst"
+  },
+  {
+   "name": "encrypt-button",
+   "url": "https://www.originkit.dev/components/encrypt-button"
+  },
+  {
+   "name": "energy-ring",
+   "url": "https://www.originkit.dev/components/energy-ring"
+  },
+  {
+   "name": "energy-stream",
+   "url": "https://www.originkit.dev/components/energy-stream"
+  },
+  {
+   "name": "eye-gallery",
+   "url": "https://www.originkit.dev/components/eye-gallery"
+  },
+  {
+   "name": "facet-wall",
+   "url": "https://www.originkit.dev/components/facet-wall"
+  },
+  {
+   "name": "falling-canopy",
+   "url": "https://www.originkit.dev/components/falling-canopy"
+  },
+  {
+   "name": "falling-text",
+   "url": "https://www.originkit.dev/components/falling-text"
+  },
+  {
+   "name": "fibre-arc",
+   "url": "https://www.originkit.dev/components/fibre-arc"
+  },
+  {
+   "name": "fibre-image-tear",
+   "url": "https://www.originkit.dev/components/fibre-image-tear"
+  },
+  {
+   "name": "firework-cursor",
+   "url": "https://www.originkit.dev/components/firework-cursor"
+  },
+  {
+   "name": "fireworks",
+   "url": "https://www.originkit.dev/components/fireworks"
+  },
+  {
+   "name": "flame",
+   "url": "https://www.originkit.dev/components/flame"
+  },
+  {
+   "name": "flap",
+   "url": "https://www.originkit.dev/components/flap"
+  },
+  {
+   "name": "flare-arc",
+   "url": "https://www.originkit.dev/components/flare-arc"
+  },
+  {
+   "name": "flat-text",
+   "url": "https://www.originkit.dev/components/flat-text"
+  },
+  {
+   "name": "flickertext",
+   "url": "https://www.originkit.dev/components/flickertext"
+  },
+  {
+   "name": "flip-cube",
+   "url": "https://www.originkit.dev/components/flip-cube"
+  },
+  {
+   "name": "flip-gallery",
+   "url": "https://www.originkit.dev/components/flip-gallery"
+  },
+  {
+   "name": "floating-gallery",
+   "url": "https://www.originkit.dev/components/floating-gallery"
+  },
+  {
+   "name": "floatingicons",
+   "url": "https://www.originkit.dev/components/floatingicons"
+  },
+  {
+   "name": "floral-thicket",
+   "url": "https://www.originkit.dev/components/floral-thicket"
+  },
+  {
+   "name": "flow-field",
+   "url": "https://www.originkit.dev/components/flow-field"
+  },
+  {
+   "name": "flower-border",
+   "url": "https://www.originkit.dev/components/flower-border"
+  },
+  {
+   "name": "flower-expansion",
+   "url": "https://www.originkit.dev/components/flower-expansion"
+  },
+  {
+   "name": "fluid-field",
+   "url": "https://www.originkit.dev/components/fluid-field"
+  },
+  {
+   "name": "fluid-image-reveal",
+   "url": "https://www.originkit.dev/components/fluid-image-reveal"
+  },
+  {
+   "name": "fluid-ribbons",
+   "url": "https://www.originkit.dev/components/fluid-ribbons"
+  },
+  {
+   "name": "fluid-text",
+   "url": "https://www.originkit.dev/components/fluid-text"
+  },
+  {
+   "name": "fluidtrail",
+   "url": "https://www.originkit.dev/components/fluidtrail"
+  },
+  {
+   "name": "focus-reveal",
+   "url": "https://www.originkit.dev/components/focus-reveal"
+  },
+  {
+   "name": "foil-drift",
+   "url": "https://www.originkit.dev/components/foil-drift"
+  },
+  {
+   "name": "formula-stream",
+   "url": "https://www.originkit.dev/components/formula-stream"
+  },
+  {
+   "name": "frost-glass-card",
+   "url": "https://www.originkit.dev/components/frost-glass-card"
+  },
+  {
+   "name": "frosted-type-band",
+   "url": "https://www.originkit.dev/components/frosted-type-band"
+  },
+  {
+   "name": "frosted-veil",
+   "url": "https://www.originkit.dev/components/frosted-veil"
+  },
+  {
+   "name": "fur-pelt",
+   "url": "https://www.originkit.dev/components/fur-pelt"
+  },
+  {
+   "name": "gabriel-graph",
+   "url": "https://www.originkit.dev/components/gabriel-graph"
+  },
+  {
+   "name": "gallery-tunnel",
+   "url": "https://www.originkit.dev/components/gallery-tunnel"
+  },
+  {
+   "name": "gateway-flow",
+   "url": "https://www.originkit.dev/components/gateway-flow"
+  },
+  {
+   "name": "glass-curl-reveal",
+   "url": "https://www.originkit.dev/components/glass-curl-reveal"
+  },
+  {
+   "name": "glass-icon",
+   "url": "https://www.originkit.dev/components/glass-icon"
+  },
+  {
+   "name": "glass-prism",
+   "url": "https://www.originkit.dev/components/glass-prism"
+  },
+  {
+   "name": "glass-whorl",
+   "url": "https://www.originkit.dev/components/glass-whorl"
+  },
+  {
+   "name": "glitch-text",
+   "url": "https://www.originkit.dev/components/glitch-text"
+  },
+  {
+   "name": "glitter-cursor",
+   "url": "https://www.originkit.dev/components/glitter-cursor"
+  },
+  {
+   "name": "glitterwrap",
+   "url": "https://www.originkit.dev/components/glitterwrap"
+  },
+  {
+   "name": "globe",
+   "url": "https://www.originkit.dev/components/globe"
+  },
+  {
+   "name": "globe-mesh",
+   "url": "https://www.originkit.dev/components/globe-mesh"
+  },
+  {
+   "name": "globe-study",
+   "url": "https://www.originkit.dev/components/globe-study"
+  },
+  {
+   "name": "glow-border",
+   "url": "https://www.originkit.dev/components/glow-border"
+  },
+  {
+   "name": "glowing-dome-liquid",
+   "url": "https://www.originkit.dev/components/glowing-dome-liquid"
+  },
+  {
+   "name": "glowing-particles",
+   "url": "https://www.originkit.dev/components/glowing-particles"
+  },
+  {
+   "name": "glowing-sphere",
+   "url": "https://www.originkit.dev/components/glowing-sphere"
+  },
+  {
+   "name": "glyph-burst",
+   "url": "https://www.originkit.dev/components/glyph-burst"
+  },
+  {
+   "name": "glyph-globe",
+   "url": "https://www.originkit.dev/components/glyph-globe"
+  },
+  {
+   "name": "glyph-ring",
+   "url": "https://www.originkit.dev/components/glyph-ring"
+  },
+  {
+   "name": "glyph-ripple",
+   "url": "https://www.originkit.dev/components/glyph-ripple"
+  },
+  {
+   "name": "glyph-tumbler",
+   "url": "https://www.originkit.dev/components/glyph-tumbler"
+  },
+  {
+   "name": "glyph-wall",
+   "url": "https://www.originkit.dev/components/glyph-wall"
+  },
+  {
+   "name": "gradient-text",
+   "url": "https://www.originkit.dev/components/gradient-text"
+  },
+  {
+   "name": "grain-mass",
+   "url": "https://www.originkit.dev/components/grain-mass"
+  },
+  {
+   "name": "grain-ring",
+   "url": "https://www.originkit.dev/components/grain-ring"
+  },
+  {
+   "name": "grainy-carousel",
+   "url": "https://www.originkit.dev/components/grainy-carousel"
+  },
+  {
+   "name": "grass-field",
+   "url": "https://www.originkit.dev/components/grass-field"
+  },
+  {
+   "name": "gravitational-vortex",
+   "url": "https://www.originkit.dev/components/gravitational-vortex"
+  },
+  {
+   "name": "gravitygallery",
+   "url": "https://www.originkit.dev/components/gravitygallery"
+  },
+  {
+   "name": "grid-hole",
+   "url": "https://www.originkit.dev/components/grid-hole"
+  },
+  {
+   "name": "grid-massing",
+   "url": "https://www.originkit.dev/components/grid-massing"
+  },
+  {
+   "name": "gyro-loader",
+   "url": "https://www.originkit.dev/components/gyro-loader"
+  },
+  {
+   "name": "gyro-rings",
+   "url": "https://www.originkit.dev/components/gyro-rings"
+  },
+  {
+   "name": "hairline-loader",
+   "url": "https://www.originkit.dev/components/hairline-loader"
+  },
+  {
+   "name": "halftone-bloom",
+   "url": "https://www.originkit.dev/components/halftone-bloom"
+  },
+  {
+   "name": "halftone-pulse",
+   "url": "https://www.originkit.dev/components/halftone-pulse"
+  },
+  {
+   "name": "hammer-strike",
+   "url": "https://www.originkit.dev/components/hammer-strike"
+  },
+  {
+   "name": "harmonic-shell",
+   "url": "https://www.originkit.dev/components/harmonic-shell"
+  },
+  {
+   "name": "helix-shaft",
+   "url": "https://www.originkit.dev/components/helix-shaft"
+  },
+  {
+   "name": "hex-comb",
+   "url": "https://www.originkit.dev/components/hex-comb"
+  },
+  {
+   "name": "hex-flux",
+   "url": "https://www.originkit.dev/components/hex-flux"
+  },
+  {
+   "name": "hex-shaft",
+   "url": "https://www.originkit.dev/components/hex-shaft"
+  },
+  {
+   "name": "hover-image-reveal",
+   "url": "https://www.originkit.dev/components/hover-image-reveal"
+  },
+  {
+   "name": "hyperspace",
+   "url": "https://www.originkit.dev/components/hyperspace"
+  },
+  {
+   "name": "image-flipper",
+   "url": "https://www.originkit.dev/components/image-flipper"
+  },
+  {
+   "name": "image-grid",
+   "url": "https://www.originkit.dev/components/image-grid"
+  },
+  {
+   "name": "image-group-circle",
+   "url": "https://www.originkit.dev/components/image-group-circle"
+  },
+  {
+   "name": "image-magnifier",
+   "url": "https://www.originkit.dev/components/image-magnifier"
+  },
+  {
+   "name": "image-motion-trail",
+   "url": "https://www.originkit.dev/components/image-motion-trail"
+  },
+  {
+   "name": "image-reveal",
+   "url": "https://www.originkit.dev/components/image-reveal"
+  },
+  {
+   "name": "image-ripple",
+   "url": "https://www.originkit.dev/components/image-ripple"
+  },
+  {
+   "name": "image-spotlight",
+   "url": "https://www.originkit.dev/components/image-spotlight"
+  },
+  {
+   "name": "imagefold",
+   "url": "https://www.originkit.dev/components/imagefold"
+  },
+  {
+   "name": "imagegallery",
+   "url": "https://www.originkit.dev/components/imagegallery"
+  },
+  {
+   "name": "infinite-hole",
+   "url": "https://www.originkit.dev/components/infinite-hole"
+  },
+  {
+   "name": "infinite-stairs",
+   "url": "https://www.originkit.dev/components/infinite-stairs"
+  },
+  {
+   "name": "infinite-tendrils",
+   "url": "https://www.originkit.dev/components/infinite-tendrils"
+  },
+  {
+   "name": "infinite-text-passage",
+   "url": "https://www.originkit.dev/components/infinite-text-passage"
+  },
+  {
+   "name": "infinitegallery",
+   "url": "https://www.originkit.dev/components/infinitegallery"
+  },
+  {
+   "name": "infinity-trail",
+   "url": "https://www.originkit.dev/components/infinity-trail"
+  },
+  {
+   "name": "ink-current",
+   "url": "https://www.originkit.dev/components/ink-current"
+  },
+  {
+   "name": "ink-flow-field",
+   "url": "https://www.originkit.dev/components/ink-flow-field"
+  },
+  {
+   "name": "ink-plume",
+   "url": "https://www.originkit.dev/components/ink-plume"
+  },
+  {
+   "name": "ink-wake",
+   "url": "https://www.originkit.dev/components/ink-wake"
+  },
+  {
+   "name": "inkbleed",
+   "url": "https://www.originkit.dev/components/inkbleed"
+  },
+  {
+   "name": "inkbleed-cursor",
+   "url": "https://www.originkit.dev/components/inkbleed-cursor"
+  },
+  {
+   "name": "interactive-droplets",
+   "url": "https://www.originkit.dev/components/interactive-droplets"
+  },
+  {
+   "name": "interactive-grid",
+   "url": "https://www.originkit.dev/components/interactive-grid"
+  },
+  {
+   "name": "interactive-landscape",
+   "url": "https://www.originkit.dev/components/interactive-landscape"
+  },
+  {
+   "name": "iso-cube-trail",
+   "url": "https://www.originkit.dev/components/iso-cube-trail"
+  },
+  {
+   "name": "isometric-squares",
+   "url": "https://www.originkit.dev/components/isometric-squares"
+  },
+  {
+   "name": "jade-bagel",
+   "url": "https://www.originkit.dev/components/jade-bagel"
+  },
+  {
+   "name": "juiceeffect",
+   "url": "https://www.originkit.dev/components/juiceeffect"
+  },
+  {
+   "name": "keycap-button",
+   "url": "https://www.originkit.dev/components/keycap-button"
+  },
+  {
+   "name": "keycap-wall",
+   "url": "https://www.originkit.dev/components/keycap-wall"
+  },
+  {
+   "name": "kinetic-text",
+   "url": "https://www.originkit.dev/components/kinetic-text"
+  },
+  {
+   "name": "kineticgrid",
+   "url": "https://www.originkit.dev/components/kineticgrid"
+  },
+  {
+   "name": "label-slide-button",
+   "url": "https://www.originkit.dev/components/label-slide-button"
+  },
+  {
+   "name": "lattice-flight",
+   "url": "https://www.originkit.dev/components/lattice-flight"
+  },
+  {
+   "name": "lava-lamp",
+   "url": "https://www.originkit.dev/components/lava-lamp"
+  },
+  {
+   "name": "leaf-fall",
+   "url": "https://www.originkit.dev/components/leaf-fall"
+  },
+  {
+   "name": "lenticular-duo",
+   "url": "https://www.originkit.dev/components/lenticular-duo"
+  },
+  {
+   "name": "letter-drop",
+   "url": "https://www.originkit.dev/components/letter-drop"
+  },
+  {
+   "name": "letter-flue",
+   "url": "https://www.originkit.dev/components/letter-flue"
+  },
+  {
+   "name": "letter-swing",
+   "url": "https://www.originkit.dev/components/letter-swing"
+  },
+  {
+   "name": "light-bloom",
+   "url": "https://www.originkit.dev/components/light-bloom"
+  },
+  {
+   "name": "light-cables",
+   "url": "https://www.originkit.dev/components/light-cables"
+  },
+  {
+   "name": "light-curtain",
+   "url": "https://www.originkit.dev/components/light-curtain"
+  },
+  {
+   "name": "light-glass-button",
+   "url": "https://www.originkit.dev/components/light-glass-button"
+  },
+  {
+   "name": "light-shaft-text",
+   "url": "https://www.originkit.dev/components/light-shaft-text"
+  },
+  {
+   "name": "lightfall",
+   "url": "https://www.originkit.dev/components/lightfall"
+  },
+  {
+   "name": "lightning-cursor",
+   "url": "https://www.originkit.dev/components/lightning-cursor"
+  },
+  {
+   "name": "line-ripple-background",
+   "url": "https://www.originkit.dev/components/line-ripple-background"
+  },
+  {
+   "name": "link-preview",
+   "url": "https://www.originkit.dev/components/link-preview"
+  },
+  {
+   "name": "liquid-burn-reveal",
+   "url": "https://www.originkit.dev/components/liquid-burn-reveal"
+  },
+  {
+   "name": "liquid-carve-button",
+   "url": "https://www.originkit.dev/components/liquid-carve-button"
+  },
+  {
+   "name": "liquid-chrome",
+   "url": "https://www.originkit.dev/components/liquid-chrome"
+  },
+  {
+   "name": "liquid-distortion",
+   "url": "https://www.originkit.dev/components/liquid-distortion"
+  },
+  {
+   "name": "liquid-film",
+   "url": "https://www.originkit.dev/components/liquid-film"
+  },
+  {
+   "name": "liquid-glass-carousel",
+   "url": "https://www.originkit.dev/components/liquid-glass-carousel"
+  },
+  {
+   "name": "liquid-glass-cube",
+   "url": "https://www.originkit.dev/components/liquid-glass-cube"
+  },
+  {
+   "name": "liquid-grid",
+   "url": "https://www.originkit.dev/components/liquid-grid"
+  },
+  {
+   "name": "liquid-hover",
+   "url": "https://www.originkit.dev/components/liquid-hover"
+  },
+  {
+   "name": "liquid-mask-cursor",
+   "url": "https://www.originkit.dev/components/liquid-mask-cursor"
+  },
+  {
+   "name": "liquid-metal",
+   "url": "https://www.originkit.dev/components/liquid-metal"
+  },
+  {
+   "name": "liquid-sphere",
+   "url": "https://www.originkit.dev/components/liquid-sphere"
+  },
+  {
+   "name": "liquid-vortex",
+   "url": "https://www.originkit.dev/components/liquid-vortex"
+  },
+  {
+   "name": "live-chat",
+   "url": "https://www.originkit.dev/components/live-chat"
+  },
+  {
+   "name": "low-poly-asteroid",
+   "url": "https://www.originkit.dev/components/low-poly-asteroid"
+  },
+  {
+   "name": "luminous-prism",
+   "url": "https://www.originkit.dev/components/luminous-prism"
+  },
+  {
+   "name": "luminous-text",
+   "url": "https://www.originkit.dev/components/luminous-text"
+  },
+  {
+   "name": "magazine-flip",
+   "url": "https://www.originkit.dev/components/magazine-flip"
+  },
+  {
+   "name": "magic-marble",
+   "url": "https://www.originkit.dev/components/magic-marble"
+  },
+  {
+   "name": "magnet-filaments",
+   "url": "https://www.originkit.dev/components/magnet-filaments"
+  },
+  {
+   "name": "magnetic-hover-button",
+   "url": "https://www.originkit.dev/components/magnetic-hover-button"
+  },
+  {
+   "name": "magneticcarousel",
+   "url": "https://www.originkit.dev/components/magneticcarousel"
+  },
+  {
+   "name": "mandala-bloom",
+   "url": "https://www.originkit.dev/components/mandala-bloom"
+  },
+  {
+   "name": "many-thin-light",
+   "url": "https://www.originkit.dev/components/many-thin-light"
+  },
+  {
+   "name": "mask-text-reveal",
+   "url": "https://www.originkit.dev/components/mask-text-reveal"
+  },
+  {
+   "name": "masthead-reveal",
+   "url": "https://www.originkit.dev/components/masthead-reveal"
+  },
+  {
+   "name": "matrix-junction",
+   "url": "https://www.originkit.dev/components/matrix-junction"
+  },
+  {
+   "name": "mech-keyboard",
+   "url": "https://www.originkit.dev/components/mech-keyboard"
+  },
+  {
+   "name": "mechanical-flip",
+   "url": "https://www.originkit.dev/components/mechanical-flip"
+  },
+  {
+   "name": "membrane-bloom",
+   "url": "https://www.originkit.dev/components/membrane-bloom"
+  },
+  {
+   "name": "meshtexthover",
+   "url": "https://www.originkit.dev/components/meshtexthover"
+  },
+  {
+   "name": "metal-flower",
+   "url": "https://www.originkit.dev/components/metal-flower"
+  },
+  {
+   "name": "metal-frame-cross",
+   "url": "https://www.originkit.dev/components/metal-frame-cross"
+  },
+  {
+   "name": "metal-lap-joint",
+   "url": "https://www.originkit.dev/components/metal-lap-joint"
+  },
+  {
+   "name": "metal-rosette",
+   "url": "https://www.originkit.dev/components/metal-rosette"
+  },
+  {
+   "name": "metal-rubics",
+   "url": "https://www.originkit.dev/components/metal-rubics"
+  },
+  {
+   "name": "metal-unfold",
+   "url": "https://www.originkit.dev/components/metal-unfold"
+  },
+  {
+   "name": "metallic-dodecahedron",
+   "url": "https://www.originkit.dev/components/metallic-dodecahedron"
+  },
+  {
+   "name": "mirror-shards",
+   "url": "https://www.originkit.dev/components/mirror-shards"
+  },
+  {
+   "name": "miura-image-fold",
+   "url": "https://www.originkit.dev/components/miura-image-fold"
+  },
+  {
+   "name": "moire-lattice",
+   "url": "https://www.originkit.dev/components/moire-lattice"
+  },
+  {
+   "name": "molten-cracks",
+   "url": "https://www.originkit.dev/components/molten-cracks"
+  },
+  {
+   "name": "money-rain",
+   "url": "https://www.originkit.dev/components/money-rain"
+  },
+  {
+   "name": "mood-field",
+   "url": "https://www.originkit.dev/components/mood-field"
+  },
+  {
+   "name": "morph-solid",
+   "url": "https://www.originkit.dev/components/morph-solid"
+  },
+  {
+   "name": "morphing-glyph-cloud",
+   "url": "https://www.originkit.dev/components/morphing-glyph-cloud"
+  },
+  {
+   "name": "morphing-rings",
+   "url": "https://www.originkit.dev/components/morphing-rings"
+  },
+  {
+   "name": "mosaic-flip",
+   "url": "https://www.originkit.dev/components/mosaic-flip"
+  },
+  {
+   "name": "mosaic-lens",
+   "url": "https://www.originkit.dev/components/mosaic-lens"
+  },
+  {
+   "name": "motion-orbit",
+   "url": "https://www.originkit.dev/components/motion-orbit"
+  },
+  {
+   "name": "motion-text-trail",
+   "url": "https://www.originkit.dev/components/motion-text-trail"
+  },
+  {
+   "name": "motion-text-wave",
+   "url": "https://www.originkit.dev/components/motion-text-wave"
+  },
+  {
+   "name": "moving-gradient-button",
+   "url": "https://www.originkit.dev/components/moving-gradient-button"
+  },
+  {
+   "name": "multi-effect-cursor",
+   "url": "https://www.originkit.dev/components/multi-effect-cursor"
+  },
+  {
+   "name": "nacre-spine",
+   "url": "https://www.originkit.dev/components/nacre-spine"
+  },
+  {
+   "name": "nebula-drift",
+   "url": "https://www.originkit.dev/components/nebula-drift"
+  },
+  {
+   "name": "neon-border",
+   "url": "https://www.originkit.dev/components/neon-border"
+  },
+  {
+   "name": "neon-glow-button",
+   "url": "https://www.originkit.dev/components/neon-glow-button"
+  },
+  {
+   "name": "network-lines",
+   "url": "https://www.originkit.dev/components/network-lines"
+  },
+  {
+   "name": "newton-cradle",
+   "url": "https://www.originkit.dev/components/newton-cradle"
+  },
+  {
+   "name": "noise-wipe",
+   "url": "https://www.originkit.dev/components/noise-wipe"
+  },
+  {
+   "name": "ocean-background",
+   "url": "https://www.originkit.dev/components/ocean-background"
+  },
+  {
+   "name": "ocean-swell",
+   "url": "https://www.originkit.dev/components/ocean-swell"
+  },
+  {
+   "name": "ocean-waves",
+   "url": "https://www.originkit.dev/components/ocean-waves"
+  },
+  {
+   "name": "one-solid-glass",
+   "url": "https://www.originkit.dev/components/one-solid-glass"
+  },
+  {
+   "name": "orbit-border-button",
+   "url": "https://www.originkit.dev/components/orbit-border-button"
+  },
+  {
+   "name": "orbit-bundle",
+   "url": "https://www.originkit.dev/components/orbit-bundle"
+  },
+  {
+   "name": "origami-loop",
+   "url": "https://www.originkit.dev/components/origami-loop"
+  },
+  {
+   "name": "outline-typeflow",
+   "url": "https://www.originkit.dev/components/outline-typeflow"
+  },
+  {
+   "name": "paper-image",
+   "url": "https://www.originkit.dev/components/paper-image"
+  },
+  {
+   "name": "paper-quilling",
+   "url": "https://www.originkit.dev/components/paper-quilling"
+  },
+  {
+   "name": "paper-ridge",
+   "url": "https://www.originkit.dev/components/paper-ridge"
+  },
+  {
+   "name": "particle-dome",
+   "url": "https://www.originkit.dev/components/particle-dome"
+  },
+  {
+   "name": "particle-drift",
+   "url": "https://www.originkit.dev/components/particle-drift"
+  },
+  {
+   "name": "particle-enfold",
+   "url": "https://www.originkit.dev/components/particle-enfold"
+  },
+  {
+   "name": "particle-gimbal",
+   "url": "https://www.originkit.dev/components/particle-gimbal"
+  },
+  {
+   "name": "particle-interlock",
+   "url": "https://www.originkit.dev/components/particle-interlock"
+  },
+  {
+   "name": "particle-jupiter",
+   "url": "https://www.originkit.dev/components/particle-jupiter"
+  },
+  {
+   "name": "particle-pulse",
+   "url": "https://www.originkit.dev/components/particle-pulse"
+  },
+  {
+   "name": "particle-revolve",
+   "url": "https://www.originkit.dev/components/particle-revolve"
+  },
+  {
+   "name": "particle-saturn",
+   "url": "https://www.originkit.dev/components/particle-saturn"
+  },
+  {
+   "name": "particle-simulation",
+   "url": "https://www.originkit.dev/components/particle-simulation"
+  },
+  {
+   "name": "particle-surge",
+   "url": "https://www.originkit.dev/components/particle-surge"
+  },
+  {
+   "name": "particle-tether",
+   "url": "https://www.originkit.dev/components/particle-tether"
+  },
+  {
+   "name": "particle-winding",
+   "url": "https://www.originkit.dev/components/particle-winding"
+  },
+  {
+   "name": "particle-wobble",
+   "url": "https://www.originkit.dev/components/particle-wobble"
+  },
+  {
+   "name": "particlesphere",
+   "url": "https://www.originkit.dev/components/particlesphere"
+  },
+  {
+   "name": "particletunnel",
+   "url": "https://www.originkit.dev/components/particletunnel"
+  },
+  {
+   "name": "path-gallery",
+   "url": "https://www.originkit.dev/components/path-gallery"
+  },
+  {
+   "name": "petal-vortex",
+   "url": "https://www.originkit.dev/components/petal-vortex"
+  },
+  {
+   "name": "petrol-glob",
+   "url": "https://www.originkit.dev/components/petrol-glob"
+  },
+  {
+   "name": "phosphor",
+   "url": "https://www.originkit.dev/components/phosphor"
+  },
+  {
+   "name": "phyllotaxis-disc",
+   "url": "https://www.originkit.dev/components/phyllotaxis-disc"
+  },
+  {
+   "name": "pixel-arc",
+   "url": "https://www.originkit.dev/components/pixel-arc"
+  },
+  {
+   "name": "pixel-distortion",
+   "url": "https://www.originkit.dev/components/pixel-distortion"
+  },
+  {
+   "name": "pixel-led-display",
+   "url": "https://www.originkit.dev/components/pixel-led-display"
+  },
+  {
+   "name": "pixel-reveal",
+   "url": "https://www.originkit.dev/components/pixel-reveal"
+  },
+  {
+   "name": "pixel-run-game",
+   "url": "https://www.originkit.dev/components/pixel-run-game"
+  },
+  {
+   "name": "pixel-tetris",
+   "url": "https://www.originkit.dev/components/pixel-tetris"
+  },
+  {
+   "name": "pixel-trail",
+   "url": "https://www.originkit.dev/components/pixel-trail"
+  },
+  {
+   "name": "pixel-unfold",
+   "url": "https://www.originkit.dev/components/pixel-unfold"
+  },
+  {
+   "name": "pixelate-image",
+   "url": "https://www.originkit.dev/components/pixelate-image"
+  },
+  {
+   "name": "pixelated-frame",
+   "url": "https://www.originkit.dev/components/pixelated-frame"
+  },
+  {
+   "name": "pixelcard",
+   "url": "https://www.originkit.dev/components/pixelcard"
+  },
+  {
+   "name": "pixeldrift",
+   "url": "https://www.originkit.dev/components/pixeldrift"
+  },
+  {
+   "name": "pixelreveal",
+   "url": "https://www.originkit.dev/components/pixelreveal"
+  },
+  {
+   "name": "plasma-ring",
+   "url": "https://www.originkit.dev/components/plasma-ring"
+  },
+  {
+   "name": "plate-stack",
+   "url": "https://www.originkit.dev/components/plate-stack"
+  },
+  {
+   "name": "point-dna-helix",
+   "url": "https://www.originkit.dev/components/point-dna-helix"
+  },
+  {
+   "name": "popcorn-text",
+   "url": "https://www.originkit.dev/components/popcorn-text"
+  },
+  {
+   "name": "predictive-arc",
+   "url": "https://www.originkit.dev/components/predictive-arc"
+  },
+  {
+   "name": "prism-burst",
+   "url": "https://www.originkit.dev/components/prism-burst"
+  },
+  {
+   "name": "prism-film",
+   "url": "https://www.originkit.dev/components/prism-film"
+  },
+  {
+   "name": "prism-grid",
+   "url": "https://www.originkit.dev/components/prism-grid"
+  },
+  {
+   "name": "prism-ring-button",
+   "url": "https://www.originkit.dev/components/prism-ring-button"
+  },
+  {
+   "name": "prisma-smoke",
+   "url": "https://www.originkit.dev/components/prisma-smoke"
+  },
+  {
+   "name": "proximityorbit",
+   "url": "https://www.originkit.dev/components/proximityorbit"
+  },
+  {
+   "name": "pulsating-border",
+   "url": "https://www.originkit.dev/components/pulsating-border"
+  },
+  {
+   "name": "pulse-grid",
+   "url": "https://www.originkit.dev/components/pulse-grid"
+  },
+  {
+   "name": "pulse-lines",
+   "url": "https://www.originkit.dev/components/pulse-lines"
+  },
+  {
+   "name": "pulse-roll",
+   "url": "https://www.originkit.dev/components/pulse-roll"
+  },
+  {
+   "name": "pulsing-ripple",
+   "url": "https://www.originkit.dev/components/pulsing-ripple"
+  },
+  {
+   "name": "purple-wireframe-room",
+   "url": "https://www.originkit.dev/components/purple-wireframe-room"
+  },
+  {
+   "name": "radial-reveal-button",
+   "url": "https://www.originkit.dev/components/radial-reveal-button"
+  },
+  {
+   "name": "rain-puddle",
+   "url": "https://www.originkit.dev/components/rain-puddle"
+  },
+  {
+   "name": "random-letter-swap",
+   "url": "https://www.originkit.dev/components/random-letter-swap"
+  },
+  {
+   "name": "ray-column",
+   "url": "https://www.originkit.dev/components/ray-column"
+  },
+  {
+   "name": "reactive-lines",
+   "url": "https://www.originkit.dev/components/reactive-lines"
+  },
+  {
+   "name": "reactivegrid",
+   "url": "https://www.originkit.dev/components/reactivegrid"
+  },
+  {
+   "name": "recursive-erosion",
+   "url": "https://www.originkit.dev/components/recursive-erosion"
+  },
+  {
+   "name": "reflect-background",
+   "url": "https://www.originkit.dev/components/reflect-background"
+  },
+  {
+   "name": "reflect-shader",
+   "url": "https://www.originkit.dev/components/reflect-shader"
+  },
+  {
+   "name": "refract-gem",
+   "url": "https://www.originkit.dev/components/refract-gem"
+  },
+  {
+   "name": "repetition-hover",
+   "url": "https://www.originkit.dev/components/repetition-hover"
+  },
+  {
+   "name": "ribbon-glow",
+   "url": "https://www.originkit.dev/components/ribbon-glow"
+  },
+  {
+   "name": "ribbon-trails",
+   "url": "https://www.originkit.dev/components/ribbon-trails"
+  },
+  {
+   "name": "ridge-parallax",
+   "url": "https://www.originkit.dev/components/ridge-parallax"
+  },
+  {
+   "name": "ring-gallery",
+   "url": "https://www.originkit.dev/components/ring-gallery"
+  },
+  {
+   "name": "ripple-field",
+   "url": "https://www.originkit.dev/components/ripple-field"
+  },
+  {
+   "name": "ripple-image-card",
+   "url": "https://www.originkit.dev/components/ripple-image-card"
+  },
+  {
+   "name": "ripple-study",
+   "url": "https://www.originkit.dev/components/ripple-study"
+  },
+  {
+   "name": "risinglines",
+   "url": "https://www.originkit.dev/components/risinglines"
+  },
+  {
+   "name": "rolling-letters",
+   "url": "https://www.originkit.dev/components/rolling-letters"
+  },
+  {
+   "name": "rope",
+   "url": "https://www.originkit.dev/components/rope"
+  },
+  {
+   "name": "rotating-carousel",
+   "url": "https://www.originkit.dev/components/rotating-carousel"
+  },
+  {
+   "name": "rotating-gallery",
+   "url": "https://www.originkit.dev/components/rotating-gallery"
+  },
+  {
+   "name": "rotunda-carousel",
+   "url": "https://www.originkit.dev/components/rotunda-carousel"
+  },
+  {
+   "name": "roundcarousel",
+   "url": "https://www.originkit.dev/components/roundcarousel"
+  },
+  {
+   "name": "rubber-mesh",
+   "url": "https://www.originkit.dev/components/rubber-mesh"
+  },
+  {
+   "name": "rubber-spheres",
+   "url": "https://www.originkit.dev/components/rubber-spheres"
+  },
+  {
+   "name": "satin-flow",
+   "url": "https://www.originkit.dev/components/satin-flow"
+  },
+  {
+   "name": "satin-ribbon",
+   "url": "https://www.originkit.dev/components/satin-ribbon"
+  },
+  {
+   "name": "scan-effect",
+   "url": "https://www.originkit.dev/components/scan-effect"
+  },
+  {
+   "name": "scan-grid-button",
+   "url": "https://www.originkit.dev/components/scan-grid-button"
+  },
+  {
+   "name": "scrambletext",
+   "url": "https://www.originkit.dev/components/scrambletext"
+  },
+  {
+   "name": "scroll-buldge",
+   "url": "https://www.originkit.dev/components/scroll-buldge"
+  },
+  {
+   "name": "scroll-text-highlight",
+   "url": "https://www.originkit.dev/components/scroll-text-highlight"
+  },
+  {
+   "name": "scroll-text-reveal",
+   "url": "https://www.originkit.dev/components/scroll-text-reveal"
+  },
+  {
+   "name": "scroll-wave-field",
+   "url": "https://www.originkit.dev/components/scroll-wave-field"
+  },
+  {
+   "name": "shadow-cast",
+   "url": "https://www.originkit.dev/components/shadow-cast"
+  },
+  {
+   "name": "shadow-play",
+   "url": "https://www.originkit.dev/components/shadow-play"
+  },
+  {
+   "name": "shape-mosaic",
+   "url": "https://www.originkit.dev/components/shape-mosaic"
+  },
+  {
+   "name": "shattered-glass",
+   "url": "https://www.originkit.dev/components/shattered-glass"
+  },
+  {
+   "name": "shine-card",
+   "url": "https://www.originkit.dev/components/shine-card"
+  },
+  {
+   "name": "shiny-droplet",
+   "url": "https://www.originkit.dev/components/shiny-droplet"
+  },
+  {
+   "name": "shiny-pill",
+   "url": "https://www.originkit.dev/components/shiny-pill"
+  },
+  {
+   "name": "silk-fringe",
+   "url": "https://www.originkit.dev/components/silk-fringe"
+  },
+  {
+   "name": "silk-waves",
+   "url": "https://www.originkit.dev/components/silk-waves"
+  },
+  {
+   "name": "single-clear-faceted",
+   "url": "https://www.originkit.dev/components/single-clear-faceted"
+  },
+  {
+   "name": "single-glossy-sphere",
+   "url": "https://www.originkit.dev/components/single-glossy-sphere"
+  },
+  {
+   "name": "six-chunky-cubes",
+   "url": "https://www.originkit.dev/components/six-chunky-cubes"
+  },
+  {
+   "name": "skew-in-text-effect",
+   "url": "https://www.originkit.dev/components/skew-in-text-effect"
+  },
+  {
+   "name": "slice-blade",
+   "url": "https://www.originkit.dev/components/slice-blade"
+  },
+  {
+   "name": "slide-fill-button",
+   "url": "https://www.originkit.dev/components/slide-fill-button"
+  },
+  {
+   "name": "smokey-shader",
+   "url": "https://www.originkit.dev/components/smokey-shader"
+  },
+  {
+   "name": "smokytext",
+   "url": "https://www.originkit.dev/components/smokytext"
+  },
+  {
+   "name": "smooth-scroll-slider",
+   "url": "https://www.originkit.dev/components/smooth-scroll-slider"
+  },
+  {
+   "name": "snake-grid",
+   "url": "https://www.originkit.dev/components/snake-grid"
+  },
+  {
+   "name": "snowfall",
+   "url": "https://www.originkit.dev/components/snowfall"
+  },
+  {
+   "name": "solar-flare",
+   "url": "https://www.originkit.dev/components/solar-flare"
+  },
+  {
+   "name": "solar-particle-globe",
+   "url": "https://www.originkit.dev/components/solar-particle-globe"
+  },
+  {
+   "name": "sonar-bloom",
+   "url": "https://www.originkit.dev/components/sonar-bloom"
+  },
+  {
+   "name": "spark-lattice",
+   "url": "https://www.originkit.dev/components/spark-lattice"
+  },
+  {
+   "name": "sphere-gallery-3d",
+   "url": "https://www.originkit.dev/components/sphere-gallery-3d"
+  },
+  {
+   "name": "spider-web",
+   "url": "https://www.originkit.dev/components/spider-web"
+  },
+  {
+   "name": "spin-carousel",
+   "url": "https://www.originkit.dev/components/spin-carousel"
+  },
+  {
+   "name": "spin-cursor",
+   "url": "https://www.originkit.dev/components/spin-cursor"
+  },
+  {
+   "name": "spinimage",
+   "url": "https://www.originkit.dev/components/spinimage"
+  },
+  {
+   "name": "spiral-glass-hollow",
+   "url": "https://www.originkit.dev/components/spiral-glass-hollow"
+  },
+  {
+   "name": "spiral-text",
+   "url": "https://www.originkit.dev/components/spiral-text"
+  },
+  {
+   "name": "spiral-weave",
+   "url": "https://www.originkit.dev/components/spiral-weave"
+  },
+  {
+   "name": "spiralimages",
+   "url": "https://www.originkit.dev/components/spiralimages"
+  },
+  {
+   "name": "spotlight-frames",
+   "url": "https://www.originkit.dev/components/spotlight-frames"
+  },
+  {
+   "name": "spotlighttext",
+   "url": "https://www.originkit.dev/components/spotlighttext"
+  },
+  {
+   "name": "spring-text",
+   "url": "https://www.originkit.dev/components/spring-text"
+  },
+  {
+   "name": "squish-cube",
+   "url": "https://www.originkit.dev/components/squish-cube"
+  },
+  {
+   "name": "stack-tower",
+   "url": "https://www.originkit.dev/components/stack-tower"
+  },
+  {
+   "name": "stacked-carousel",
+   "url": "https://www.originkit.dev/components/stacked-carousel"
+  },
+  {
+   "name": "stagger-text-rise",
+   "url": "https://www.originkit.dev/components/stagger-text-rise"
+  },
+  {
+   "name": "stained-glass",
+   "url": "https://www.originkit.dev/components/stained-glass"
+  },
+  {
+   "name": "star-burst-graph",
+   "url": "https://www.originkit.dev/components/star-burst-graph"
+  },
+  {
+   "name": "star-gate",
+   "url": "https://www.originkit.dev/components/star-gate"
+  },
+  {
+   "name": "starburst",
+   "url": "https://www.originkit.dev/components/starburst"
+  },
+  {
+   "name": "stardust",
+   "url": "https://www.originkit.dev/components/stardust"
+  },
+  {
+   "name": "starfield-button",
+   "url": "https://www.originkit.dev/components/starfield-button"
+  },
+  {
+   "name": "stencil-moon",
+   "url": "https://www.originkit.dev/components/stencil-moon"
+  },
+  {
+   "name": "sticker-peel",
+   "url": "https://www.originkit.dev/components/sticker-peel"
+  },
+  {
+   "name": "stream-convergence",
+   "url": "https://www.originkit.dev/components/stream-convergence"
+  },
+  {
+   "name": "striped-waves",
+   "url": "https://www.originkit.dev/components/striped-waves"
+  },
+  {
+   "name": "structure-flow",
+   "url": "https://www.originkit.dev/components/structure-flow"
+  },
+  {
+   "name": "svgparticles",
+   "url": "https://www.originkit.dev/components/svgparticles"
+  },
+  {
+   "name": "swell-grid",
+   "url": "https://www.originkit.dev/components/swell-grid"
+  },
+  {
+   "name": "swipe-stack",
+   "url": "https://www.originkit.dev/components/swipe-stack"
+  },
+  {
+   "name": "swirl-flow",
+   "url": "https://www.originkit.dev/components/swirl-flow"
+  },
+  {
+   "name": "sync-scroll",
+   "url": "https://www.originkit.dev/components/sync-scroll"
+  },
+  {
+   "name": "tactile-button",
+   "url": "https://www.originkit.dev/components/tactile-button"
+  },
+  {
+   "name": "taffy-chain",
+   "url": "https://www.originkit.dev/components/taffy-chain"
+  },
+  {
+   "name": "text-button-cursor",
+   "url": "https://www.originkit.dev/components/text-button-cursor"
+  },
+  {
+   "name": "text-carousel",
+   "url": "https://www.originkit.dev/components/text-carousel"
+  },
+  {
+   "name": "text-colour-sweep",
+   "url": "https://www.originkit.dev/components/text-colour-sweep"
+  },
+  {
+   "name": "text-distortion",
+   "url": "https://www.originkit.dev/components/text-distortion"
+  },
+  {
+   "name": "text-dither",
+   "url": "https://www.originkit.dev/components/text-dither"
+  },
+  {
+   "name": "text-emerge",
+   "url": "https://www.originkit.dev/components/text-emerge"
+  },
+  {
+   "name": "text-fall",
+   "url": "https://www.originkit.dev/components/text-fall"
+  },
+  {
+   "name": "text-gather",
+   "url": "https://www.originkit.dev/components/text-gather"
+  },
+  {
+   "name": "text-noise",
+   "url": "https://www.originkit.dev/components/text-noise"
+  },
+  {
+   "name": "text-reveal-wall",
+   "url": "https://www.originkit.dev/components/text-reveal-wall"
+  },
+  {
+   "name": "text-ring",
+   "url": "https://www.originkit.dev/components/text-ring"
+  },
+  {
+   "name": "text-string",
+   "url": "https://www.originkit.dev/components/text-string"
+  },
+  {
+   "name": "text-vaporize",
+   "url": "https://www.originkit.dev/components/text-vaporize"
+  },
+  {
+   "name": "text-wave",
+   "url": "https://www.originkit.dev/components/text-wave"
+  },
+  {
+   "name": "text-wipe",
+   "url": "https://www.originkit.dev/components/text-wipe"
+  },
+  {
+   "name": "textlift",
+   "url": "https://www.originkit.dev/components/textlift"
+  },
+  {
+   "name": "textmorph",
+   "url": "https://www.originkit.dev/components/textmorph"
+  },
+  {
+   "name": "textpath",
+   "url": "https://www.originkit.dev/components/textpath"
+  },
+  {
+   "name": "thread-sphere",
+   "url": "https://www.originkit.dev/components/thread-sphere"
+  },
+  {
+   "name": "thunderstrike",
+   "url": "https://www.originkit.dev/components/thunderstrike"
+  },
+  {
+   "name": "ticker-delta",
+   "url": "https://www.originkit.dev/components/ticker-delta"
+  },
+  {
+   "name": "tile-cursor",
+   "url": "https://www.originkit.dev/components/tile-cursor"
+  },
+  {
+   "name": "tiles-loader",
+   "url": "https://www.originkit.dev/components/tiles-loader"
+  },
+  {
+   "name": "tilt-mosaic",
+   "url": "https://www.originkit.dev/components/tilt-mosaic"
+  },
+  {
+   "name": "time-swirl",
+   "url": "https://www.originkit.dev/components/time-swirl"
+  },
+  {
+   "name": "toonfireball",
+   "url": "https://www.originkit.dev/components/toonfireball"
+  },
+  {
+   "name": "topo-contour",
+   "url": "https://www.originkit.dev/components/topo-contour"
+  },
+  {
+   "name": "topology-field",
+   "url": "https://www.originkit.dev/components/topology-field"
+  },
+  {
+   "name": "tornado",
+   "url": "https://www.originkit.dev/components/tornado"
+  },
+  {
+   "name": "traffic-wave",
+   "url": "https://www.originkit.dev/components/traffic-wave"
+  },
+  {
+   "name": "transparent-glass-cube",
+   "url": "https://www.originkit.dev/components/transparent-glass-cube"
+  },
+  {
+   "name": "tunnel-wrap",
+   "url": "https://www.originkit.dev/components/tunnel-wrap"
+  },
+  {
+   "name": "twin-galaxy-rings",
+   "url": "https://www.originkit.dev/components/twin-galaxy-rings"
+  },
+  {
+   "name": "twist-ribbon",
+   "url": "https://www.originkit.dev/components/twist-ribbon"
+  },
+  {
+   "name": "type-sequence",
+   "url": "https://www.originkit.dev/components/type-sequence"
+  },
+  {
+   "name": "type-slab-field",
+   "url": "https://www.originkit.dev/components/type-slab-field"
+  },
+  {
+   "name": "typewriter",
+   "url": "https://www.originkit.dev/components/typewriter"
+  },
+  {
+   "name": "usercursor",
+   "url": "https://www.originkit.dev/components/usercursor"
+  },
+  {
+   "name": "vector-wordmark",
+   "url": "https://www.originkit.dev/components/vector-wordmark"
+  },
+  {
+   "name": "vertical-parallax",
+   "url": "https://www.originkit.dev/components/vertical-parallax"
+  },
+  {
+   "name": "video-text",
+   "url": "https://www.originkit.dev/components/video-text"
+  },
+  {
+   "name": "void-spiral",
+   "url": "https://www.originkit.dev/components/void-spiral"
+  },
+  {
+   "name": "vortex-dust",
+   "url": "https://www.originkit.dev/components/vortex-dust"
+  },
+  {
+   "name": "vortex-dust-fall",
+   "url": "https://www.originkit.dev/components/vortex-dust-fall"
+  },
+  {
+   "name": "voxel-sphere",
+   "url": "https://www.originkit.dev/components/voxel-sphere"
+  },
+  {
+   "name": "warp-field",
+   "url": "https://www.originkit.dev/components/warp-field"
+  },
+  {
+   "name": "water-ball",
+   "url": "https://www.originkit.dev/components/water-ball"
+  },
+  {
+   "name": "water-button",
+   "url": "https://www.originkit.dev/components/water-button"
+  },
+  {
+   "name": "wave-arcs",
+   "url": "https://www.originkit.dev/components/wave-arcs"
+  },
+  {
+   "name": "wave-grid",
+   "url": "https://www.originkit.dev/components/wave-grid"
+  },
+  {
+   "name": "wave-ribbons",
+   "url": "https://www.originkit.dev/components/wave-ribbons"
+  },
+  {
+   "name": "wax-seal",
+   "url": "https://www.originkit.dev/components/wax-seal"
+  },
+  {
+   "name": "web-gl-carousel",
+   "url": "https://www.originkit.dev/components/web-gl-carousel"
+  },
+  {
+   "name": "weight-hover",
+   "url": "https://www.originkit.dev/components/weight-hover"
+  },
+  {
+   "name": "wind-pyre",
+   "url": "https://www.originkit.dev/components/wind-pyre"
+  },
+  {
+   "name": "wire-terrain",
+   "url": "https://www.originkit.dev/components/wire-terrain"
+  },
+  {
+   "name": "wire-throat",
+   "url": "https://www.originkit.dev/components/wire-throat"
+  },
+  {
+   "name": "wobble-fence",
+   "url": "https://www.originkit.dev/components/wobble-fence"
+  },
+  {
+   "name": "word-globe",
+   "url": "https://www.originkit.dev/components/word-globe"
+  },
+  {
+   "name": "woven-sphere",
+   "url": "https://www.originkit.dev/components/woven-sphere"
+  },
+  {
+   "name": "xylophone-helix",
+   "url": "https://www.originkit.dev/components/xylophone-helix"
+  },
+  {
+   "name": "zoom-grid",
+   "url": "https://www.originkit.dev/components/zoom-grid"
+  }
+ ],
+ "sections": [
+  {
+   "name": "cta-01",
+   "url": "https://www.originkit.dev/sections/cta-01"
+  },
+  {
+   "name": "cta-02",
+   "url": "https://www.originkit.dev/sections/cta-02"
+  },
+  {
+   "name": "features-01",
+   "url": "https://www.originkit.dev/sections/features-01"
+  },
+  {
+   "name": "features-02",
+   "url": "https://www.originkit.dev/sections/features-02"
+  },
+  {
+   "name": "features-03",
+   "url": "https://www.originkit.dev/sections/features-03"
+  },
+  {
+   "name": "features-04",
+   "url": "https://www.originkit.dev/sections/features-04"
+  },
+  {
+   "name": "footer-01",
+   "url": "https://www.originkit.dev/sections/footer-01"
+  },
+  {
+   "name": "footer-02",
+   "url": "https://www.originkit.dev/sections/footer-02"
+  },
+  {
+   "name": "hero-01",
+   "url": "https://www.originkit.dev/sections/hero-01"
+  },
+  {
+   "name": "hero-02",
+   "url": "https://www.originkit.dev/sections/hero-02"
+  },
+  {
+   "name": "hero-03",
+   "url": "https://www.originkit.dev/sections/hero-03"
+  },
+  {
+   "name": "hero-04",
+   "url": "https://www.originkit.dev/sections/hero-04"
+  },
+  {
+   "name": "hero-05",
+   "url": "https://www.originkit.dev/sections/hero-05"
+  },
+  {
+   "name": "hero-06",
+   "url": "https://www.originkit.dev/sections/hero-06"
+  },
+  {
+   "name": "hero-07",
+   "url": "https://www.originkit.dev/sections/hero-07"
+  },
+  {
+   "name": "hero-08",
+   "url": "https://www.originkit.dev/sections/hero-08"
+  },
+  {
+   "name": "hero-09",
+   "url": "https://www.originkit.dev/sections/hero-09"
+  },
+  {
+   "name": "hero-10",
+   "url": "https://www.originkit.dev/sections/hero-10"
+  },
+  {
+   "name": "hero-11",
+   "url": "https://www.originkit.dev/sections/hero-11"
+  },
+  {
+   "name": "hero-12",
+   "url": "https://www.originkit.dev/sections/hero-12"
+  },
+  {
+   "name": "hero-13",
+   "url": "https://www.originkit.dev/sections/hero-13"
+  },
+  {
+   "name": "hero-14",
+   "url": "https://www.originkit.dev/sections/hero-14"
+  },
+  {
+   "name": "hero-15",
+   "url": "https://www.originkit.dev/sections/hero-15"
+  },
+  {
+   "name": "hero-16",
+   "url": "https://www.originkit.dev/sections/hero-16"
+  },
+  {
+   "name": "hero-17",
+   "url": "https://www.originkit.dev/sections/hero-17"
+  },
+  {
+   "name": "hero-18",
+   "url": "https://www.originkit.dev/sections/hero-18"
+  },
+  {
+   "name": "hero-19",
+   "url": "https://www.originkit.dev/sections/hero-19"
+  },
+  {
+   "name": "hero-20",
+   "url": "https://www.originkit.dev/sections/hero-20"
+  },
+  {
+   "name": "hero-21",
+   "url": "https://www.originkit.dev/sections/hero-21"
+  },
+  {
+   "name": "hero-22",
+   "url": "https://www.originkit.dev/sections/hero-22"
+  },
+  {
+   "name": "hero-23",
+   "url": "https://www.originkit.dev/sections/hero-23"
+  },
+  {
+   "name": "hero-24",
+   "url": "https://www.originkit.dev/sections/hero-24"
+  },
+  {
+   "name": "hero-25",
+   "url": "https://www.originkit.dev/sections/hero-25"
+  },
+  {
+   "name": "hero-26",
+   "url": "https://www.originkit.dev/sections/hero-26"
+  },
+  {
+   "name": "hero-27",
+   "url": "https://www.originkit.dev/sections/hero-27"
+  },
+  {
+   "name": "hero-28",
+   "url": "https://www.originkit.dev/sections/hero-28"
+  },
+  {
+   "name": "hero-29",
+   "url": "https://www.originkit.dev/sections/hero-29"
+  },
+  {
+   "name": "hero-30",
+   "url": "https://www.originkit.dev/sections/hero-30"
+  },
+  {
+   "name": "hero-31",
+   "url": "https://www.originkit.dev/sections/hero-31"
+  },
+  {
+   "name": "hero-32",
+   "url": "https://www.originkit.dev/sections/hero-32"
+  },
+  {
+   "name": "hero-33",
+   "url": "https://www.originkit.dev/sections/hero-33"
+  },
+  {
+   "name": "hero-34",
+   "url": "https://www.originkit.dev/sections/hero-34"
+  },
+  {
+   "name": "hero-35",
+   "url": "https://www.originkit.dev/sections/hero-35"
+  },
+  {
+   "name": "hero-36",
+   "url": "https://www.originkit.dev/sections/hero-36"
+  },
+  {
+   "name": "hero-37",
+   "url": "https://www.originkit.dev/sections/hero-37"
+  },
+  {
+   "name": "hero-38",
+   "url": "https://www.originkit.dev/sections/hero-38"
+  },
+  {
+   "name": "hero-39",
+   "url": "https://www.originkit.dev/sections/hero-39"
+  },
+  {
+   "name": "hero-40",
+   "url": "https://www.originkit.dev/sections/hero-40"
+  },
+  {
+   "name": "hero-41",
+   "url": "https://www.originkit.dev/sections/hero-41"
+  },
+  {
+   "name": "hero-42",
+   "url": "https://www.originkit.dev/sections/hero-42"
+  },
+  {
+   "name": "hero-43",
+   "url": "https://www.originkit.dev/sections/hero-43"
+  },
+  {
+   "name": "hero-44",
+   "url": "https://www.originkit.dev/sections/hero-44"
+  },
+  {
+   "name": "hero-45",
+   "url": "https://www.originkit.dev/sections/hero-45"
+  },
+  {
+   "name": "hero-46",
+   "url": "https://www.originkit.dev/sections/hero-46"
+  },
+  {
+   "name": "hero-47",
+   "url": "https://www.originkit.dev/sections/hero-47"
+  },
+  {
+   "name": "pricing-01",
+   "url": "https://www.originkit.dev/sections/pricing-01"
+  },
+  {
+   "name": "pricing-02",
+   "url": "https://www.originkit.dev/sections/pricing-02"
+  },
+  {
+   "name": "pricing-03",
+   "url": "https://www.originkit.dev/sections/pricing-03"
+  }
+ ],
+ "categories": [
+  "https://www.originkit.dev/category/image-gallery",
+  "https://www.originkit.dev/category/interactive-elements",
+  "https://www.originkit.dev/category/animation",
+  "https://www.originkit.dev/category/background-animation",
+  "https://www.originkit.dev/category/games",
+  "https://www.originkit.dev/category/text",
+  "https://www.originkit.dev/category/button",
+  "https://www.originkit.dev/category/border",
+  "https://www.originkit.dev/category/image",
+  "https://www.originkit.dev/category/cursor",
+  "https://www.originkit.dev/category/loader",
+  "https://www.originkit.dev/sections/category/hero",
+  "https://www.originkit.dev/sections/category/features",
+  "https://www.originkit.dev/sections/category/pricing",
+  "https://www.originkit.dev/sections/category/cta",
+  "https://www.originkit.dev/sections/category/footer"
+ ]
+}

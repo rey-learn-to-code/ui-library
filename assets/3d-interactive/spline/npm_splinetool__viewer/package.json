@@ -1,0 +1,74 @@
+{
+	"name": "@splinetool/viewer",
+	"version": "2.0.75",
+	"description": "Spline is a collaborative design platform for creating production-ready interactive experiences in multiple dimensions. © 2025 Spline, Inc.",
+	"keywords": [
+		"spline",
+		"3D",
+		"webgl",
+		"shader",
+		"interactive",
+		"collaborative",
+		"web-components",
+		"lit-element",
+		"typescript",
+		"lit"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/splinetool/spline.git",
+		"directory": "packages/viewer"
+	},
+	"type": "module",
+	"main": "./build/spline-viewer.js",
+	"module": "./build/spline-viewer.js",
+	"types": "./build/spline-viewer.d.ts",
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org",
+		"access": "public"
+	},
+	"exports": {
+		".": {
+			"types": "./build/spline-viewer.d.ts",
+			"import": "./build/spline-viewer.js",
+			"require": "./build/spline-viewer.cjs"
+		}
+	},
+	"files": [
+		"AGENTS.md",
+		"build",
+		"README.md"
+	],
+	"scripts": {
+		"build": "cross-env NODE_ENV=production node --experimental-json-modules ./esbuild.mjs && npm run build-types",
+		"build-types": "tsc --skipLibCheck --isolatedModules false --noEmit false --emitDeclarationOnly --declaration --outDir build/ --declarationMap false",
+		"format": "oxfmt src/",
+		"format:check": "oxfmt --check src/",
+		"check-types": "tsc --noEmit",
+		"check-bundler-urls": "node ../runtime/scripts/check-bundler-urls.mjs",
+		"prepublishOnly": "node ../../scripts/verify-publish-target.mjs",
+		"example": "cross-env IS_PROD=true npm run build && vite",
+		"test": "npm run test:dev && npm run test:prod",
+		"test:dev": "wtr src",
+		"test:prod": "MODE=prod wtr src"
+	},
+	"dependencies": {
+		"lit": "2.6.0"
+	},
+	"devDependencies": {
+		"@dimforge/rapier3d": "0.19.3",
+		"@dimforge/rapier3d-compat": "0.19.3",
+		"@open-wc/testing": "3.2.2",
+		"@splinetool/runtime": "*",
+		"@web/dev-server-esbuild": "1.0.4",
+		"@web/dev-server-legacy": "2.1.1",
+		"@web/test-runner": "1.0.0",
+		"@webcomponents/webcomponentsjs": "2.7.0",
+		"cross-env": "7.0.3",
+		"esbuild": "0.15.16",
+		"rimraf": "3.0.2",
+		"typescript": "^5.2.2",
+		"vite": "6.4.3",
+		"vite-plugin-static-copy": "4.1.1"
+	}
+}

@@ -1,0 +1,122 @@
+[
+ {
+  "url": "https://undraw.co/illustrations",
+  "status": "link-only",
+  "local_path": null,
+  "license": "unDraw License (free, no credit needed; no bundling into packs or scraping)",
+  "size": null,
+  "items": 0,
+  "notes": "The unDraw license forbids automated downloads and bundling/redistributing illustrations as packs, and robots.txt blocks /api/ and SVG files for AI bots, so no bulk download was done.",
+  "usage": "Go to undraw.co, pick a main color, then download individual SVGs as needed for empty pages, onboarding or landing pages; no credit needed."
+ },
+ {
+  "url": "https://storyset.com/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "Storyset/Freepik: free with credit; no robot downloads and no adding to libraries/collections",
+  "size": null,
+  "items": 0,
+  "notes": "Storyset's terms forbid downloading with robots/tools and adding content to databases, collections or libraries, so only the link is saved.",
+  "usage": "Download each illustration by hand (colors/animation can be edited on the site) and credit 'Illustration by Storyset' with a link to storyset.com."
+ },
+ {
+  "url": "https://www.humaaans.com/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "CC0 (Pablo Stanley)",
+  "size": null,
+  "items": 0,
+  "notes": "The download button leads to Gumroad (pablostanley.gumroad.com/l/humaaans), which asks for an email; there is no public direct download link, so only the link is saved.",
+  "usage": "Download the Sketch/Figma/SVG pack yourself via Gumroad or use it on Blush; it is CC0, so use it freely and combine characters for landing pages."
+ },
+ {
+  "url": "https://haikei.app/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "SVG generator app; the free plan needs no sign-up (details on the Pricing page)",
+  "size": null,
+  "items": 0,
+  "notes": "Haikei is an online SVG background generator with no downloadable asset pack; instead, 40 original SVG backgrounds were created in assets/backgrounds/generated.",
+  "usage": "Open haikei.app to create waves, blobs, layered shapes... then export SVG/PNG; or use the backgrounds made for this library (change colors with the --bg-* CSS variables)."
+ },
+ {
+  "url": "https://www.svgbackgrounds.com/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "The free plan requires credit; the Pro plan is paid (could not be verified because access was blocked)",
+  "size": null,
+  "items": 0,
+  "notes": "The site returns a Cloudflare challenge (403) to automated access; it was not bypassed, so only the link is saved and the terms were not checked directly.",
+  "usage": "Open it in a browser, customize the background and copy the CSS/SVG code; if you use the free version, give credit as the site explains."
+ },
+ {
+  "url": "https://www.fffuel.co/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "fffuel license: personal/commercial use, no credit needed; sharing/redistributing the images is not allowed",
+  "size": null,
+  "items": 0,
+  "notes": "fffuel is a set of SVG generators (blobs, waves, noise, gradients...) with no downloadable pack, and the license forbids redistributing images, so nothing was saved to the library.",
+  "usage": "Use tools like sssurf, gggrain and ssshape to create SVGs for each project, then save them directly in that project."
+ },
+ {
+  "url": "https://shots.so/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "Online mockup generator (paid plans available)",
+  "size": null,
+  "items": 0,
+  "notes": "Shots is a web-based mockup generator with no public downloadable assets, so only the link is saved.",
+  "usage": "Upload a screenshot to shots.so to place it in a device frame with a background and shadow, then export a product showcase image."
+ },
+ {
+  "url": "https://mockupbro.com/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "Free online mockup generator (per the site's terms)",
+  "size": null,
+  "items": 0,
+  "notes": "MockupBro is an online mockup generator (upload a design, then download the image) and offers no downloadable template packs, so only the link is saved.",
+  "usage": "Pick a template (devices, print, apparel, packaging), upload your design and download the mockup image without a watermark."
+ },
+ {
+  "url": "https://mockuphone.com/",
+  "status": "downloaded",
+  "local_path": "assets/mockup/mockuphone-com",
+  "license": "Code is Apache-2.0; device frame images are CC BY 3.0 (credit required, see ATTRIBUTION.txt)",
+  "size": "103M",
+  "items": 342,
+  "notes": "Downloaded 342 PNG device frames (mockup_templates) and device_info.json from the open-source repo oursky/mockuphone.com using sparse checkout. Also includes 2 CSS device frame sets (MIT) in assets/mockup/css-devices.",
+  "usage": "Place the screenshot under the PNG frame using the coordinates in device_info.json, or use devices.css to build frames in HTML/CSS; credit MockUPhone as described in ATTRIBUTION.txt."
+ },
+ {
+  "url": "https://shapefest.com/",
+  "status": "link-only",
+  "local_path": null,
+  "license": "Shapefest License: may be used in projects; may not be redistributed as a library, even for free",
+  "size": null,
+  "items": 0,
+  "notes": "Downloading the packs requires login/All Access and the license forbids redistributing them as a library, so nothing was saved to the library.",
+  "usage": "Log in yourself and download the free 512px pack when you need 3D illustrations for landing pages or slides; do not bundle them into packs."
+ },
+ {
+  "url": "https://icons8.com/illustrations",
+  "status": "link-only",
+  "local_path": null,
+  "license": "Icons8: the free version requires credit (link to icons8), with limited resolution; per Icons8's terms",
+  "size": null,
+  "items": 0,
+  "notes": "The site returns 403 to automated access and full-quality downloads need an account/payment, so only the link is saved (terms not checked directly).",
+  "usage": "Browse in a web browser, download free PNGs and credit Icons8 as instructed; buy a plan if you need SVG or no-credit use."
+ },
+ {
+  "url": "https://old.3dicons.co/",
+  "status": "downloaded",
+  "local_path": "assets/3d-icons/old-3dicons-co",
+  "license": "CC0 1.0 (Vijay Verma)",
+  "size": "138M",
+  "items": 1440,
+  "notes": "Downloaded all of 3dicons V1: 120 icons × 3 angles × 4 styles from the public CDN listed in the CC0 repo realvjy/3dicons, plus png/index.json and the site's source code.",
+  "usage": "Use the 3D PNGs as icons/illustrations for landing pages, slides and apps; they are CC0, so no credit is needed. Look up names/categories in png/index.json."
+ }
+]

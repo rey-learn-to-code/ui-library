@@ -1,0 +1,22 @@
+# AI Automation Agency Landing Page Template
+
+- Source: https://www.aura.build/templates/ai-automation-0
+- Category: Web
+- Tags: Landing Page, Services, Technology, Brand, Dark, Gradient, Minimal, Large Type, AI automation, Agency
+- Tier: Free
+- Preview image/video (link only, not downloaded): https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/preview-images/shared-code-previews/ai-automation-0-preview-1765449350210.jpeg
+- live_preview: https://ai-automation-0.aura.build
+- type: html
+- views: 63
+- creator: -
+- createdAt: 2025-12-09
+- License note: Templates made by the Aura community (operated by DESIGNCODE IO PTE. LTD.). Viewing/previewing is public; "Copy prompt"/"Use for Free"/code export need login; Pro needs a paid plan; Paid is sold separately. Only metadata + link are stored.
+- Collected on: 2026-10-09
+
+## Description (from the source page)
+
+A high-converting AI automation agency landing page template for showcasing services, pricing, and demos to win high-ticket automation clients.
+
+## Prompt
+
+Login required: the "Copy prompt" button on Aura requires login (even for Free templates).

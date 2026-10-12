@@ -1,0 +1,212 @@
+{
+ "license": "Original work created in ui-library - free to use",
+ "count": 40,
+ "css_vars": [
+  "--bg-bg",
+  "--bg-c1",
+  "--bg-c2",
+  "--bg-c3"
+ ],
+ "items": [
+  {
+   "file": "waves-01.svg",
+   "title": "Layered waves 1",
+   "kind": "waves"
+  },
+  {
+   "file": "waves-02.svg",
+   "title": "Layered waves 2",
+   "kind": "waves"
+  },
+  {
+   "file": "waves-03.svg",
+   "title": "Layered waves 3",
+   "kind": "waves"
+  },
+  {
+   "file": "waves-04.svg",
+   "title": "Layered waves 4",
+   "kind": "waves"
+  },
+  {
+   "file": "waves-05.svg",
+   "title": "Layered waves 5",
+   "kind": "waves"
+  },
+  {
+   "file": "waves-06.svg",
+   "title": "Layered waves 6",
+   "kind": "waves"
+  },
+  {
+   "file": "mountains-01.svg",
+   "title": "Layered mountains 1",
+   "kind": "layered-peaks"
+  },
+  {
+   "file": "mountains-02.svg",
+   "title": "Layered mountains 2",
+   "kind": "layered-peaks"
+  },
+  {
+   "file": "mountains-03.svg",
+   "title": "Layered mountains 3",
+   "kind": "layered-peaks"
+  },
+  {
+   "file": "mountains-04.svg",
+   "title": "Layered mountains 4",
+   "kind": "layered-peaks"
+  },
+  {
+   "file": "mountains-05.svg",
+   "title": "Layered mountains 5",
+   "kind": "layered-peaks"
+  },
+  {
+   "file": "mountains-06.svg",
+   "title": "Layered mountains 6",
+   "kind": "layered-peaks"
+  },
+  {
+   "file": "blob-01.svg",
+   "title": "Blob 1",
+   "kind": "blobs"
+  },
+  {
+   "file": "blob-02.svg",
+   "title": "Blob 2",
+   "kind": "blobs"
+  },
+  {
+   "file": "blob-03.svg",
+   "title": "Blob 3",
+   "kind": "blobs"
+  },
+  {
+   "file": "blob-04.svg",
+   "title": "Soft blurred blob 4",
+   "kind": "blobs"
+  },
+  {
+   "file": "blob-05.svg",
+   "title": "Soft blurred blob 5",
+   "kind": "blobs"
+  },
+  {
+   "file": "blob-06.svg",
+   "title": "Soft blurred blob 6",
+   "kind": "blobs"
+  },
+  {
+   "file": "grid-01.svg",
+   "title": "Grid 40px",
+   "kind": "grid"
+  },
+  {
+   "file": "grid-02.svg",
+   "title": "Grid 80px",
+   "kind": "grid"
+  },
+  {
+   "file": "grid-03.svg",
+   "title": "Grid 40px, fading",
+   "kind": "grid"
+  },
+  {
+   "file": "grid-04.svg",
+   "title": "Grid 60px, fading",
+   "kind": "grid"
+  },
+  {
+   "file": "dots-01.svg",
+   "title": "Polka dots 24px",
+   "kind": "dots"
+  },
+  {
+   "file": "dots-02.svg",
+   "title": "Polka dots 40px",
+   "kind": "dots"
+  },
+  {
+   "file": "dots-03.svg",
+   "title": "Polka dots 32px",
+   "kind": "dots"
+  },
+  {
+   "file": "dots-04.svg",
+   "title": "Polka dots 60px",
+   "kind": "dots"
+  },
+  {
+   "file": "grain-01.svg",
+   "title": "Grainy gradient 1",
+   "kind": "noise-grain"
+  },
+  {
+   "file": "grain-02.svg",
+   "title": "Grainy gradient 2",
+   "kind": "noise-grain"
+  },
+  {
+   "file": "grain-03.svg",
+   "title": "Grainy gradient 3",
+   "kind": "noise-grain"
+  },
+  {
+   "file": "grain-04.svg",
+   "title": "Grainy gradient 4",
+   "kind": "noise-grain"
+  },
+  {
+   "file": "mesh-01.svg",
+   "title": "Gradient mesh 1",
+   "kind": "gradient-mesh"
+  },
+  {
+   "file": "mesh-02.svg",
+   "title": "Gradient mesh 2",
+   "kind": "gradient-mesh"
+  },
+  {
+   "file": "mesh-03.svg",
+   "title": "Gradient mesh 3",
+   "kind": "gradient-mesh"
+  },
+  {
+   "file": "mesh-04.svg",
+   "title": "Gradient mesh 4 with grain",
+   "kind": "gradient-mesh"
+  },
+  {
+   "file": "mesh-05.svg",
+   "title": "Gradient mesh 5 with grain",
+   "kind": "gradient-mesh"
+  },
+  {
+   "file": "mesh-06.svg",
+   "title": "Gradient mesh 6 with grain",
+   "kind": "gradient-mesh"
+  },
+  {
+   "file": "diagonal-stripes-01.svg",
+   "title": "Diagonal stripes",
+   "kind": "stripes"
+  },
+  {
+   "file": "circles-01.svg",
+   "title": "Concentric circles",
+   "kind": "concentric"
+  },
+  {
+   "file": "contours-01.svg",
+   "title": "Contour lines 1",
+   "kind": "topographic"
+  },
+  {
+   "file": "contours-02.svg",
+   "title": "Contour lines 2",
+   "kind": "topographic"
+  }
+ ]
+}
