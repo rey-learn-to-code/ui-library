@@ -64,7 +64,7 @@ git --version && python3 --version
 
 ### Step 3: Download (clone) the library
 
-Because the library is **private**, GitHub needs to know it's you. Pick **one** of the two options.
+Because the library is **private**, GitHub needs to know it's you. Pick **one** of the three options.
 
 #### Option A (easiest, no typing): GitHub Desktop
 
@@ -89,6 +89,32 @@ Because the library is **private**, GitHub needs to know it's you. Pick **one** 
 4. Clone the library into your Documents folder:
    ```bash
    gh repo clone rey-learn-to-code/ui-library ~/Documents/ui-library
+   ```
+
+#### Option C: SSH key (no logging in again, good if the computer has several GitHub accounts)
+
+An SSH key is like a house key: the private half stays on the computer, the public half (the "lock") is added to your GitHub account. Each computer needs its own key, and one key can belong to only one GitHub account.
+
+1. Create a key just for `rey-learn-to-code` (press Return if it asks anything):
+   ```bash
+   ssh-keygen -t ed25519 -C "rey-learn-to-code" -f ~/.ssh/id_ed25519_rey -N ""
+   ```
+2. Give the key a nickname so it's never confused with another account's key. This adds a few lines to `~/.ssh/config`:
+   ```bash
+   printf 'Host github.com-rey\n  HostName github.com\n  User git\n  IdentityFile ~/.ssh/id_ed25519_rey\n  IdentitiesOnly yes\n' >> ~/.ssh/config
+   ```
+3. Copy the public key to the clipboard:
+   ```bash
+   pbcopy < ~/.ssh/id_ed25519_rey.pub
+   ```
+4. Add it to GitHub: sign in **as `rey-learn-to-code`** at https://github.com/settings/keys → **New SSH key** → give it a title (e.g. the computer's name) → paste → **Add SSH key**.
+5. Test it. The first time it asks "Are you sure you want to continue connecting?": type `yes`. You should see `Hi rey-learn-to-code!`:
+   ```bash
+   ssh -T git@github.com-rey
+   ```
+6. Clone the library using the nickname:
+   ```bash
+   git clone git@github.com-rey:rey-learn-to-code/ui-library.git ~/Documents/ui-library
    ```
 
 ### Step 4: Run the installer
